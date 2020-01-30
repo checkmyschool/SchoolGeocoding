@@ -1,0 +1,2400 @@
+,school_id,region,division,district,school_name,street_address
+0,151009,Region I,La Union,Bauang North,EULOGIO CLARENCE M. DE GUZMAN Jr. ELEMENTARY SCHOOL,Pagdalagan Sur
+1,100185,Region I,Ilocos Norte,Paoay,Nagbacalan ES,Nagbacalan
+2,101299,Region I,"Pangasinan I, Lingayen",Bayambang II,Paragos ES,"Brgy. Paragos, Bayambang, Pangasinan"
+3,101146,Region I,"Pangasinan I, Lingayen",Agno,San Juan Elementary School,"San Juan Agno, Pangasinan"
+4,104056,Region II,Nueva Vizcaya,Dupax del Sur,Abaca ES,Abaca
+5,104108,Region II,Nueva Vizcaya,Western Kayapa,Abat Primary School,"Cabayo, Kayapa, Nueva Vizcaya"
+6,103966,Region II,Nueva Vizcaya,Bambang II,Abian ES,-Abian Bambang Nueva VIzcaya
+7,103562,Region II,Isabela,Quezon,Abut ES,-
+8,104187,Region II,Nueva Vizcaya,Alfonso Castañeda,Abuyo ES,mulawin
+9,104109,Region II,Nueva Vizcaya,Eastern Kayapa,Acacia PS,"Acacia Proper, Kayapa, Nueva Vizcaya"
+10,103384,Region II,City of Ilagan,South,Aggassian ES,"Aggassian, Ilagan, Isabela"
+11,156015,Region II,Nueva Vizcaya,Alfonso Castañeda,Alfonso Castaneda CS Annex,"-Lublub, A. Castaneda, N. Vizcaya"
+12,103951,Region II,Nueva Vizcaya,Bambang I,Aliaga ES,Purok 1
+13,102988,Region II,Isabela,Alicia North,Alicia North Central School,Valdez St.
+14,104073,Region II,Nueva Vizcaya,Kasibu East,Alimit Elementary School,
+15,104074,Region II,Nueva Vizcaya,Kasibu West,Alloy ES,"Alloy, Kasibu, Nueva Vizcaya"
+16,103534,Region II,Isabela,Palanan,Alomanay ES,Alomanay
+17,103980,Region II,Nueva Vizcaya,Ambaguio,Ambaguio CS,Provincial Road
+18,103929,Region II,Nueva Vizcaya,Bagabag II,Amballo Resettlement ES,-
+19,103981,Region II,Nueva Vizcaya,Bayombong I,Ammococan ES,Provincial Road
+20,104015,Region II,Nueva Vizcaya,Diadi,Ampakleng Elementary School,-
+21,103872,Region II,Isabela,Sto. Tomas,Ammugauan Primary School,NOT APPLICABLE
+22,103099,Region II,Isabela,Benito Soliven,Andabuen Elementary School - Annex,2
+23,103098,Region II,Isabela,Benito Soliven,Andabuen Elementary School - Main,Purok 3
+24,103795,Region II,Isabela,San Pablo,Annanuman Elementary School,Annanuman
+25,104110,Region II,Nueva Vizcaya,Western Kayapa,Ansipsip PS,
+26,103887,Region II,Isabela,Tumauini South,Antagan 1st Elementary School - Main,Purok I
+27,103888,Region II,Isabela,Tumauini South,Antagan 1st ES - Sitio Magoli Annex,"Antagan Tumauini, Isabela"
+28,103889,Region II,Isabela,Tumauini South,Antagan 2nd Elementary School,"Purok 6 Antagan 2nd, Tumauini, Isabela"
+29,104075,Region II,Nueva Vizcaya,Kasibu West,Antutot E/S,"Centro, Antutot, Kasibu, Nueva Vizcaya"
+30,103100,Region II,Isabela,Benito Soliven,Ara Elementary School,
+31,103306,Region II,Isabela,Echague South,Arabiat Elementary School,Purok 4
+32,103283,Region II,Isabela,Echague East,Aromin Elementary School,PUROK 2 AROMIN
+33,103563,Region II,Isabela,Quezon,Aurora Elementary School,-
+34,104147,Region II,Nueva Vizcaya,Quezon,Aurora ES,"-Barangay Aurora, Quezon, Nueva Vizcaya"
+35,103933,Region II,Nueva Vizcaya,Bagabag I,B.A.Bugayong Elementary School,"Bakir, Bagabag, Nueva Vizcaya"
+36,104141,Region II,Nueva Vizcaya,Eastern Kayapa,Baan Elementary School,"Baan, Kayapa, Nueva Vizcaya"
+37,104111,Region II,Nueva Vizcaya,Eastern Kayapa,Babadi Elementary School,-n/a
+38,103307,Region II,Isabela,Echague South,Babaran Elementary School,"Babaran, Echague, Isabela"
+39,103308,Region II,Isabela,Echague South,Bacradal Elementary School,"-Bacradal echague, Isabela"
+40,103930,Region II,Nueva Vizcaya,Bagabag I,Bagabag Central School,-Banos Street
+41,103859,Region II,Isabela,Sto. Tomas,Bagabag Primary School,
+42,103932,Region II,Nueva Vizcaya,Bagabag I,BAGABAG SOUTH ES,National Highway
+43,104176,Region II,Nueva Vizcaya,Solano II,Baguingey ES,"Villaverde St.,"
+44,103860,Region II,Isabela,Sto. Tomas,Bagutari Elementary School,Purok 1
+45,103729,Region II,Isabela,San Mariano I,Balagan Elementary School,-n/a
+46,103849,Region II,Isabela,Sta. Maria,Balagan Primary School,Balagan
+47,104112,Region II,Nueva Vizcaya,Western Kayapa,Balangabang ES,Dilan
+48,103143,Region II,Isabela,Cabagan,Balasig Elementary School,"Balasig, Cabagan, Isabela"
+49,104017,Region II,Nueva Vizcaya,Diadi,Balete ES,"purok 2, National Rd."
+50,104193,Region II,Nueva Vizcaya,Alfonso Castañeda,Balintugon ES,
+51,103797,Region II,Isabela,San Pablo,Ballacayu Elementary School,"Ballacayu, San Pablo, Isabela"
+52,103101,,,,,
+53,103983,Region II,Nueva Vizcaya,Ambaguio,Balong ES,Provincial Road
+54,103971,Region II,Nueva Vizcaya,Bambang II,Bambang East ES,Gaffuy St.
+55,103953,Region II,Nueva Vizcaya,Bambang I,Bambang West ES,"Private Road, Purok 4"
+56,104114,Region II,Nueva Vizcaya,Western Kayapa,Ban-et PS,
+57,104113,Region II,Nueva Vizcaya,Western Kayapa,Banao ES,-Banao
+58,103843,Region II,Isabela,Sta. Maria,Bangad Elementary School,-
+59,104057,Region II,Nueva Vizcaya,Dupax del Sur,Banila ES,"Banila, Dupax del Sur"
+60,156013,Region II,Nueva Vizcaya,Bayombong I,Bansing ES,Provincial Road
+61,103895,Region II,Isabela,Tumauini South,Bantug Elementary School,"BANTUG,TUMAUINI, ISABELA"
+62,103954,Region II,Nueva Vizcaya,Bambang I,Barat ES,"Salinas Road, Barat, Bambang, NV"
+63,104148,Region II,Nueva Vizcaya,Quezon,Baresbes ES,BARESBES
+64,103934,Region II,Nueva Vizcaya,Bagabag II,Baretbet ES,Purok 3
+65,103564,Region II,Isabela,Quezon,Barucboc Elementary School,-
+66,103650,Region II,Isabela,San Agustin,Bautista Elementary School - Annex,"Purok 1 Bautista, San Agustin, Isabela"
+67,103649,Region II,Isabela,San Agustin,Bautista Elementary School - Main,Purok 5
+68,103892,Region II,Isabela,Tumauini South,Bayabo East Elementary School,Bayabo Street
+69,103985,Region II,Nueva Vizcaya,Bayombong I,Bayombong South ES,Magsaysay St.
+70,103284,Region II,Isabela,Echague East,Benguet Elementary School,Purok 4 Benguet Echague
+71,104115,Region II,Nueva Vizcaya,Western Kayapa,Besong ES,
+72,104058,Region II,Nueva Vizcaya,Dupax del Sur,Betawang ES,"-Makataed, Kimbutan Dupax del Sur"
+73,103535,Region II,Isabela,Palanan,Bicobian Elementary School,Purok 1
+74,104076,Region II,Nueva Vizcaya,Kasibu East,Bilet ES,"Bilet, Kasibu, Nueva Vizcaya"
+75,103798,Region II,Isabela,San Pablo,Binguang Elementary School,"Alconcer St. Zone 4, Binguang, San Pablo, Isabela"
+76,104077,Region II,Nueva Vizcaya,Kasibu East,Binogawan ES,MUNICIPAL ROAD
+77,155517,Region II,Isabela,Benito Soliven,Binogtungan Elementary School,Purok #02 BINOGTUNGAN B.SOL.ISABELA
+78,103536,Region II,Isabela,Palanan,Bisag Elementary School,not available
+79,104078,Region II,Nueva Vizcaya,Kasibu West,Biyoy ES,"Centro,Biyoy Kasibu Nueva Vizcaya"
+80,104149,Region II,Nueva Vizcaya,Quezon,Bonifacio Elementary School,Bonifacio
+81,103857,Region II,Isabela,Sto. Tomas,Bubug Elementary School,
+82,103844,Region II,Isabela,Sta. Maria,Buenavista Elementary School,"Buenavista Santa Maria, Isabela"
+83,104215,Region II,Nueva Vizcaya,Villaverde,Buenavista ES,Provincial Road
+84,104018,Region II,Nueva Vizcaya,Diadi,Bugnay ES,-
+85,104150,Region II,Nueva Vizcaya,Quezon,Buliwao ES,-
+86,104117,Region II,Nueva Vizcaya,Western Kayapa,Bulo-Galsa PS,not applicable
+87,103328,Region II,Isabela,Echague West,Buneg Elementary School,ANTONIO STREET
+88,103799,Region II,Isabela,San Pablo,Bungad Elementary School,-purok 2
+89,104151,Region II,Nueva Vizcaya,Quezon,Busat ES,-
+90,103309,Region II,Isabela,Echague South,Busilelao Elementary School,
+91,104019,Region II,Nueva Vizcaya,Diadi,Butao Elementary School,-Butao
+92,103731,Region II,Isabela,San Mariano I,Buyasan ES (Buyasan PS),"Buyasan, San Mariano, Isabela"
+93,104118,Region II,Nueva Vizcaya,Eastern Kayapa,Buyasyas PS,-
+94,104119,Region II,Nueva Vizcaya,Eastern Kayapa,Cabanglasan PS,-
+95,103418,Region II,City of Ilagan,Northwest,Cabannungan 1st ES,-
+96,104120,Region II,Nueva Vizcaya,Western Kayapa,Cabayo ES,Anit-it
+97,103390,Region II,City of Ilagan,San Antonio,Cabeceria 24 ES,-
+98,103391,Region II,City of Ilagan,South,Cabeseria 25 Elementary School,Tomas Street
+99,103392,Region II,City of Ilagan,South,Cabeceria 27 ES,Purok 07
+100,104152,Region II,Nueva Vizcaya,Quezon,Cabinnuangan ES,Cabinnuangan
+101,103987,Region II,Nueva Vizcaya,Ambaguio,Cablahan Elementary School,Provincial Road
+102,104006,Region II,Nueva Vizcaya,Bayombong II,Cabuaan ES,"-Cabuaan, Bayombong, Nueva Vizcaya"
+103,103800,Region II,Isabela,San Pablo,Caddangan Primary School,-
+104,155053,Region II,Cagayan,Baggao East,Cagurungan Elementary School,Cagurungan
+105,104178,Region II,Nueva Vizcaya,Solano II,Calaoagan Elementary School,Sitio Calaoagan
+106,103103,Region II,Isabela,Benito Soliven,Calaocan Elementary School,District 1
+107,103651,Region II,Isabela,San Agustin,Calaocan Primary School,"Enriquez Street,Calaocan,San Agustin,Isabela"
+108,103893,Region II,Isabela,Tumauini South,Caligayan Elementary School,-n/a
+109,103565,Region II,Isabela,Quezon,Callangigan Elementary School,n/an/a
+110,104080,Region II,Nueva Vizcaya,Kasibu East,Camamasi PS,-
+111,103873,Region II,Isabela,Tumauini North,Camasi Elementary School,Purok 3
+112,103310,Region II,Isabela,Echague South,Caniguing Elementary School,Purok #2
+113,103866,Region II,Isabela,Sto. Tomas,CaÃ±ogan Elementary School,
+114,104081,Region II,Nueva Vizcaya,Kasibu East,Capisaan E/S,"Capisaan, Kasibu, Nueva Vizcaya"
+115,103396,Region II,City of Ilagan,San Antonio,Capugotan ES,-
+116,103104,Region II,Isabela,Benito Soliven,Capuseran Elementary School,Purok 3
+117,103802,Region II,Isabela,San Pablo,Caralucud Primary School,-
+118,103935,Region II,Nueva Vizcaya,Bagabag I,Careb ES,"-Careb, Bagabag, Nueva Vizcaya"
+119,104121,Region II,Nueva Vizcaya,Eastern Kayapa,Caritas Village Elementary school,Caritas Village
+120,104060,Region II,Nueva Vizcaya,Dupax del Sur,Carolotan ES,"-Tanibong,mangayang,Dupax del Sur,Nueva Vizcaya"
+121,103750,Region II,Isabela,San Mariano II,Casala Elementary School,Purok 4
+122,104041,Region II,Nueva Vizcaya,Dupax del Norte II,Casecnan PS,-
+123,103286,Region II,Isabela,Echague East,Castillo Elementary School,Prk.3 National Highway
+124,104061,Region II,Nueva Vizcaya,Dupax del Sur,Castro ES,-
+125,103751,Region II,Isabela,San Mariano II,Cataguing Elementary School,Purok 02
+126,104082,Region II,Nueva Vizcaya,Kasibu West,Catarawan ES,"Catarawan, Kasibu"
+127,104197,Region II,Nueva Vizcaya,Sta. Fe,Cauco ES,-
+128,103733,Region II,Isabela,San Mariano I,Caunayan Elementary School,Sitio Caunayan
+129,103955,Region II,Nueva Vizcaya,Bambang I,Cawacao Elementary School,Prk. 2
+130,104198,Region II,Nueva Vizcaya,Alfonso Castañeda,Cawayan ES,n\a
+131,155520,Region II,Isabela,Palanan,Centro West Primary School,-
+132,104083,Region II,Nueva Vizcaya,Kasibu West,Cordon Elementary School,"Cordon, Kasibu, Nueva Vizcaya"
+133,103653,Region II,Isabela,San Agustin,Dabubu Elementary School,Purok 6
+134,103652,Region II,Isabela,San Agustin,Dabubu Grande Elementary School,"-Dabubu Grande, San Agustin, Isabela"
+135,103988,Region II,Nueva Vizcaya,Ambaguio,DACLIG ELEMENTARY SCHOOL,"DACLIG, POBLACION, AMBAGUIO, NUEVA VIZCAYA"
+136,155518,Region II,Isabela,Benito Soliven,Dagupan Elementary School,Purok 3
+137,155533,Region II,Isabela,Tumauini North,Dalayya Elementary School,-SITIO DALAYYA
+138,103803,Region II,Isabela,San Pablo,Dalena Elementary School,Zone 1
+139,103329,Region II,Isabela,Echague West,Dammang East Elementary School,Dammang East
+140,103330,Region II,Isabela,Echague West,Dammang Malitao Elementary School,"Dammang Malitao,Echague,Isabela"
+141,103105,Region II,Isabela,Benito Soliven,Danipa Elementary School,"-Brgy. Danipa,"
+142,103654,Region II,Isabela,San Agustin,Dappig Primary School,Provincial Road
+143,103734,Region II,Isabela,San Mariano I,Daragutan East Elementary School,Purok 02
+144,104122,Region II,Nueva Vizcaya,Western Kayapa,Dayap PS,-
+145,104123,Region II,Nueva Vizcaya,Eastern Kayapa,Dempeg Elementary school,-
+146,104021,Region II,Nueva Vizcaya,Diadi,DIADI CENTRAL SCHOOL,- Purok 02
+147,103287,Region II,Isabela,Echague East,Diasan Elementary School,"-DIASAN, ECHAGUE, ISABELA"
+148,103540,Region II,Isabela,Palanan,Dibewan Elementary School,dibewan
+149,103753,Region II,Isabela,San Mariano II,Dibuluan Elementary School,
+150,103542,Region II,Isabela,Palanan,Dibungko Primary School,Dibungko
+151,103543,Region II,Isabela,Palanan,Dibutarek Elementary School,-
+152,103288,Region II,Isabela,Echague East,Dicaraoyan Elementary School,"p-2 brgy Dicaraoyan Echague, Isabela"
+153,103544,Region II,Isabela,Palanan,Diddadungan Elementary School,"-Diddadungan,Palanan,Isabela"
+154,104084,Region II,Nueva Vizcaya,Kasibu East,Didipio ES,Centro Didipio
+155,103545,Region II,Isabela,Palanan,Didiyan Elementary School,Purok 1
+156,103546,Region II,Isabela,Palanan,Dikadyuan Elementary School,-none
+157,155525,Region II,Isabela,Palanan,Dimalicu-licu Primary School,-CENTRO
+158,103548,Region II,Isabela,Palanan,Dimasalansan Elementary School,Purok 1
+159,103549,Region II,Isabela,Palanan,Dimasari Elementary School,-n/a
+160,103550,Region II,Isabela,Palanan,Dimatican Elementary School,-
+161,104085,Region II,Nueva Vizcaya,Kasibu West,Dine ES,"Dine, Kasibu"
+162,103552,Region II,Isabela,Palanan,Disukad Elementary School,-
+163,103755,Region II,Isabela,San Mariano II,Disulap Elementary School,Purok # 1
+164,103756,Region II,Isabela,San Mariano II,Disusuan Elementary School,"Disusuan,"
+165,103553,Region II,Isabela,Palanan,Ditambali Elementary School,-none
+166,103554,Region II,Isabela,Palanan,Divilacan Central School,-Dimapula
+167,103846,Region II,Isabela,Sta. Maria,Divisoria Elementary School,not applicabe
+168,103875,Region II,Isabela,Tumauini North,Divisoria Elementary School,Sitio Divisoria
+169,104086,Region II,Nueva Vizcaya,Kasibu West,Domang ES,"Domang, Nantawakan, Kasibu"
+170,103655,Region II,Isabela,San Agustin,Dorganda Elementary School,Purok I
+171,156006,Region II,Nueva Vizcaya,Bayombong I,Dr. Candido V. Rosario Sr. Elementary School,"Purok 7, Magsaysay, Bayombong"
+172,103289,Region II,Isabela,Echague East,Dugayong Elementary School,Purok 3
+173,103972,Region II,Nueva Vizcaya,Bambang II,Dullao ES,Purok 3
+174,103989,Region II,Nueva Vizcaya,Ambaguio,Dulli ES,Provincial Road
+175,104155,Region II,Nueva Vizcaya,Quezon,Dumaliguia ES,-
+176,103566,Region II,Isabela,Quezon,Dummon Elementary School,n/a n/a
+177,104022,Region II,Nueva Vizcaya,Diadi,Duruarog Elementary School,not applicable
+178,103894,Region II,Isabela,Tumauini South,Dy-Abra Elementary School,Not Applicable
+179,104023,Region II,Nueva Vizcaya,Diadi,Escoting ES,-
+180,103567,Region II,Isabela,Quezon,Estrada Elementary School,
+181,104219,Region II,Nueva Vizcaya,Villaverde,Felix-Juana Brawner Community School,Provincial Road
+182,104064,Region II,Nueva Vizcaya,Dupax del Sur,Gabut ES,Calaocan
+183,104199,Region II,Nueva Vizcaya,Alfonso Castañeda,Galintuja ES,purok 3
+184,104065,Region II,Nueva Vizcaya,Dupax del Sur,Ganao Elementary School,Ganao
+185,103757,Region II,Isabela,San Mariano II,Gangalan Elementary School,Purok # 5
+186,103333,Region II,Isabela,Echague West,Garit Elementary School,Garit Norte Echague Isabela
+187,155534,Region II,Isabela,Echague South,Garit Sur Elementary School,"-Garit Sur, Echague, Isabela"
+188,103106,Region II,Isabela,Benito Soliven,Gomez Elementary School,-Purok 2
+189,103334,Region II,Isabela,Echague West,Gucab Elementary School,NOT APPLICABLE
+190,103107,Region II,Isabela,Benito Soliven,Guilingan Elementary School,purok 5
+191,103291,Region II,Isabela,Echague East,Gumbauan Elementary School,Purok 02
+192,156003,Region II,Nueva Vizcaya,Ambaguio,Hamhamaan Elementary School,Provincial Road
+193,103737,Region II,Isabela,San Mariano I,Ibujan Elementary School,Purok 01
+194,103990,Region II,Nueva Vizcaya,Bayombong I,Kakilingan ES,Purok 7 Sitio Kakilingan
+195,156005,Region II,Nueva Vizcaya,Eastern Kayapa,Kapangan PS,Kapangan
+196,104088,Region II,Nueva Vizcaya,Kasibu West,Kasibu Central School,"Purok 5, Poblacion, Kasibu, Nueva Vizcaya"
+197,104094,Region II,Nueva Vizcaya,Kasibu East,Kasibu East CS,School site
+198,104124,Region II,Nueva Vizcaya,Western Kayapa,Kayapa CS,"Pampang, Kayapa, Nueva Vizcaya"
+199,104125,Region II,Nueva Vizcaya,Western Kayapa,Kayapa Proper ES,-N/A
+200,104126,Region II,Nueva Vizcaya,Western Kayapa,Kayapa Proper ES Annex,Bulo
+201,104067,Region II,Nueva Vizcaya,Dupax del Sur,Kinabuan ES,-
+202,103108,Region II,Isabela,Benito Soliven,La Salette ES,La Salette
+203,103991,Region II,Nueva Vizcaya,Ambaguio,Labang ES,Provincial Road
+204,104010,Region II,Nueva Vizcaya,Bayombong II,Labbu ES,
+205,104127,Region II,Nueva Vizcaya,Western Kayapa,Labeng PS,-Amelong-Labeng
+206,103973,Region II,Nueva Vizcaya,Bambang II,Labni ES,Purok 5
+207,104024,Region II,Nueva Vizcaya,Diadi,Langka PS,"-purok 02,Langka Diadi Nueva Vizcaya"
+208,103937,Region II,Nueva Vizcaya,Bagabag I,Lantap ES,Purok 2
+209,103632,Region II,Isabela,Roxas East,Lanting Elementary School,Filomena
+210,104128,Region II,Nueva Vizcaya,Eastern Kayapa,Latbang ES,Not Applicable
+211,104133,Region II,Nueva Vizcaya,Eastern Kayapa,Latbang ES-Annex,-
+212,104203,Region II,Nueva Vizcaya,Sta. Fe,Lawed PS,"Lawed,Canabuan,Santa Fe,Nueva Vizcaya"
+213,104129,Region II,Nueva Vizcaya,Western Kayapa,Lawigan ES,none
+214,103992,Region II,Nueva Vizcaya,Ambaguio,Laylaya PS,Provincial Road
+215,103568,Region II,Isabela,Quezon,Lepanto Elementary School - Main,n/an/a
+216,155508,Region II,Isabela,Quezon,Lepanto Elementary School - Talaca Annex,"Talaca, Lepanto, Quezon, Isabela"
+217,103312,Region II,Isabela,Echague South,Libertad Elementary School,-n/a
+218,103758,Region II,Isabela,San Mariano II,Libertad Elementary School,Purok 3 Brgy. Libertad San Mariano Isabela
+219,156012,Region II,Nueva Vizcaya,Ambaguio,Lihlit PS,Lihlit
+220,103804,Region II,Isabela,San Pablo,Limbauan Elementary School,-
+221,104204,Region II,Nueva Vizcaya,Alfonso Castañeda,Lipuga ES,Lipuga alfonso castaneda
+222,104090,Region II,Nueva Vizcaya,Kasibu West,Logpond-Sabungan PS,Logpond street
+223,103633,Region II,Isabela,Roxas East,Lucban Masigun Elementary School,000000
+224,104130,Region II,Nueva Vizcaya,Eastern Kayapa,Luclocos PS,"Luclucos, Nansiakan"
+225,104068,Region II,Nueva Vizcaya,Dupax del Sur,Lukidnon ES,Lukidnon
+226,104091,Region II,Nueva Vizcaya,Kasibu West,Lupa ES,"Lupa, kasibu"
+227,104025,Region II,Nueva Vizcaya,Diadi,Lurad ES,-purok 1
+228,104157,Region II,Nueva Vizcaya,Quezon,Maasin ES,-
+229,103292,Region II,Isabela,Echague East,Mabbayad Elementary School,purok 3
+230,103974,Region II,Nueva Vizcaya,Bambang II,Mabuslo ES,"Purok 3 , Mabuslo, Bambang, Nueva Vizcaya"
+231,103738,Region II,Isabela,San Mariano I,Macayucayu Elementary School,-n/a
+232,104131,Region II,Nueva Vizcaya,Eastern Kayapa,Macdu ES,"Macdu, Pinayag, Kayapa, Nueva Vizcaya"
+233,103555,Region II,Isabela,Palanan,Maconacon Central School,Ilang-Ilang Street
+234,103293,Region II,Isabela,Echague East,Madadamian Elementary School,-Purok 1
+235,104158,Region II,Nueva Vizcaya,Quezon,Maddiangat ES,-
+236,103993,Region II,Nueva Vizcaya,Bayombong I,Magapuy ES,Provincial Road
+237,103294,Region II,Isabela,Echague East,Magleticia Elementary School,"MAGLETICIA, ECHAGUE, ISABELA"
+238,103994,Region II,Nueva Vizcaya,Bayombong I,Magsaysay ES,-
+239,104093,Region II,Nueva Vizcaya,Kasibu West,Makiboy ES,Makiboy
+240,103109,Region II,Isabela,Benito Soliven,Makindol Elementary School,Makindol
+241,103867,Region II,Isabela,Sto. Tomas,Malapagay Elementary School,
+242,103759,Region II,Isabela,San Mariano II,Malaya Elementary School,Sitio Malaya
+243,103295,Region II,Isabela,Echague East,Malibago Elementary School,Purok 6
+244,103335,Region II,Isabela,Echague West,Maligaya Elementary School,-n/a
+245,103336,Region II,Isabela,Echague West,Malitao Elementary School,-Purok 3
+246,103112,Region II,Isabela,Benito Soliven,Maluno Integrated School Annex-A,Purok #4
+247,103111,Region II,Isabela,Benito Soliven,Maluno Integrated School Annex-B,Purok 2
+248,103958,Region II,Nueva Vizcaya,Bambang I,Manamtam Elementary School,"Purok 3,"
+249,103579,Region II,Isabela,Quirino,Manaoag Elementary School,"PUROK II MANAOAG, QUIRINO, ISABELA"
+250,104205,Region II,Nueva Vizcaya,Alfonso Castañeda,Mandunot ES,mandunot
+251,104069,Region II,Nueva Vizcaya,Dupax del Sur,Mangayang Elementary School,Liwliwa
+252,103656,Region II,Isabela,San Agustin,Mapalad Elementary School,Tariga St.
+253,104132,Region II,Nueva Vizcaya,Eastern Kayapa,Mapayao ES,"Purok 2, Mapayao, Kayapa, N.Viz"
+254,103641,Region II,Isabela,Roxas West,Marcos Elementary School,Paranes
+255,104206,Region II,Nueva Vizcaya,Alfonso Castañeda,Marikit East ES,marikit east
+256,103556,Region II,Isabela,Palanan,Marikit Elementary School,CAMIGUING
+257,103657,Region II,Isabela,San Agustin,Masaya Norte Primary School,-
+258,103658,Region II,Isabela,San Agustin,Masaya Sur Elementary School,National Highway
+259,102993,Region II,Isabela,Alicia North,Mataas na Kahoy Elementary School,"Corpuz Street, Purok 3"
+260,103635,Region II,Isabela,Roxas East,Matusalem Elementary School,Crispin Arenzana Street
+261,103959,Region II,Nueva Vizcaya,Bambang I,Mauan ES,-
+262,103938,Region II,Nueva Vizcaya,Bagabag I,Murong ES,Rizal Street
+263,104095,Region II,Nueva Vizcaya,Kasibu West,Muta ES,Purok 3
+264,104051,Region II,Nueva Vizcaya,Dupax del Norte II,Nagakay ES,Belance
+265,103848,Region II,Isabela,Sta. Maria,Naganacan Elementary School,
+266,104216,Region II,Nueva Vizcaya,Villaverde,Nagbitin ES,Provincial Road
+267,104026,Region II,Nueva Vizcaya,Diadi,Nagsabaran ES,"Nagsabaran, Diadi, Nueva Vizcaya"
+268,104159,Region II,Nueva Vizcaya,Quezon,Nalubbunan ES,Nalubbunan
+269,103899,Region II,Isabela,Tumauini South,Namnama Elementary School,
+270,103404,Region II,City of Ilagan,San Antonio,Nangalisan ES,Barangay Road
+271,103939,Region II,Nueva Vizcaya,Bagabag I,Nangalisan ES,Purok 3
+272,103960,Region II,Nueva Vizcaya,Bambang I,Nangcalapan PS,Nangcalapan Salinas Bambang Nueva Vizcaya
+273,104134,Region II,Nueva Vizcaya,Eastern Kayapa,Nansiakan Elementary school,"Nansiakan, Kayapa, N.V."
+274,104096,Region II,Nueva Vizcaya,Kasibu West,Nantawakan PS,- Nantawakan
+275,103995,Region II,Nueva Vizcaya,Ambaguio,Napo Elementary School,
+276,103659,Region II,Isabela,San Agustin,Nemmatan Primary School,ZONE 6 NEMMATAN SAN AGUSTIN ISABELA
+277,103313,Region II,Isabela,Echague South,Nilumisu Elementary School,"Nilumisu, Echague, Isabela"
+278,103717,Region II,Isabela,San Manuel,Nueva Era Elementary School,National Road
+279,104217,Region II,Nueva Vizcaya,Villaverde,Ocapon Elementary School,Provincial Road
+280,104137,Region II,Nueva Vizcaya,Eastern Kayapa,Oliweg E/S,"oliweg mapayao,kayapa,nueva vizcaya"
+281,104171,Region II,Nueva Vizcaya,Solano I,P.D. Galima E/S,G-Melina
+282,103996,Region II,Nueva Vizcaya,Ambaguio,Pacdal ES,Barangay  Road
+283,103297,Region II,Isabela,Echague East,Pag-asa Elementary School,Purok 3
+284,104070,Region II,Nueva Vizcaya,Dupax del Sur,Palabotan ES,"Palabotan,Dupax del Sur"
+285,103660,Region II,Isabela,San Agustin,Palacian Elementary School,Purok 3 Palacian San Agustin Isabela
+286,103940,Region II,Nueva Vizcaya,Bagabag II,Palayan Elementary School,"Kinalabasa, Baretbet"
+287,103741,Region II,Isabela,San Mariano I,Palutan Elementary School,Purok 2
+288,103661,Region II,Isabela,San Agustin,Panang Elementary School,"Panang, San Agustin, Isabela"
+289,103314,Region II,Isabela,Echague South,Pangal Norte Elementary School,Purok 5
+290,103315,Region II,Isabela,Echague South,Pangal Sur Elementary School,-Purok 2
+291,104138,Region II,Nueva Vizcaya,Western Kayapa,Pangawan ES,-
+292,103941,Region II,Nueva Vizcaya,Bagabag I,Paniki Elementary School,-
+293,103763,,,,,
+294,104098,Region II,Nueva Vizcaya,Kasibu West,Papalungan ES,Papalungan
+295,104099,Region II,Nueva Vizcaya,Kasibu East,Papaya ES,centro Papaya
+296,104100,Region II,Nueva Vizcaya,Kasibu West,Paquet ES,"Paquet, Kasibu, Nueva Vizcaya"
+297,104013,Region II,Nueva Vizcaya,Bayombong II,Pawak ES,Sitio Pawak Masoc Bayombong Nueva Vizcaya
+298,104207,Region II,Nueva Vizcaya,Alfonso Castañeda,Pelaway ES,Not Applicable
+299,156020,Region II,Nueva Vizcaya,Alfonso Castañeda,Pelaway ES Annex,-
+300,104139,Region II,Nueva Vizcaya,Eastern Kayapa,Babadi ES - Annex,none
+301,104140,Region II,Nueva Vizcaya,Eastern Kayapa,Pingkian CS,-
+302,104030,Region II,Nueva Vizcaya,Diadi,Pinya ES,-
+303,103115,Region II,Isabela,Benito Soliven,Placer-Dagupan Elementary School,Purok 2
+304,103850,Region II,Isabela,Sta. Maria,Poblacion 03 Primary School,-
+305,156019,Region II,Nueva Vizcaya,Bagabag II,Pogonsino Annex Elementary School,Tawi-Tawi
+306,104102,Region II,Nueva Vizcaya,Kasibu West,Pudi PS,"Pudi, Kasibu, Nueva Vizcaya"
+307,103116,Region II,Isabela,Benito Soliven,Punit ES,not applicable
+308,104160,Region II,Nueva Vizcaya,Quezon,Quezon CS,"-Caliat, Quezon, Nueva Vizcaya"
+309,103662,Region II,Isabela,San Agustin,Quimalabasa Norte ES,Purok 3
+310,103663,Region II,Isabela,San Agustin,Quimalabasa Sur Primary School,Quimalabasa Sur
+311,103066,Region II,Isabela,Angadanan West,Rancho Primary School,-
+312,103134,Region II,Isabela,Burgos,Raniag Elementary School,Raniag Burgos Isabela
+313,103558,Region II,Isabela,Palanan,Reina Mercedes Elementary School,"Lapu-Lapu, Minanga, Maconacon, Isabela"
+314,103643,Region II,Isabela,Roxas West,Roxas West Central School,"MuÃ±oz West, Roxas, Isabela"
+315,103316,Region II,Isabela,Echague South,Rumang-ay Elementary School,"Rumang-ay, Echague, Isabela"
+316,104161,Region II,Nueva Vizcaya,Quezon,Runruno Elementary School,"Runruno, Quezon, Nueva Vizcaya"
+317,156011,Region II,Nueva Vizcaya,Western Kayapa,Sabino PS,"-Castillo Village,Kayapa Nueva Vizcaya"
+318,103298,Region II,Isabela,Echague East,Salay Elementary School,purok 3
+319,103664,Region II,Isabela,San Agustin,Salay Elementary School,"Purok 3, Salay, San Agustin, Isabela"
+320,103963,Region II,Nueva Vizcaya,Bambang I,Salinas Elementary School,Salinas Proper
+321,103998,Region II,Nueva Vizcaya,Ambaguio,Salingsingan ES,
+322,103299,Region II,Isabela,Echague East,Salvacion Elementary School,Purok 2
+323,103665,Region II,Isabela,San Agustin,San Agustin Central School,BONIFACIO ST.
+324,103666,Region II,Isabela,San Agustin,San Antonio Elementary School,San Antonio
+325,103317,Region II,Isabela,Echague South,San Antonio Elementary School,-n/a
+326,103136,Region II,Isabela,Burgos,San Bonifacio Elementary School,-San Bonifacio
+327,103318,Region II,Isabela,Echague South,San Carlos Elementary School,Purok #2
+328,103117,Region II,Isabela,Benito Soliven,San Carlos Primary School,Purok 1
+329,104142,Region II,Nueva Vizcaya,Eastern Kayapa,San Fabian ES,-Paltog west
+330,103319,Region II,Isabela,Echague South,San Felipe Elementary School,Purok 04
+331,103978,Region II,Nueva Vizcaya,Bambang II,San Fernando ES,Purok Pag-asa
+332,103118,Region II,Isabela,Benito Soliven,San Francisco Elementary School,SAN FRANCISCO
+333,103645,Region II,Isabela,Roxas West,San Francisco Elementary School,"-San Placido, Roxas, Isabela"
+334,155523,Region II,Isabela,Sta. Maria,San Isidro East Elementary School,-
+335,103559,Region II,Isabela,Palanan,San Isidro Elementary School,-centro
+336,103852,Region II,Isabela,Sta. Maria,San Isidro West Elementary School,San Isidro West
+337,103806,Region II,Isabela,San Pablo,San Jose Elementary School,"San Jose, San Pablo, Isabela"
+338,103320,Region II,Isabela,Echague South,San Juan Elementary School,"-San Juan, Echague, Isabela"
+339,104162,Region II,Nueva Vizcaya,Quezon,San Juan ES,"-San Juan, Buliwao"
+340,104181,Region II,Nueva Vizcaya,Solano II,San Juan ES,-Purok 2
+341,103964,Region II,Nueva Vizcaya,Bambang I,San Leonardo ES,Salinas Road
+342,104032,Region II,Nueva Vizcaya,Diadi,San Luis ES,"-San Luis, Diadi, Nueva Vizcaya"
+343,103300,Region II,Isabela,Echague East,San Miguel Elementary School,Purok 5
+344,155530,Region II,Isabela,Ramon,SAN MIGUEL INTEGRATED SCHOOL-ANNEX,"Purok 7 San Miguel Ramon, Isabela"
+345,103743,Region II,Isabela,San Mariano I,San Pablo Elementary School,Purok 2
+346,104033,Region II,Nueva Vizcaya,Diadi,San Pablo ES,-
+347,103639,Region II,Isabela,Roxas East,San Pedro ES-Villa Cocepcion ES Annex - DoÃ±a Concha,Provincial Road
+348,103638,Region II,Isabela,Roxas East,San Pedro-Villa Concepcion Elementary School,PUROK 3
+349,103868,Region II,Isabela,Sto. Tomas,San Rafael Abajo Primary School,NOT APPLICABLE
+350,103408,Region II,City of Ilagan,San Antonio,San Rafael ES,Purok 2
+351,103853,Region II,Isabela,Sta. Maria,San Rafael Elementary School,"San Rafael West, Sta. Maria, Isabela"
+352,103869,Region II,Isabela,Sto. Tomas,San Roque Elementary School,N/A
+353,103322,Region II,Isabela,Echague South,San Salvador Elementary School,-PUROK#4
+354,103808,Region II,Isabela,San Pablo,San Vicente Elementary School,-
+355,103870,Region II,Isabela,Sto. Tomas,San Vicente Elementary School,Not Applicable
+356,103881,Region II,Isabela,Tumauini North,San Vicente Elementary School,Purok 2
+357,104071,Region II,Nueva Vizcaya,Dupax del Sur,Sanguit ES,-Nansabaran
+358,103882,Region II,Isabela,Tumauini North,Santa Elementary School,PUROK 3
+359,103119,Region II,Isabela,Benito Soliven,Santiago Elementary School,-
+360,103667,Region II,Isabela,San Agustin,Santos Primary School,Provincial Rd.
+361,103560,Region II,Isabela,Palanan,Sapinit Primary School,Purok1
+362,103943,Region II,Nueva Vizcaya,Bagabag I,JP Castillo E/S,Saranay
+363,103120,Region II,Isabela,Benito Soliven,Sevillana Elementary School,Sevillana
+364,104103,Region II,Nueva Vizcaya,Kasibu West,Siguem ES,"-Siguem, Kasibu"
+365,103809,Region II,Isabela,San Pablo,Simanu Norte Elementary School,"Simanu Norte, San Pablo Isabela"
+366,103810,Region II,Isabela,San Pablo,Simanu Sur Elementary School,-
+367,103648,Region II,Isabela,Roxas West,Sinamar Elementary School,Purok Paraiso
+368,103668,Region II,Isabela,San Agustin,Sinaoangan Norte Elementary School,Purok 06
+369,103669,Region II,Isabela,San Agustin,Sinaoangan Sur Elementary School,Purok 4
+370,103121,Region II,Isabela,Benito Soliven,Sinipit Elementary School,Sinipit Benito Soliven
+371,103902,Region II,Isabela,Tumauini South,Sisim-Minanga Elemenatry School,"Sisim-Alto Tumauini, Isabela"
+372,155536,Region II,Isabela,Tumauini South,Pallacot Elementary School,
+373,103883,Region II,Isabela,Tumauini North,Sta. Catalina Elementary School,
+374,103122,Region II,Isabela,Benito Soliven,Sta. Cruz Elementary School,Sta. Cruz
+375,103302,Region II,Isabela,Echague East,Sta. Cruz Elementary School,Mendita St.
+376,103945,Region II,Nueva Vizcaya,Bagabag I,Sta. Cruz ES,-
+377,103946,Region II,Nueva Vizcaya,Bagabag I,Sta. Lucia Elementary School,"Purok 1, Sta. Lucia, Bagabag, Nueva Vizcaya"
+378,103325,Region II,Isabela,Echague South,Sta.  Monica Elementary School,"Sta.  Monica, Echague, Isabela"
+379,103979,Region II,Nueva Vizcaya,Bambang II,Sto NiÃ±o PS,-
+380,103003,Region II,Isabela,Alicia North,Sto. Domingo Elementary School,Nabor St.
+381,103965,Region II,Nueva Vizcaya,Bambang I,Sto. Domingo ES,Provincial Road
+382,103670,Region II,Isabela,San Agustin,Sto. Nino Elementary School,-
+383,103437,Region II,City of Ilagan,West,Sto. Tomas ES,Purok # 3
+384,103947,Region II,Nueva Vizcaya,Bagabag II,Tabban PS,Sitio Tabban
+385,104211,Region II,Nueva Vizcaya,Sta. Fe,Tactac ES,-
+386,104104,Region II,Nueva Vizcaya,Kasibu East,Tadji ES,Napartan
+387,103561,Region II,Isabela,Palanan,Taknalan Primary School,Taknalan
+388,104143,Region II,Nueva Vizcaya,Western Kayapa,Talicabcab PS,-
+389,104144,Region II,Nueva Vizcaya,Western Kayapa,Talmoy PS,-Talmoy
+390,103745,Region II,Isabela,San Mariano I,Tappa Elementary School,not applicable
+391,156001,Region II,Nueva Vizcaya,Western Kayapa,Tidang Village PS,"CULBA., TIDANG VILLAGE"
+392,156004,Region II,Nueva Vizcaya,Western Kayapa,Tubongan PS,-N/A
+393,104105,Region II,Nueva Vizcaya,Kasibu East,Tukod PS,purok 1
+394,103904,Region II,Isabela,Tumauini South,Tumauini West Central School,Not Applicable
+395,104145,Region II,Nueva Vizcaya,Eastern Kayapa,Tuppan PS,-
+396,103573,Region II,Isabela,Quezon,Turod Elementary School,n/a n/a n/a
+397,104221,Region II,Nueva Vizcaya,Villaverde,Turod Elementary School,Provincial Road
+398,104163,Region II,Nueva Vizcaya,Quezon,Tutong Elementary School,"Tutong Bonifacio, Quezon Nueva Vizcaya"
+399,155511,Region II,Isabela,San Mariano I,Udiao Elementary School,-Udiao
+400,103746,Region II,Isabela,San Mariano I,Ueg Elementary School,Purok 5
+401,103886,Region II,Isabela,Tumauini North,Ugad Elementary School,Not Applicable
+402,103926,Region II,Nueva Vizcaya,Aritao West,Ukaw ES,"Ocao-Capiniaan, Aritao,Nueva Vizcaya"
+403,104212,Region II,Nueva Vizcaya,Sta. Fe,Unib PS,-Unib Santa Fe Nueva Vizcaya
+404,104101,Region II,Nueva Vizcaya,Kasibu West,Upper Parai PS,- Upper Parai
+405,103931,Region II,Nueva Vizcaya,Bagabag I,V. Coloma Memorial Elementary School,"-National Highway, Purok 5"
+406,104000,Region II,Nueva Vizcaya,Bayombong I,Villa Adriano PS,"Purok 7, Busilac, Byombong,Nva.Viz."
+407,104034,Region II,Nueva Vizcaya,Diadi,Villa Aurora Elementary School,-Purok 2 Villa Aurora
+408,103304,Region II,Isabela,Echague East,Villa Campo Elementary School,VILLA CAMPO ECHAGUE ISABEL-
+409,103326,Region II,Isabela,Echague South,Villa Fermin Elementary School,"-Villa Fermin, Echague, Isabela"
+410,104035,Region II,Nueva Vizcaya,Diadi,Villa Florentino ES,Barangay road
+411,103123,Region II,Isabela,Benito Soliven,Villa Lucban Primary School,
+412,103305,Region II,Isabela,Echague East,Villa Rey Elementary School,-N/A
+413,103327,Region II,Isabela,Echague South,Villa Victoria Elementary School,"Villa Victoria ,Echague Isabela"
+414,103950,Region II,Nueva Vizcaya,Bagabag II,Villaros ES,NONE
+415,103671,Region II,Isabela,San Agustin,Virgonesa Elementary School,"Purok II, Virgonesa"
+416,104001,Region II,Nueva Vizcaya,Bayombong I,Vista Hills ES,Provincial Road
+417,104106,Region II,Nueva Vizcaya,Kasibu East,Wangal ES,"-wangal, kasibu"
+418,104107,Region II,Nueva Vizcaya,Kasibu West,Watwat ES,"Watwat, Kasibu, Nueva Vizcaya"
+419,103126,Region II,Isabela,Benito Soliven,Yeban Sur Elementary School,-Purok 5
+420,103747,Region II,Isabela,San Mariano I,Zamora Primary School,Purok # 3
+421,158538,Region III,Bulacan,Bocaue,Bocaue Hills Elementary School,"Batia, Bocaue, Bulacan"
+422,105052,Region III,Bulacan,San Ildefonso South,Casalat Elementary School,Centro
+423,104738,Region III,Bulacan,Baliuag North,Catulinan ES,000000
+424,229503,Region III,Tarlac,Concepcion West,Concepcion Special Education Center,Camansi - Chico St. Purok IV Minane Concepcion Tarlac
+425,105984,Region III,Pampanga,Floridablanca West,Consuelo ES,"Consuelo,Floridablanca,Pampanga"
+426,160019,Region III,Tarlac,Capas West,Flora PS,"Sitio Flora, Barangay Maruglo"
+427,105038,Region III,Bulacan,San Ildefonso North,Mataas na Parang Elementary School,Dela Cruz Street -
+428,105132,Region III,Bulacan,San Rafael,San Agustin ES,"San Agustin, San Rafael Bulacan"
+429,105042,Region III,Bulacan,San Ildefonso North,San Juan Elementary School,Sampaguita St.
+430,105061,Region III,Bulacan,San Ildefonso South,Sapang Dayap Elementary School,Santos St. Sapang Dayap
+431,158534,Region III,Bulacan,San Ildefonso South,Sitio Biga ES,"Sitio Biga, Alagao, San Ildefonso, Bulacan"
+432,158535,Region III,Bulacan,Sta. Maria,St. Mary Village Elementary School,"Northville 5A, Caysio, Sta. Maria, Bulacan"
+433,105043,Region III,Bulacan,San Ildefonso North,Sta. Catalina Bata Elementary School,Zone 3
+434,108558,Region IV-A,Quezon,Burdeos,Anibawan ES,Brgy. Anibawan
+435,108559,Region IV-A,Quezon,Panukulan,Bongliw ES,Sitio Bongliw
+436,108560,Region IV-A,Quezon,Burdeos,Bonifacio ES,Brgy. Bonifacio
+437,109200,Region IV-A,Quezon,Tagkawayan,Cabuguang ES,-
+438,108563,Region IV-A,Quezon,Burdeos,Cabungalunan ES,Brgy. Cabungalunan
+439,108564,Region IV-A,Quezon,Burdeos,Calutcot ES,Brgy. Calutcot
+440,108566,Region IV-A,Quezon,Burdeos,Carlagan ES,Brgy. Carlagan
+441,109031,Region IV-A,Quezon,Panukulan,Kinalagte ES,Brgy. Kinalagti
+442,107484,Region IV-A,Batangas,Mataas Na Kahoy,Paaralang Elementarya Ng Loob,"Loob, Mataas na Kahoy, Batangas"
+443,109041,Region IV-A,Quezon,Panukulan,Pandan ES,-
+444,108569,Region IV-A,Quezon,Panukulan,Rizal ES,Brgy. Rizal
+445,109193,Region IV-A,Quezon,Sariaya West,Tulo-tulo ES,ARATAN
+446,110153,Region IV-B,Occidental Mindoro,Mamburao,Balansay ES - Lanas Min. ES,So. Lanas
+447,110097,Region IV-B,Occidental Mindoro,Looc,Balikyas ES,corner delara st.
+448,170513,Region IV-B,Palawan,Rizal,Latud Elementary School,Latud
+449,112994,Region V,Camarines Sur,San Fernando,Alianza ES,Zone 3
+450,112995,Region V,Camarines Sur,San Fernando,Beberon ES,-Zone 1
+451,112996,Region V,Camarines Sur,San Fernando,BICAL ELEMENTARY SCHOOL,Zone 1
+452,112997,Region V,Camarines Sur,San Fernando,Bocal ES,not applicable
+453,112998,Region V,Camarines Sur,San Fernando,Calascagas PS,"Zone 2, Calascagas, San Fernando"
+454,112999,Region V,Camarines Sur,San Fernando,Cotmo ES,"Zone 2, Cotmo San Fernando Cam. Sur"
+455,114165,Region V,Sorsogon,Donsol West,Lourdes ES,"Lourdes, Donsol, Sor."
+456,114171,Region V,Sorsogon,Donsol West,Parina ES,"Parina, Donsol, Sorsogon"
+457,114174,Region V,Sorsogon,Donsol West,San Francisco ES,"Brgy. San Francisco, Donsol, Sorsogon"
+458,112990,Region V,Camarines Sur,Sagñay,Sibaguan ES,Zone 3
+459,112992,Region V,Camarines Sur,Sagñay,Sto. Nino PS,Dacula St
+460,112993,Region V,Camarines Sur,Sagñay,Turague ES,zone 4
+461,116202,Region VI,Iloilo,Carles,Barangcalan ES,
+462,116204,Region VI,Iloilo,Carles,Batuanan ES,
+463,115697,Region VI,Capiz,Pontevedra,Gabuc ES,"Gabuc, Pontevedra, Capiz"
+464,132226,CARAGA,Siargao,San Benito,Maribojoc Elementary School,Purok 2
+465,132314,CARAGA,Dinagat Island,Albor,Maytubig Elementary School,"Sitio Maytubig, Bayanihan Libjo Dinagat Islands"
+466,132410,CARAGA,Surigao del Norte,Gigaquit,Nagubat ES,"Sitio Nagubat, Alambique"
+467,132227,CARAGA,Siargao,San Benito,Nuevo Campo Elementary Schoool,Purok 2
+468,132639,CARAGA,Bislig City,Bislig City II,Sote ES,-
+469,132640,CARAGA,Bislig City,Bislig City II,Sta. Cruz Elementary School,"Purok 3 Santa. Cruz,Bislig City"
+470,133504,ARMM,Lanao del Sur - I,Taraka II,77Th PC ES,Salvador Concha
+471,133212,ARMM,Lanao del Sur - I,Balindong I,Abaga ES,"Abaga, Balindong, Lanao del Sur"
+472,217054,ARMM,Sulu,Talipao,Abbas Abdulla Primary School,"Niog Sangahan, Talipao"
+473,252530,ARMM,Sulu,Panamao,Abduhalim Primary School/Annex III,"Likbah, Panglima Estino, Sulu"
+474,134948,ARMM,Marawi City,West District,Abdulazis ES,Cadayonan II
+475,134735,ARMM,Tawi-Tawi,Bongao II,Abdulmanap Basal Elementary School,Lakit Lakit
+476,134620,ARMM,Sulu,Talipao,Abdurasad Maddas ES,-
+477,254515,ARMM,Lanao del Sur - I,Marantao II,Abinal ES,Mantapoli Street
+478,134621,ARMM,Sulu,Talipao,Ablayan Elementary School,-
+479,133892,ARMM,Maguindanao II,Barira North,Abubacar Siddique ES,"Gawad Kalinga, Tugaig, Barira, Maguindanao"
+480,133377,ARMM,Lanao del Sur - I,Masiu II,Acopa PS,Acopa
+481,133367,ARMM,Lanao del Sur - I,Masiu I,Adigao PS,01 ADIGAO
+482,134778,ARMM,Tawi-Tawi,Languyan,Adnin PS,ADNIN
+483,134779,ARMM,Tawi-Tawi,Languyan,Adzhar ES,Kualabaro Jakarta
+484,133308,ARMM,Lanao del Sur - I,Lumba-Bayabao II,Agagan-Dansalan PS,-torogan lumba bayabao
+485,217071,ARMM,Sulu,Patikul,Ahajani PS,Tambang
+486,216540,ARMM,Maguindanao I,Guindulungan,Ahan ES,Ahan Guindulungan Maguindanao
+487,133269,ARMM,Lanao del Sur - I,Ditsaan Ramain I,Alangadi ES,"Brgy. Pangadapan, Ditsaan-Ramain, Lanao Del Sur"
+488,134726,ARMM,Tawi-Tawi,Bongao II,Aliakbar PRIMARY SCHOOL,PABABAG
+489,134374,ARMM,Sulu,Laminusa,Alian Elementary School,"Ratag,siasi,sulu"
+490,134262,ARMM,Maguindanao I,South Upi,Aliman B. Gunsi ES,Poblacion Pandan
+491,134204,ARMM,Maguindanao I,Datu Anggal,Alimao ES,"Brgy. Tugal, Datu Anggal Midtimbang Mag."
+492,133395,ARMM,Lanao del Sur - I,Masiu B District,Alip-Lalabuan ES,"Marandacan Putad, Masiu, Lanao del Sur"
+493,252543,ARMM,Sulu,Luuk (Kalinggalan Calauang),Allayon PS,Tubig Puti
+494,133963,ARMM,Maguindanao I,Datu Piang I,Alonganen ES,-
+495,134396,ARMM,Sulu,Lugus,Alu Duyong ES,NOT APPLICABLE
+496,134515,ARMM,Sulu,Parang,Alu Layag Layag ES,-
+497,134516,ARMM,Sulu,Parang,Alu Pangkoh Guimba PS,-
+498,133964,ARMM,Maguindanao I,Datu Piang I,Ambadao ES,-
+499,216042,ARMM,Lanao del Sur - II,Pagayawan,Ambari Primary School,-ambari ngingir bubong
+500,216590,ARMM,Maguindanao I,Gen. S. K. Pendatun,Ambolinog ES,Makainis.Gen.SK.Pendatun
+501,134009,ARMM,Maguindanao II,DOS South,Ambolodto ES,Ambolodto
+502,217070,ARMM,Sulu,Patikul,Amman Elementary School,Amman
+503,216524,ARMM,Maguindanao II,Buldon East,Ampuan ES,none
+504,252509,ARMM,Sulu,Luuk (Kalinggalan Calauang),Andalan PS,Andalan
+505,252542,ARMM,Sulu,Luuk (Kalinggalan Calauang),Angilan PS,"Angilan, Omar, Sulu"
+506,261503,ARMM,Maguindanao II,Barira North,Angimbzar T. Pendatu,Barira (Pob)
+507,134176,ARMM,Maguindanao I,Sultan Sa Barongis,Angkayamat ES,-
+508,133751,ARMM,Lanao del Sur - II,South Malabang,Ansao Mem. ES,-
+509,134546,ARMM,Sulu,Patikul,Anuling ES,-Anuling
+510,133368,ARMM,Lanao del Sur - I,Masiu I,Apa Mimbalay ES,-apa mimbalay
+511,133428,ARMM,Lanao del Sur - I,Piagapo East,Aposong PS,-
+512,134089,ARMM,Maguindanao II,Parang Bongo,Aragasi ES,-Tucamaror
+513,133912,ARMM,Maguindanao II,Buldon West,Aratuc PS,-Aratuc
+514,133677,ARMM,Lanao del Sur - II,Lumbaca Unayan,Ariman Guro Elementary school,"Bangon, Dilausan"
+515,217534,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Asaron PS,Magsaggaw
+516,134468,ARMM,Sulu,Panamao,Asin PS Annex IV,-none
+517,253012,,,,,
+518,216633,ARMM,Maguindanao I,Mamasapano,"Assemb. Mama Masukat, Sr. ES",-
+519,134349,ARMM,Sulu,Jolo III,Asturias ES,"Asturias, Jolo, Sulu"
+520,133985,ARMM,Maguindanao II,DOS North,Awang ES,Awang
+521,133557,ARMM,Lanao del Sur - II,Bacolod,Awani Elementary School,"Brgy. Awani, Bacolod Kalawi"
+522,133789,ARMM,Lanao del Sur - II,Pagayawan,Ayong Primary School,Ayong
+523,133309,ARMM,Lanao del Sur - I,Lumba-Bayabao II,Bacayawan ES,-Lumbac Street
+524,133334,ARMM,Lanao del Sur - I,Marantao I,Bacayawan ES,-
+525,133867,ARMM,Lanao del Sur - II,Sultan Dumalondong,BACAYAWAN CENTRAL ELEMENTARY SCHOOL,Lumbac
+526,133868,ARMM,Lanao del Sur - II,Sultan Dumalondong,Bacayawan Proper Primary School,Bacayawan
+527,134272,ARMM,Maguindanao II,Datu Blah Sinsuat,Bacayawan PS,-Lapaken
+528,133310,ARMM,Lanao del Sur - I,Lumba-Bayabao II,Bacolod ES,Bacolod 1
+529,133258,ARMM,Lanao del Sur - I,Buadipuso-Buntong,Bacolod PS,"Bacolod, Budiposo-Buntong"
+530,133358,ARMM,Lanao del Sur - I,Marantao II,Bacong PS,Bacong Marantao Lanao del Sur
+531,134727,ARMM,Tawi-Tawi,Bongao II,Bacud Mahabah ES,Bacud Mahabah
+532,133213,ARMM,Lanao del Sur - I,Balindong I,Badak PS,"BARRIT, BALINDONG, LDS"
+533,216074,ARMM,Lanao del Sur - II,North Pualas,Badak PS,-
+534,134469,ARMM,Sulu,Panamao,Badjang PS,-
+535,134339,ARMM,Sulu,Jolo II,Badjao Annex II,busbus st.
+536,217519,ARMM,Tawi-Tawi,Bongao I,Badjao Kasulutan PS,Simandagit
+537,217006,ARMM,Sulu,Parang,Badjao PS,-
+538,134295,ARMM,Sulu,Indanan,Badjao PS Annex 1,Talatak sitio
+539,133359,ARMM,Lanao del Sur - I,Marantao II,Bae Simalao ES,"Maul Ilian, Marantao Lanao del Sur"
+540,134195,ARMM,Maguindanao I,Guindulungan,Bagan ES,"-bagah,guindulungah,maguindanao"
+541,133648,ARMM,Lanao del Sur - II,West Ganassi,Bagoaingud Primary School,Bagoaingud
+542,134010,ARMM,Maguindanao II,DOS South,Bagoenged ES,BAGOENGED DATU ODIN SINSUAT
+543,133452,ARMM,Lanao del Sur - I,Saguiaran II,Bagoingud ES,-
+544,134518,ARMM,Sulu,Parang,Bagsak PS,-
+545,134622,ARMM,Sulu,Talipao,Bagsak Primary School,-
+546,133559,ARMM,Lanao del Sur - II,Bacolod,Bagua-ingud Primary School,"Brgy.Orong, Bacolod Kalawi"
+547,133948,ARMM,Maguindanao I,Datu Paglas North,Baguadatu ES,"Brgy. Damalusay, Datu Paglas, Maguindanao"
+548,133913,ARMM,Maguindanao II,Buldon East,Baguiangen ES,"Baguiangen, Karim, Buldon, Mag"
+549,134023,ARMM,Maguindanao II,Kabuntalan South,Bagumbayan ES,Bagumbayan
+550,134243,ARMM,Maguindanao I,South Upi,Bahar ES,"BRGY. PANDAN, BAHAR, SOUTH UPI, MAGUINDANAO"
+551,216560,ARMM,Maguindanao I,Rajah Buayan,Baital ES,"Baital, Rajah Buayan, Maguindanao"
+552,134340,ARMM,Sulu,Jolo II,Bajao PS Annex I,busbus st.
+553,134597,ARMM,Sulu,Sibaud,Bakal PS,-bakal
+554,134177,ARMM,Maguindanao I,Rajah Buayan,Bakat ES,Bakat
+555,133583,ARMM,Lanao del Sur - II,Kapatagan,Bakikis Central Elem. School,-
+556,134667,ARMM,Sulu,Tongkil,Bakkaan PS,none
+557,134780,ARMM,Tawi-Tawi,Languyan,Bakkaw Bakkaw PS,BAKKAW BAKKAW
+558,134856,ARMM,Tawi-Tawi,West Simunul,Bakong ES,Bakong
+559,134781,ARMM,Tawi-Tawi,Languyan,Bakong PS,Bakong
+560,133576,ARMM,Lanao del Sur - II,South Balabagan,Balabagan CES,"Banago, Balabagan Lanao Sur"
+561,133685,ARMM,Lanao del Sur - II,Lumbayanague I,Balaigay ES,Balaigay
+562,216528,ARMM,Maguindanao I,Datu Piang I,Balanaken ES,-
+563,133528,ARMM,Lanao del Sur - I,Wao II,Balatin PS,BALATIN
+564,133378,ARMM,Lanao del Sur - I,Masiu II,Balbal Solukun Primary School,SOLUKUN
+565,134805,ARMM,Tawi-Tawi,Sapa-Sapa I,Baldatal Islam ES,Baldatal islam
+566,134685,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Balimbing ES,-
+567,216068,ARMM,Lanao del Sur - II,Lower Bayang,Balindong-Adil Primary School,Bagoingud
+568,133323,ARMM,Lanao del Sur - I,Maguing,Balintao ES,-Balintao Street
+569,134024,ARMM,Maguindanao II,Kabuntalan North,Balong ES,"Balong, Northern Kabuntalan, Maguindanao"
+570,133965,ARMM,Maguindanao I,Datu Piang I,Balong ES,Balong
+571,133761,ARMM,Lanao del Sur - II,Marogong,Balt Elementary School,-
+572,215515,ARMM,Lanao del Sur - I,Tamparan District,Balt Madiar PS,-Balt Madiar
+573,134077,ARMM,Maguindanao I,Pagalungan,Balungis ES,-
+574,133560,ARMM,Lanao del Sur - II,Bacolod,Balut PS,-balut
+575,133610,ARMM,Lanao del Sur - II,Binidayan,Balut PS,"Barangay Balut, Binidayan, Lanao Sur"
+576,216561,ARMM,Maguindanao II,Sultan Kudarat II,Banatin PS,"Banatin, Sultan Kudarat, Maguindanao"
+577,134623,ARMM,Sulu,Talipao,Bandang Elementary School,=
+578,133790,ARMM,Lanao del Sur - II,Pagayawan,Bandaraingud ES,-
+579,133762,ARMM,Lanao del Sur - II,Marogong,Banday PS,-
+580,133590,ARMM,Lanao del Sur - II,Upper Bayang,Bandingun ES,Bandingun
+581,134950,ARMM,Marawi City,West District,Banga Primary School,"MSU, Banga Marawi City"
+582,134669,ARMM,Sulu,Tongkil,Bangalaw PS,none
+583,134487,ARMM,Sulu,Pangutaran,Bangkillay ES,-
+584,134951,ARMM,Marawi City,West District,Bangon Elementary School,Bangon St.
+585,254503,ARMM,Lanao del Sur - I,Piagapo West,Bansayan PS,Bansayan
+586,133803,ARMM,Lanao del Sur - II,North Pualas,Bantayan PS,Bantayan
+587,133298,ARMM,Lanao del Sur - I,Lumba-Bayabao I,Bantayao ES,-BANTAYAO
+588,134215,ARMM,Maguindanao II,Upi North,Bantek ES,Bantek
+589,133821,ARMM,Lanao del Sur - II,Sultan Gumander,Baraas Central School,"-BARAAS, PICONG, LANAO DEL SUR"
+590,133299,ARMM,Lanao del Sur - I,Lumba-Bayabao I,Bararay PS,saloloden berwar
+591,133277,ARMM,Lanao del Sur - I,Ditsaan Ramain III,Barimbingan Central ES,"Barimbingan, Ditsaan Ramain"
+592,133893,ARMM,Maguindanao II,Barira,Barira CES,"Lipawan, Barira, Maguindanao"
+593,215527,ARMM,Lanao del Sur - I,Poona-Bayabao West,Barith ES,"Barith, Barangay Dimayon, Poona-Bayabao, Lanao del Sur"
+594,133566,ARMM,Lanao del Sur - II,North Balabagan,Barorao Central Elementary  School,"Barorao, Balabagan Lanao del Sur"
+595,133214,ARMM,Lanao del Sur - I,Balindong I,Barrit PS,-
+596,133545,ARMM,Lanao del Sur - II,Kalawi,Barua ES,Barua Street
+597,134406,ARMM,Sulu,Lugus,Bas Lugus CS - Annex,"bas lugus,lugus ,sulu"
+598,134397,ARMM,Sulu,Lugus,Bas Nunuk ES,-none
+599,134600,ARMM,Sulu,Sibaud,Bas Siganggang PS (Hus. ES Annex),"-Bad-Bad Utang, Siganggang"
+600,134782,ARMM,Tawi-Tawi,Languyan,Bas-Bas Likud PS,Bas-Bas Likud
+601,134783,ARMM,Tawi-Tawi,Languyan,Bas-Bas Proper PS,Bas-Bas Proper
+602,134952,ARMM,Marawi City,West District,Basak Elementary School,Brgy. Basak Malutlut
+603,133649,ARMM,Lanao del Sur - II,East Ganassi,Basak PS,BASAK TAGANONOK
+604,133429,ARMM,Lanao del Sur - I,Piagapo West,Basak PS,-
+605,134398,ARMM,Sulu,Lugus,Basmangkallay ES,-
+606,133273,ARMM,Lanao del Sur - I,Ditsaan Ramain II,Batal Pagilidan ES,"Polo,Ditsaan Ramain"
+607,217524,ARMM,Tawi-Tawi,Tandubas,Bato PS,himba
+608,134296,ARMM,Sulu,Indanan,Bato-Bato ES,"Bato-Bato Indanan, Sulu"
+609,133325,ARMM,Lanao del Sur - I,Maguing II,Bato-Bato ES,-Bato-Bato Street
+610,134442,ARMM,Sulu,Maimbung,Bato-Ugis ES,-
+611,134068,ARMM,Maguindanao I,Datu Montawal(Pagagawan),Batungkayo ES,"Batungkayo, Datu Montawal, Maguindanao"
+612,134754,ARMM,Tawi-Tawi,Mapun,Batutay ES,GUPPAH
+613,133316,ARMM,Lanao del Sur - I,Lumba-Bayabao III,Baugan PS,BAUGAN
+614,133026,ARMM,Basilan,Lantawan,Baungis ES,BAUNGIS
+615,134687,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Bauno Garing Elementary School,Bauno Garing
+616,134078,ARMM,Maguindanao I,Pagalungan,Baya ES,Baya
+617,133650,ARMM,Lanao del Sur - II,West Ganassi,Baya Primary School,-Baya
+618,133625,ARMM,Lanao del Sur - II,Butig,Bayabao Central Elementary School,-
+619,133278,ARMM,Lanao del Sur - I,Ditsaan Ramain III,Bayabao Ramain ES,Bayabao
+620,134054,ARMM,Maguindanao II,Matanog,Bayanga ES,Bayanga norte
+621,217055,ARMM,Sulu,Talipao,Bayog Primary School,"Setio Bayog, Talipao ,Sulu"
+622,134688,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Belatan Halo PS,-
+623,134689,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Belatan Tainga PS,-
+624,133585,ARMM,Lanao del Sur - II,Kapatagan,Bengabeng PS,-
+625,134012,ARMM,Maguindanao II,DOS South,Benolen ES,Benolen
+626,134265,ARMM,Maguindanao I,South Upi,Benuan ES,Benuan
+627,133686,ARMM,Lanao del Sur - II,Lumbayanague II,Beruar PS,
+628,133835,ARMM,Lanao del Sur - II,Tubaran,Beta Primary School,"Beta, Tubaran"
+629,133591,ARMM,Lanao del Sur - II,Upper Bayang,Biabi PS,-
+630,216021,ARMM,Lanao del Sur - II,Upper Bayang,Bialaan PS,"Bialaan, Bayang, Lanao del Sur"
+631,216574,ARMM,Maguindanao I,South Upi,Biarong ES,-
+632,134690,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Biha PS,"BIHA, BUAN"
+633,134244,ARMM,Maguindanao I,South Upi,Binaton ES,binaton south upi maguindanao
+634,133611,ARMM,Lanao del Sur - II,Binidayan,Binidayan ES,0
+635,134205,ARMM,Maguindanao I,Talitay,Bintan ES,-
+636,134865,ARMM,Tawi-Tawi,East South Ubian,Bintawlan ES,-
+637,133822,ARMM,Lanao del Sur - II,Sultan Gumander,Biosong Elementary School,"Biosong, PICONG LANAO SUR II"
+638,134470,ARMM,Sulu,Panamao,Bitanag PS,Bitanag
+639,134953,ARMM,Marawi City,Northwest District,Bito Elementary School,Bito Buadi parba
+640,133987,ARMM,Maguindanao II,DOS North,Bitu PS,Bitu
+641,134273,ARMM,Maguindanao II,Upi West,Blala ES,Renede
+642,134217,ARMM,Maguindanao II,Upi North,Blensong Elementary School,"Blensong, Upi, Maguindanao"
+643,133227,ARMM,Lanao del Sur - I,Balindong II,Bliss ES,-
+644,134216,ARMM,Maguindanao II,Upi North,Bliugan ES,Rifao
+645,133430,ARMM,Lanao del Sur - I,Piagapo East,Bobo ES,-
+646,133405,ARMM,Lanao del Sur - I,Mulondo,Bobong Bagoingud ES,-Bubong
+647,133592,ARMM,Lanao del Sur - II,Upper Bayang,Bobong ES,-
+648,133612,ARMM,Lanao del Sur - II,Binidayan,Bubongaranao Primary school,Bubongaranao Binidayan Lanao Del Sur
+649,133491,ARMM,Lanao del Sur - I,Tamparan I,Bocalan ES,-Bocalan
+650,134729,ARMM,Tawi-Tawi,Bongao II,Bohe Basag ES,TUBIG BASAG
+651,132995,ARMM,Lamitan City,Lamitan South,Boheyakan ES,Boheyakan
+652,134756,ARMM,Tawi-Tawi,Mapun,Boki ES,boki
+653,133336,ARMM,Lanao del Sur - I,Marantao I,Bolao PS,Bolao
+654,133326,ARMM,Lanao del Sur - I,Maguing II,Bolao-Dilausan CES,-Bolao-Maguing
+655,134399,ARMM,Sulu,Lugus,Boli Pongpong PS,-none
+656,134160,ARMM,Maguindanao II,Sultan Mastura,Boliok Elementary School,-BOLIOK SULTAN MASTURA
+657,133823,ARMM,Lanao del Sur - II,Sultan Gumander,Bolocaon Primary School,"BULANGOS , LANAO DEL SUR"
+658,216007,ARMM,Lanao del Sur - II,Kapatagan,Bongabong PS,-
+659,217513,ARMM,Tawi-Tawi,Bongao Central,Bongao CLES,Ilmoh St. Poblacion
+660,134899,ARMM,Tawi-Tawi,Bongao Central,Bongao Elementary School,-Ilmoh St. Poblacion
+661,134218,ARMM,Maguindanao II,Upi North,Bongbong Elementary School,Bongbong
+662,134245,ARMM,Maguindanao I,South Upi,Bongo ES,-
+663,133810,ARMM,Lanao del Sur - II,South Pualas,Bonsalagan PS,-
+664,133215,ARMM,Lanao del Sur - I,Balindong I,Borakis PS,"-Brgy. borakis, balindong lanao del sur"
+665,133811,ARMM,Lanao del Sur - II,South Pualas,Boring PS,-boring
+666,133505,ARMM,Lanao del Sur - I,Taraka II,Boriongan ES,"-Boriongan, Taraka LDS"
+667,133337,ARMM,Lanao del Sur - I,Marantao I,Borocos PS,-
+668,134220,ARMM,Maguindanao II,Upi North,Borongotan ES,"Borongotan, Upi,Maguindanao"
+669,133512,ARMM,Lanao del Sur - I,South Wao District,Bout ES,-buot
+670,134488,ARMM,Sulu,Pangutaran,Bowal Bowal ES,-
+671,215552,ARMM,Lanao del Sur - I,Taraka II,Buaya Integrated PS,Carandangan
+672,134196,ARMM,Maguindanao I,Datu Anggal,Brar ES,Datu Anggal Midtimbang
+673,134246,ARMM,Maguindanao I,South Upi,Brawarbatew ES,Brawarbatew
+674,133666,ARMM,Lanao del Sur - II,Lumbatan I,Buad PS,-
+675,133279,ARMM,Lanao del Sur - I,Ditsaan Ramain III,Buadababai PS,-
+676,133317,ARMM,Lanao del Sur - I,Lumba-Bayabao III,Buadi-Inambay ES,BUAD LUMBAC
+677,133369,ARMM,Lanao del Sur - I,Masiu I,Buadiamaloy ES,Buadiamaloy
+678,133859,ARMM,Lanao del Sur - II,West Tugaya,Buadidico PS,buadidico
+679,133379,ARMM,Lanao del Sur - I,Masiu II,Buadinggal ES,-Macabangun Imbaba
+680,133228,ARMM,Lanao del Sur - I,Balindong II,Buadintad PS,-poblacion balindong lanao del sur
+681,133259,ARMM,Lanao del Sur - I,Buadipuso-Buntong,Buadiposo PS,-
+682,133216,ARMM,Lanao del Sur - I,Balindong I,Buaditara PS,BUADITARA
+683,134691,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Buai Primary School,parangan
+684,217009,ARMM,Sulu,Siasi II,Bual P/S,-none
+685,134414,ARMM,Sulu,Luuk (Kalinggalan Calauang),Bual PS,"Bual Luuk, Sulu"
+686,133687,ARMM,Lanao del Sur - II,Lumbayanague II,Bualan ES,-
+687,216076,ARMM,Lanao del Sur - II,North Pualas,Bualan Primary School,None
+688,134443,ARMM,Sulu,Maimbung,Bualo Kanjal PS,-
+689,134375,ARMM,Sulu,Laminusa,Buan ES,"BUAN,SIASI,SULU"
+690,134692,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Buan ES,BUAN
+691,133300,ARMM,Lanao del Sur - I,Lumba-Bayabao I,Bubong Dangadar PS,taluan
+692,133417,ARMM,Lanao del Sur - I,Poona-Bayabao South,Bubong ES,Bubong
+693,133448,ARMM,Lanao del Sur - I,Saguiaran I,Bubong ES,"Bubong, saguiran, Lanao del Sur"
+694,133229,ARMM,Lanao del Sur - I,Balindong II,Bubong-Lalabuan ES,"Bubong, Balindong"
+695,133705,ARMM,Lanao del Sur - II,South Madalum,Bubong PS,Bubong
+696,133712,,,,,
+697,133338,ARMM,Lanao del Sur - I,Marantao I,Bubong PS,Bubong-Madanding
+698,133860,ARMM,Lanao del Sur - II,West Tugaya,Bubong-Lumbac Elementary School,"Brgy. Dandamun, Tugaya, Lanao del Sur"
+699,133339,ARMM,Lanao del Sur - I,Marantao I,Bubong-Madanding ES,Bubong-Madanding
+700,215548,ARMM,Lanao del Sur - I,Piagapo East,Bubonga Ilian PS,barangay bubonga ilian
+701,215522,ARMM,Lanao del Sur - I,Piagapo East,Bubonga Tawaan PS,-
+702,133780,ARMM,Lanao del Sur - II,Calanogas,Bubongaranao Primary School,bubongaranao
+703,133497,ARMM,Lanao del Sur - I,Taraka I,Bucalan PS,-
+704,217501,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Bud Bud PS,kulape
+705,134219,ARMM,Maguindanao II,Upi North,Bugabungan ES,"-Bugabungan,Upi,Maguindanao"
+706,134013,ARMM,Maguindanao II,DOS South,Bugawas ES,"Bugawas, Datu Odin Sinsuat, Maguindanao"
+707,133396,ARMM,Lanao del Sur - I,Masiu B District,Buisan ES,"Abdullah Buisan, Masiu, Lanao del Sur"
+708,134519,ARMM,Sulu,Parang,Buka-Buka PS,-
+709,217530,ARMM,Tawi-Tawi,Sapa-Sapa I,Bukut PS,Bukut
+710,134668,ARMM,Sulu,Tongkil,Bukuttua PS Annex II,"bukuttua, tainga-bakkao"
+711,134415,ARMM,Sulu,Luuk (Kalinggalan Calauang),Bulaghaw ES,-omar sulu
+712,134471,ARMM,Sulu,Panamao,Bulangsih ES,-none
+713,133914,ARMM,Maguindanao II,Buldon West,Buldon CES,Pob. Calaan
+714,134079,ARMM,Maguindanao I,Pagalungan,Buliok ES,Balungis
+715,134670,ARMM,Sulu,Tongkil,Bullaan ES,Tambunbubu
+716,216557,ARMM,Maguindanao I,Gen. S. K. Pendatun,Bulod ES,-
+717,216653,ARMM,Maguindanao I,Datu Montawal(Pagagawan),Bulod ES,"Bulod,Datu Montawal,Mag."
+718,134247,ARMM,Maguindanao I,South Upi,Buludan ES,"BULUDAN, KUYA SOUTH UPI"
+719,133949,ARMM,Maguindanao I,Datu Paglas East,Bunawan ES,-
+720,134161,ARMM,Maguindanao II,Sultan Mastura,Bungabong Primary School,-Bungabong
+721,134298,ARMM,Sulu,Indanan,Bunot Elementary School,Km.10
+722,134627,ARMM,Sulu,Talipao,Buntod Elementary School,-
+723,133260,ARMM,Lanao del Sur - I,Buadipuso-Buntong,Buntong Poblacion ES ( main ),-Manacab Poblacion
+724,133529,ARMM,Lanao del Sur - I,Wao II,Buntongan ES,PUROK 3
+725,133836,ARMM,Lanao del Sur - II,Tubaran,Buribid ES,-Buribid Pob.
+726,134628,ARMM,Sulu,Talipao,Buroh Elementary School,-
+727,133327,ARMM,Lanao del Sur - I,Maguing II,Burua PS,Borrowa
+728,134341,ARMM,Sulu,Jolo II,Bus-bus Elementary School,Busbus st.
+729,133626,ARMM,Lanao del Sur - II,Butig,Butig Eementary School,Butig proper
+730,216594,ARMM,Maguindanao II,Kabuntalan South,Butilen Elementary School,Butilen
+731,216609,ARMM,Maguindanao I,Datu Salibo,Butilen ES,"Along National Highway,Butilen Datu Salibo,Maguindanao"
+732,134601,ARMM,Sulu,Sibaud,Buton ES,Sitio buton
+733,134877,ARMM,Tawi-Tawi,Tandubas,Butun ES,"Butun,Tandubas,Tawi-Tawi,ARMM"
+734,134299,ARMM,Sulu,Indanan,Bwansa Elementary School,KM. 9
+735,134055,ARMM,Maguindanao II,Matanog,Cabaniacawan PS,Cabaniacawan
+736,133733,ARMM,Lanao del Sur - II,Lower Madamba,Cabasaran ES,-
+737,133713,ARMM,Lanao del Sur - II,North Madalum,Cabasaran Primary School,-Brgy.Cabasaran Madalum Lanao Del Sur
+738,133737,ARMM,Lanao del Sur - II,North Malabang,Cabasaran PS,-Brgy. Cabasaran
+739,134937,ARMM,Marawi City,North District,Cabasaran Primary School,"Brgy. Cabasaran, Marawi City"
+740,134955,,,,,
+741,133546,ARMM,Lanao del Sur - II,Kalawi,Cabombongan ES,-Liawao
+742,134105,ARMM,Maguindanao II,Inter Parang,Cabuan PS,-cabuan parang maguindanao
+743,216003,ARMM,Lanao del Sur - II,Lumbayanague I,Cabutongan Primary School,Cabuntongan
+744,133218,ARMM,Lanao del Sur - I,Balindong I,Cadapaan ES,"CADAPAAN, BALINDONG, LANAO DEL SUR"
+745,133453,ARMM,Lanao del Sur - I,Saguiaran II,Cadayonan CES,-
+746,134912,ARMM,Marawi City,Angoyao District,Cadayonan Elementary School,Cadayonan 1
+747,216004,ARMM,Lanao del Sur - II,Lumbayanague I,Cadayonan ES,Barangay Cadayonan
+748,133593,ARMM,Lanao del Sur - II,Diwan,Cadayonan PS,-
+749,133714,ARMM,Lanao del Sur - II,North Madalum,Cadayonan PS,Cadayonan
+750,133679,ARMM,Lanao del Sur - II,Lumbaca Unayan,Cadayonan PS,-Cadayonan
+751,133792,ARMM,Lanao del Sur - II,Pagayawan,Cadayonan Elementary School,Mapantao
+752,133688,ARMM,Lanao del Sur - II,Lumbayanague II,Cadingilan PS,-
+753,133680,ARMM,Lanao del Sur - II,Lumbaca Unayan,Calalon Primary School,-calalalon
+754,133781,ARMM,Lanao del Sur - II,Calanogas,Calanogas Central Elementary School,-Piksan Calanogas Lanao Del Sur
+755,133301,ARMM,Lanao del Sur - I,Lumba-Bayabao I,Calilangan ES,CALILANGAN
+756,215533,ARMM,Lanao del Sur - I,Marantao II,Calilangan PS,Marantao Lanao del Sur
+757,133567,ARMM,Lanao del Sur - II,North Balabagan,Calilangan ES(Dona M. T. M Hofeno PS),"Calilangan, Balabagan Lanao del Sur"
+758,133231,ARMM,Lanao del Sur - I,Balindong II,Calimodan PS,Malaig Balindong Lanao del Sur
+759,133753,ARMM,Lanao del Sur - II,South Malabang,Calimodan Vil. ES,BPS Village
+760,133754,ARMM,Lanao del Sur - II,South Malabang,Calombog Elementary School,-
+761,133341,ARMM,Lanao del Sur - I,Marantao I,Camalig ES,-
+762,133342,ARMM,Lanao del Sur - I,Marantao I,Camalig Poblacion PS,CAMALIG Poblacion
+763,134416,ARMM,Sulu,Luuk (Kalinggalan Calauang),Camp Andres CES,-
+764,134956,ARMM,Marawi City,West District,Camp Bagong Amai Pakpak ES,"Lancaf, Biaba Damag"
+765,216533,ARMM,Maguindanao II,DOS South,Camp Ebrahim Sema ES,Bagoenged
+766,252526,ARMM,Sulu,Siasi I,Camp Murad PS,-Pislong
+767,133874,ARMM,Maguindanao I,Datu Abdullah Sangki,Campo Cuatro ES,-Campo Cuatro
+768,134128,ARMM,Maguindanao I,Paglat,Campo ES,Brgy. Campo Paglat Mag.
+769,134057,ARMM,Maguindanao II,Matanog,Campo I ES,Bugasan Sur
+770,134886,ARMM,Tawi-Tawi,Languyan,Campo Muslim Primary School,MARANG-MARANG
+771,133282,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Campo PS,
+772,133848,ARMM,Lanao del Sur - II,Central Tugaya,Campong Talao ELementary School,"Campong Talao, Tugaya, Lanao del sur"
+773,133652,ARMM,Lanao del Sur - II,West Ganassi,Camponga-raya Primary School,Uptown Village
+774,133328,ARMM,Lanao del Sur - I,Maguing II,Candanga Malungun ES,"Malungun Pagalongan, Maguing, Lanao del Sur"
+775,133990,ARMM,Maguindanao II,DOS North,Capiton PS,Capiton
+776,133498,ARMM,Lanao del Sur - I,Taraka I,Caramat ES,-
+777,215542,ARMM,Lanao del Sur - I,Lumba-Bayabao III,Carandangan PS,CARANDANGAN
+778,133252,ARMM,Lanao del Sur - I,Bubong II,Carigongan PS,bubonga didagun
+779,134285,ARMM,Maguindanao II,Upi West,Carlos Palindac ES,Brgy. Bungcog
+780,216580,ARMM,Maguindanao II,Buldon West,Caruisan PS,-Rumidas
+781,133261,ARMM,Lanao del Sur - I,Buadipuso-Buntong,Catogonan ES,barangay catogonan
+782,133344,ARMM,Lanao del Sur - I,Marantao I,Cawayan ES,-linuk cawayan
+783,133849,ARMM,Lanao del Sur - II,East Tugaya,Cayagan ES,Bagoaingud
+784,133513,ARMM,Lanao del Sur - I,Wao I,Cebuano Group ES,"Purok 6, Cebuano Group, Wao LDS"
+785,133915,ARMM,Maguindanao II,Buldon East,Central Edcor ES,Central Dinganen
+786,216640,ARMM,Maguindanao II,Buldon West,Central Oring PS,oring
+787,133514,ARMM,Lanao del Sur - I,Wao I,Christian Village PS,Christian Village
+788,134332,ARMM,Sulu,Jolo I,Cirilo Bueno Sr. ES,"Scott Road, San Raymundo"
+789,134300,ARMM,Sulu,Indanan,Cmdr. Bara Jalaidi (Karawan) PS Annex,Karawan
+790,133380,ARMM,Lanao del Sur - I,Masiu II,Amatonding ES,"Madaya, Sawir"
+791,133627,ARMM,Lanao del Sur - II,Butig,Coloyan Primary School,"Coloyan Tambo, Butig"
+792,133539,ARMM,Lanao del Sur - I,Bumbaran,Comara ES,Comara
+793,215568,ARMM,Lanao del Sur - I,Maguing II,Comaradang PS,-Bolao
+794,133465,ARMM,Lanao del Sur - I,Saguiaran III,Comonal PS,-
+795,133370,ARMM,Lanao del Sur - I,Masiu I,Cormatan ES,Brgy. Tamboro Cormatan
+796,133302,ARMM,Lanao del Sur - I,Lumba-Bayabao I,Cormatan Langban PS,Cormatan Langban
+797,133506,ARMM,Lanao del Sur - I,Taraka II,Cormatan PS,"Budiongcalo,taraka Lanao del sur"
+798,216015,ARMM,Lanao del Sur - II,Upper Bayang,Cubo PS,"-Brgy. Cormataan, Bayang, lanao del Sur"
+799,133232,ARMM,Lanao del Sur - I,Balindong II,Dado ES,"Dado, Balindong, Lanao del Sur"
+800,133966,ARMM,Maguindanao I,Datu Piang I,Dado ES,-
+801,134025,ARMM,Maguindanao II,Kabuntalan South,Dadtumeg ES,Upper Dadtumeg
+802,134162,ARMM,Maguindanao II,Sultan Mastura,Dagurungan ES,"Dagurungan Sultan Mastura, Maguindanao"
+803,133130,ARMM,Basilan,Sumisip East,Daindingan ES,"daindingan,tikus sumisip"
+804,133804,ARMM,Lanao del Sur - II,North Pualas,Daksla Elementary School,-
+805,133934,ARMM,Maguindanao I,Mangudadatu,Daladagan ES,-Daladagan
+806,133675,ARMM,Lanao del Sur - II,Lumbatan II,Dalama PS,-
+807,134080,ARMM,Maguindanao I,Pagalungan,Dalgan ES,-
+808,216056,ARMM,Lanao del Sur - II,Lumbatan I,Dalipuga PS,-
+809,134821,ARMM,Tawi-Tawi,Sapa-Sapa II (Banaran),Dalo Dalo ES,Dalo-Dalo
+810,134141,ARMM,Maguindanao II,Sultan Kudarat I,Dalumangcob PS,Dalumangcob Sultan Kudarat Maguindanao
+811,133628,ARMM,Lanao del Sur - II,Butig,Dama Elementary School,"Dama, Sandab, Butig Lanao del Sur"
+812,133967,ARMM,Maguindanao I,Datu Piang II,Damabalas ES,"damabalas, datu piang, maguindanao"
+813,134197,ARMM,Maguindanao I,Talayan,Kalantungan ES,"-Damablac, Talayan, Maguindanao"
+814,134118,ARMM,Maguindanao I,Paglat,Damakling ES,-
+815,134081,ARMM,Maguindanao I,Pagalungan,Damalasak ES,-
+816,134520,ARMM,Sulu,Parang,Danapa PS Annex IV,-
+817,133600,ARMM,Lanao del Sur - II,Lower Bayang,Dandamun CPS,Dandamun
+818,134342,ARMM,Sulu,Jolo II,Dandan Ututalum Elementary School,Bus-Bus st.
+819,133274,ARMM,Lanao del Sur - I,Ditsaan Ramain II,Dangipurampiai PS,"Brgy. Dangipurampiai, ditsaan ramain lanao del sur"
+820,134879,ARMM,Tawi-Tawi,Tandubas,Danglog ES,tapian sokah
+821,134181,ARMM,Maguindanao I,Rajah Buayan,Dansalan ES,"sitio dansalan, Panadtaban"
+822,133397,ARMM,Lanao del Sur - I,Masiu A District,Dansalan Primary School,"-Dansalan, Masiu, Lanao del Sur"
+823,134904,,,,,
+824,133812,ARMM,Lanao del Sur - II,South Pualas,Danugan Central Elementary School,"Danugan, Pualas, Lanao del Sur"
+825,216048,ARMM,Lanao del Sur - II,East Ganassi,Dapaan Primary School,-Dapaan Ganassi Lanao Del S
+826,134489,ARMM,Sulu,Pangutaran,Daplinan ES,-
+827,216584,ARMM,Maguindanao II,Sultan Mastura,Darping Elementary School,-Brgy. Macabiso
+828,133787,ARMM,Lanao del Sur - II,Calanogas,Darussalam Elementary School,panggawalupa calanogas lanao del sur
+829,134876,ARMM,Tawi-Tawi,Languyan,DarussalamPS,darussalam
+830,133070,ARMM,Basilan,Pilas,Dasalan ES,Pilas
+831,134785,ARMM,Tawi-Tawi,Languyan,Datag Bud Primary School,MARANG-MARANG
+832,133950,ARMM,Maguindanao I,Datu Paglas East,Datang Pilot ES,"-Datang, Datu Paglas, Maguindanao"
+833,216569,ARMM,Maguindanao I,Pagalungan,Dataya ES,-
+834,216578,ARMM,Maguindanao II,Buldon East,Datu Abolais A. Manalao PS,-DINGANEN BULDON MAGUINDANAO
+835,216581,ARMM,Maguindanao II,Buldon West,Datu Abolais Manalao PS,Crossing Bora
+836,216616,ARMM,Maguindanao I,Sultan Sa Barongis,Datu Alamansa Angas ES,-
+837,133253,ARMM,Lanao del Sur - I,Bubong II,Datu Alambas PS,-
+838,134840,ARMM,Tawi-Tawi,West Sibutu/Sitangkai,Datu Alamia ES,Panglima Alari
+839,218001,,,,,
+840,216645,ARMM,Maguindanao I,Datu Hoffer Ampatuan,Datu Aliman Ampatuan ES,Tuayan Mother
+841,133991,ARMM,Maguindanao II,DOS North,Datu Andong PS,Datu Andong
+842,216649,ARMM,Maguindanao I,Datu Anggal,Datu Anggal Midtimbang ES,"Crossing Matalam, Brgy. Pob. Midtimbang"
+843,133466,ARMM,Lanao del Sur - I,Saguiaran III,Datu Batugan ES,-
+844,216602,ARMM,Maguindanao II,DOS South,Datu Butocan Abas ES,"Upper Makir, D.O.S., Maguindanao"
+845,216624,ARMM,Maguindanao I,Paglat,Datu Conte Mangelen ES,Sitio Kiludan Damalusay Paglat Maguindanao
+846,134841,ARMM,Tawi-Tawi,West Sibutu/Sitangkai,Datu Dawila PS,Saluag
+847,134924,,,,,
+848,133875,ARMM,Maguindanao I,Ampatuan,Datu Dumpao Banog ES,"Barangay Kapinpilan,Ampatuan,Maguindanao"
+849,134900,ARMM,Tawi-Tawi,Bongao Central,Datu Halun Central ES,-Ilmoh St. Poblacion
+850,134842,ARMM,Tawi-Tawi,West Sibutu/Sitangkai,Datu Halun CES,Imam Sapie
+851,134902,ARMM,Tawi-Tawi,Bongao Central,Datu Halun Laboratory School,Ilmoh St. DepEd Compound Bongao Tawi-Tawi
+852,134901,ARMM,Tawi-Tawi,Bongao Central,Datu Halun Pilot ES,"ILMOH STREET, POBLACION"
+853,217510,ARMM,Tawi-Tawi,West Simunul,Datu Hji. Amilbangsa CES,Ubol
+854,216644,ARMM,Maguindanao I,Datu Hoffer Ampatuan,Datu Hoffer Ampatuan CES,-
+855,133945,ARMM,Maguindanao I,Buluan,Datu Idon S'pi ES,Buluan Maguindanao
+856,134829,ARMM,Tawi-Tawi,East Sibutu I (Tando Owak),Datu Jaafar CES,Datu Amilhamja Jaafar
+857,134014,ARMM,Maguindanao II,DOS South,Datu Kiram ES,Bongued
+858,216623,ARMM,Maguindanao I,Datu Saudi Uy Ampatuan,Datu Koguia Utto ES,-
+859,216570,ARMM,Maguindanao I,Gen. S. K. Pendatun,Datu Langalen Matagmama ES,"-LUMABAO, GEN. SK PENDATUN"
+860,134925,,,,,
+861,133303,ARMM,Lanao del Sur - I,Lumba-Bayabao I,Datu Macud PS,-Lobo Basara
+862,134139,ARMM,Maguindanao II,Sultan Kudarat I,Datu Manguda Mangilay ES,"Macaguiling, Sultan Kudarat, Maguindanao"
+863,133895,ARMM,Maguindanao II,Barira South,Datu Mantani Taug MPS,CENTER BUALAN BARIRA
+864,134206,ARMM,Maguindanao I,Talitay,Datu Mapandala ES,-Kiladap Talitay
+865,134786,ARMM,Tawi-Tawi,Languyan,Datu Maulana ES,"Datu Maulana, Bas-Nunuk"
+866,134140,ARMM,Maguindanao II,Sultan Kudarat I,Datu Mulok ES,"Limbo, Sultan Kudarat, Maguindanao"
+867,134171,ARMM,Maguindanao II,Sultan Mastura,Datu Panda ES,Giati
+868,216651,ARMM,Maguindanao I,Datu Hoffer Ampatuan,Datu Pinagayao Ampatuan ES,Tuayan I
+869,134011,ARMM,Maguindanao II,DOS South,Datu Pinguiaman ES,Baka
+870,216527,ARMM,Maguindanao I,Buluan,Datu Powa K. Mangudadatu ES,SITIO MANGUDADATU BULUAN MAGUINDANAO
+871,134275,ARMM,Maguindanao II,Datu Blah Sinsuat,Datu Sa Biwang ES,Matuber
+872,134938,ARMM,Marawi City,North District,Datu Saber Elementary School,"Barangay Saber, Marawi City"
+873,133876,ARMM,Maguindanao I,Datu Abdullah Sangki,Datu Sailila CES,-
+874,134957,ARMM,Marawi City,West District,Datu Tambak Etado Primary School,"Rapasen, MSU marawi City"
+875,134189,ARMM,Maguindanao I,Sultan Sa Barongis,Datu Tecson Mamalo ES,-
+876,133992,ARMM,Maguindanao II,DOS North,Datu Wampa Baraquir PS,"Tamontaka, Datu Odin Sinsuat, Maguindanao"
+877,133838,ARMM,Lanao del Sur - II,Tubaran,Datumanong Primary School,-
+878,134447,ARMM,Sulu,Pata,Daungdong ES,-Guwasangay
+879,134276,ARMM,Maguindanao II,Datu Blah Sinsuat,Dawat Central Elementary School,"Penensaran, DBS, Maguindanao-"
+880,133381,ARMM,Lanao del Sur - I,Masiu II,Dayawan ES,-Dayawan
+881,134301,ARMM,Sulu,Indanan,Dayuan Primary School,KM 8
+882,133691,ARMM,Lanao del Sur - II,Lumbayanague I,Deromoyod PS,-
+883,133345,ARMM,Lanao del Sur - I,Marantao I,Dialongana PS,Cawayan Dialongana
+884,134119,ARMM,Maguindanao I,Gen. S. K. Pendatun,Digaon ES,-
+885,133629,ARMM,Lanao del Sur - II,Butig,Dilabayan ES,-
+886,215540,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Dilabayan PS,not applicable
+887,133681,ARMM,Lanao del Sur - II,Lumbaca Unayan,Dilausan Central Elementary School,Dilausan Dimapaok
+888,133234,ARMM,Lanao del Sur - I,Balindong II,Dilausan ES,"Dilausan, Balindong, Lanao del Sur"
+889,133329,ARMM,Lanao del Sur - I,Maguing,Dilausan Poblacion PS,Dilausan Poblacion
+890,133454,ARMM,Lanao del Sur - I,Saguiaran II,Dilausan PS,"-Dilausan, Saguiaran"
+891,133476,ARMM,Lanao del Sur - I,Tamparan District,Dilausan PS,-Dilausan
+892,133246,ARMM,Lanao del Sur - I,Bubong I,Dilimbayan PS,RAMAIN BUBONG
+893,133850,ARMM,Lanao del Sur - II,Central Tugaya,Dilimbayan PS,Dilimbayan
+894,133330,ARMM,Lanao del Sur - I,Maguing,Dilimbayan PS,Dilimbayan
+895,133312,ARMM,Lanao del Sur - I,Lumba-Bayabao II,Dilindongan ES,Dilindongan Street
+896,133382,ARMM,Lanao del Sur - I,Masiu II,Dimabara ES,Dimabara Street
+897,133280,ARMM,Lanao del Sur - I,Ditsaan Ramain III,Dimadap-Talub ES,"Dimadap-Talub,Ditsaan Ramain"
+898,253014,ARMM,Maguindanao II,Buldon East,Dimagalen elementary school,DIMAGALEN
+899,133283,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Dimagalin ES,Dimagalin
+900,133878,ARMM,Maguindanao I,Datu Abdullah Sangki,Dimampao ES,-
+901,133254,ARMM,Lanao del Sur - I,Bubong II,Dimapatoy ES,-Dimapatoy
+902,133383,ARMM,Lanao del Sur - I,Masiu II,Dimapatoy PS,-Dimapatoy
+903,133993,ARMM,Maguindanao II,DOS North,Dimapatoy PS,Dimapatoy
+904,133613,ARMM,Lanao del Sur - II,Binidayan,Dimaporo CES,
+905,216041,ARMM,Lanao del Sur - II,Lumbayanague II,Datu Dimapundug PS,-
+906,216065,ARMM,Lanao del Sur - II,Lumbayanague I,Dimaronsing PS,Beruar
+907,216661,ARMM,Maguindanao I,Datu Saudi Uy Ampatuan,Dimaukom Utto ES,"SITIO BAY, BRGY. KABINGI DSA MAG."
+908,133507,ARMM,Lanao del Sur - I,Taraka II,Dimayon ES,"dimayon,taraka lanao del sur"
+909,216025,ARMM,Lanao del Sur - II,Diwan,Dimunda PS,-
+910,133284,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Dimunda PS,
+911,133994,ARMM,Maguindanao II,DOS North,Dinaig ES,DINAIG PROPER
+912,133916,ARMM,Maguindanao II,Buldon East,Dinganen Central ES,Upper Dinganen
+913,133869,ARMM,Lanao del Sur - II,Sultan Dumalondong,Dinganun Primary School,-
+914,133515,ARMM,Lanao del Sur - I,Wao I,Diomil Village PS,Banga
+915,133371,ARMM,Lanao del Sur - I,Masiu I,Ditopor Bugaran ES,Maranat Bontalis
+916,133601,ARMM,Lanao del Sur - II,Diwan,Diwan Central Elementary School,Maliwanag
+917,133631,ARMM,Lanao del Sur - II,Butig,Dolangan Primary School,-
+918,134939,,,,,
+919,133995,ARMM,Maguindanao II,DOS North,Don A. Martinez ES,"-Bual, Badak Datu Odin Sinsuat Maguindanao"
+920,134277,ARMM,Maguindanao II,Upi West,"Don F. Blanco, Sr. ES",Brgy. Kinitaan
+921,133972,ARMM,Maguindanao I,Datu Piang I,Duaminanga ES,-river street
+922,134376,ARMM,Sulu,Laminusa,Duggo PS,-Duggo Siasi Sulu
+923,134759,ARMM,Tawi-Tawi,Mapun,Duhul Batu ES,duhul batu
+924,216531,ARMM,Maguindanao II,DOS North,Dulangan PS,-Southbound National Highway
+925,134927,ARMM,Marawi City,Northeast -II District,Dulay ES,Dulay
+926,134672,ARMM,Sulu,Tongkil,Dungon ES,none
+927,134693,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Dungon Elementary School,Dungon
+928,133879,ARMM,Maguindanao I,Datu Abdullah Sangki,Durian ES,Durian
+929,133824,ARMM,Lanao del Sur - II,Sultan Gumander,Durian Elementary School,"Durian Picong , Lanao Del Sur"
+930,134092,ARMM,Maguindanao II,Parang North,E. Molina Sr. Memo. ES,Gumagadong Calawag
+931,216005,ARMM,Lanao del Sur - II,Lumbayanague I,East Balaigay PS,-
+932,217024,ARMM,Sulu,Tongkil,East Tattalan ES,-
+933,133917,ARMM,Maguindanao II,Buldon West,Edbul ES,Pob.Edcor
+934,216529,ARMM,Maguindanao I,Datu Saudi Uy Ampatuan,Elian ES,-
+935,216648,ARMM,Maguindanao I,South Upi,Embing Mama ES,LETE
+936,134763,ARMM,Tawi-Tawi,Mapun,Erok Erok PS,EROK EROK
+937,134222,ARMM,Maguindanao II,Upi North,F. Besas Sr. ES,"Baka, Blensong, Upi Maguindanao"
+938,216627,ARMM,Maguindanao I,South Upi,Fabian Marcos ES,ROMANGAOB SOUTH UPI
+939,134223,ARMM,Maguindanao II,Upi North,Fantil ES,BAYABAS
+940,218004,ARMM,Marawi City,Northeast -II District,Fatima PS,Raya Guimba Street
+941,216544,ARMM,Maguindanao I,South Upi,Feta ES,-
+942,216622,ARMM,Maguindanao I,Datu Paglas East,Filasol PS,elbebe
+943,134807,ARMM,Tawi-Tawi,Sapa-Sapa I,Gadjaminah PS,Palate
+944,133281,ARMM,Lanao del Sur - I,Ditsaan Ramain III,Gadongan ES,"GADONGAN, DITSA-AN RAMAIN"
+945,133318,ARMM,Lanao del Sur - I,Lumba-Bayabao III,Gadongan PS,GADONGAN LUMBA BAYABAO
+946,133455,ARMM,Lanao del Sur - I,Saguiaran II,Gadongan PS,"Gadongan,Saguiaran, Lanao del Sur"
+947,216038,ARMM,Lanao del Sur - II,Tubaran,Gadongan Primary School,Gadongan
+948,133896,ARMM,Maguindanao II,Barira,Gadung ES,"Gadung, Barira, Maguindanao"
+949,133653,ARMM,Lanao del Sur - II,West Ganassi,Gadungan ES,GADUNGAN
+950,134183,ARMM,Maguindanao I,Sultan Sa Barongis,Gadungan ES,"Barangay Gadungan, Sultan Sa Barongis"
+951,134207,ARMM,Maguindanao I,Talitay,Gadungan ES,-Gadaungan Talitay
+952,253011,ARMM,Maguindanao II,Parang Bongo,Gadungan Pebpandaran PS,"Gadungan Pebpandaran, Parang, Maguindanao"
+953,216636,ARMM,Maguindanao I,Pagalungan,Gagadanan ES,"Gagadanan, Kilangan, Pagalungan, Maguindanao"
+954,133319,ARMM,Lanao del Sur - I,Lumba-Bayabao III,Galawan-Dialongana CES,LINDONGAN DIALONGANA
+955,134026,ARMM,Maguindanao II,Kabuntalan South,Gambar PS,Gambar
+956,134224,ARMM,Maguindanao II,Upi North,Gamek ES,"Tinungkaan,Upi, Maguindanao"
+957,133602,ARMM,Lanao del Sur - II,Lower Bayang,Gandamato PS,-
+958,254510,ARMM,Lanao del Sur - I,Ditsaan Ramain III,Gandamato PS,-Gandamato
+959,134553,ARMM,Sulu,Patikul,Gandasuli ES,-
+960,133973,ARMM,Maguindanao I,Shariff Saydona Mustapha,Ganta ES,-
+961,134027,ARMM,Maguindanao II,Kabuntalan South,Ganta PS,-Tuka Ganta
+962,134400,ARMM,Sulu,Lugus,Gapas PS,-
+963,133547,ARMM,Lanao del Sur - II,Kalawi,Gasan Primary School,-
+964,133263,ARMM,Lanao del Sur - I,Buadipuso-Buntong,Gata ES,-
+965,134630,ARMM,Sulu,Talipao,Gata Primary School,-
+966,216592,ARMM,Maguindanao I,Rajah Buayan,Gaunan ES,Brgy. Guanan
+967,216662,ARMM,Maguindanao I,Datu Saudi Uy Ampatuan,Gawang ES,"Gawang, DSA Mag."
+968,134028,ARMM,Maguindanao II,Kabuntalan North,Gayonga CES,Paulino Labio Ave
+969,133952,ARMM,Maguindanao I,Datu Paglas South,Gen. SKP Memorial ES,-
+970,133304,ARMM,Lanao del Sur - I,Lumba-Bayabao I,General Metoker Lamping ES,MAPANTAO
+971,134694,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Gowakan PS,"gowakan, liyaburan"
+972,133897,ARMM,Maguindanao II,Barira,Gubat PS,-Gadung
+973,216565,ARMM,Maguindanao II,Kabuntalan North,Guiawa PS,Guiawa
+974,134106,ARMM,Maguindanao II,Parang South,Guiday T. Biruar PS,Guiday Biruar
+975,133409,ARMM,Lanao del Sur - I,Mulondo,Guilopa ES,Ilian
+976,134522,ARMM,Sulu,Parang,Guimba Lagasan PS,-
+977,134940,ARMM,Marawi City,North District,Guimba Lilod PS,Guimba Lilod St.
+978,134401,ARMM,Sulu,Lugus,Guimba Pait PS,-
+979,134107,ARMM,Maguindanao II,Parang South,Guinaid Guiani Mem. ES,Banisilan
+980,215572,ARMM,Lanao del Sur - I,Masiu II,Guindolongan Alabat PS,"Barangay Guindolongan, Masiu"
+981,216521,ARMM,Maguindanao I,Datu Abdullah Sangki,Guinibon ES,"Guinibon, Datu Abdullah Sangki"
+982,216603,ARMM,Maguindanao I,Mamasapano North,Guintawan ES,-
+983,134131,ARMM,Maguindanao I,Shariff Saydona Mustapha,Gumbay ES,-
+984,134760,ARMM,Tawi-Tawi,Mapun,Guppah ES,Guppah
+985,133562,ARMM,Lanao del Sur - II,Bacolod,Gurain PS,"gurain, bacolod kalawi"
+986,133862,ARMM,Lanao del Sur - II,West Tugaya,Gurain Primary School,Gurain
+987,134094,ARMM,Maguindanao II,Parang Bongo,H. Asma Biruar ES,"Tagudtungan, Bongo Is., Parang, Maguindanao"
+988,218007,ARMM,Marawi City,Northeast -II District,H. Hassan Memorial Elementary School,Dopao Malimono St.
+989,134523,ARMM,Sulu,Parang,H. Panglima Tingkahan ES,-
+990,134524,ARMM,Sulu,Parang,H. Tomoay Sabdani ES,-
+991,134360,ARMM,Sulu,Jolo IV,H.T. Abubakar Schuck ES,-Takut-Takut
+992,134891,ARMM,Tawi-Tawi,Tubig Indangan,Hadji Aluk ES,Tubig Indangan Simunul
+993,216567,ARMM,Maguindanao II,Parang Bongo,Hadji Datu Taha Biruar PS,"Datu Macarimabang, Bongo Is., Parang, Maguindanao"
+994,134403,ARMM,Sulu,Lugus,Hadji Sali Tammang PS,Larap Lugusee
+995,216610,ARMM,Maguindanao I,Mamasapano,Hadji Salik Kalaing ES,-
+996,134266,ARMM,Maguindanao I,South Upi,Hadji Usop T. Campong ES,"SARAMURAY, PILAR, SOUTH UPI, MAGUINDANAO"
+997,217514,ARMM,Tawi-Tawi,Bongao III,Hadji Yahya I. Pailan Primary School,SILUBBOG
+998,134603,ARMM,Sulu,Sibaud,Hambilan ES,Hambilan Street
+999,134334,ARMM,Sulu,Jolo I,Hamid Halim ES,Scott Road San Raymundo
+1000,134896,ARMM,Tawi-Tawi,Tubig Indangan,Hhussin Hassan ES (Tubig Indangan East ES),TUBIG INDANGAN
+1001,134880,ARMM,Tawi-Tawi,Tandubas,Himba PS,-
+1002,134871,ARMM,Tawi-Tawi,West South Ubian,Hj. Amilhasan ES,BUNAY-BUNAY
+1003,134631,ARMM,Sulu,Talipao,Hj. Hassan Idon ES,"Andalan, Talipao, Sulu"
+1004,134605,ARMM,Sulu,Sibaud,Hj.Usman Sangkalang ES,"-Tangunan,Siganggang,Pandami,Sulu"
+1005,217044,ARMM,Sulu,Parang,Hji Matingka Hashim PS,-
+1006,134881,ARMM,Tawi-Tawi,Tandubas,Hji. Abbas Jawad ES,TANGNGAH
+1007,134858,ARMM,Tawi-Tawi,West Simunul,Hji. Akbar Ulama ES,PAGASINAN
+1008,252540,ARMM,Sulu,Panamao,Hji. Aliakbar Agga Primary School,"Gagguil, Panglima Estino, Sulu"
+1009,134823,ARMM,Tawi-Tawi,Sapa-Sapa II (Banaran),Hji. Moh. Sha Tabarasa ES,Lakit Lakit
+1010,217512,ARMM,Tawi-Tawi,West Simunul,Hji. Usman Dumahal ES,Panglima Mastul
+1011,134715,ARMM,Tawi-Tawi,Bongao III,Hji. Yahiya Biste ES,Pasiagan
+1012,217527,ARMM,Tawi-Tawi,Bongao III,Hji. Yunos Jumdain ES,"TUBIG-BOH,BONGAO,TAWI-TAWI"
+1013,134420,ARMM,Sulu,Luuk (Kalinggalan Calauang),HUWIT-HUWIT ELEMENTARY SCHOOL,Huwit-Huwit-HUWIT
+1014,134059,ARMM,Maguindanao II,Matanog,Ibay ES,"Tiongcop, Sapad, Matanog, Maguindanao"
+1015,134632,ARMM,Sulu,Talipao,Ibnogarib Primary School,"Tinggah, Talipao, Sulu"
+1016,133825,ARMM,Lanao del Sur - II,Sultan Gumander,Ibos PS,-
+1017,134143,ARMM,Maguindanao II,Sultan Kudarat II,Ibotigen ES,"Brgy. Ibotigen, Sultan Kudarat, Maguindanao"
+1018,133898,ARMM,Maguindanao II,Barira North,Ibra Bulyoc Memo Central ES,"Calagan, Tugaig, Barira, Maguindanao"
+1019,133578,ARMM,Lanao del Sur - II,South Balabagan,Igabay ES,-Igabay
+1020,134041,ARMM,Maguindanao I,Datu Unsay,Iganagampong ES,"Barangay Iganagampong, Datu Unsay, Maguindanao"
+1021,134554,ARMM,Sulu,Patikul,Igasan Elementary School,"brgy. Igasan, Patikul"
+1022,134302,ARMM,Sulu,Indanan,Ikih Primary School,Andihih
+1023,133795,ARMM,Lanao del Sur - II,Pagayawan,Ilian Elementary school,"Ilian, Pagayawan Lanao del Sur"
+1024,216036,ARMM,Lanao del Sur - II,North Balabagan,Ilian Primary School,Ilian Balabagan Lanao Del sur
+1025,216016,ARMM,Lanao del Sur - II,Upper Bayang,Ilian Primary School,"Brgy. Ilian, Bayang lanao del Sur"
+1026,216054,ARMM,Lanao del Sur - II,Sultan Gumander,Ilian Elementary School,"Ilian, Picong, Lanao del Sur"
+1027,133499,ARMM,Lanao del Sur - I,Taraka I,Ilian-Dilabayan ES,"Dilabayan,Taraka"
+1028,134421,ARMM,Sulu,Luuk (Kalinggalan Calauang),Imam Abdusali Elementary School,-
+1029,134850,ARMM,Tawi-Tawi,Manukmangkaw,Imam Alam ES,Timundon
+1030,134849,ARMM,Tawi-Tawi,Manukmangkaw,Imam Banjal ES,MANUK MANGKAW
+1031,134363,ARMM,Sulu,Jolo IV,Imam Esmi PS,Serantes Street
+1032,134809,ARMM,Tawi-Tawi,Sapa-Sapa I,Imam Gayong ES,LATUAN
+1033,134851,ARMM,Tawi-Tawi,Manukmangkaw,Imam Ulama ES,LUUK DATAN
+1034,134839,ARMM,Tawi-Tawi,East Sibutu II (Tandubanak),Imam Uyong Dastala ES,Barangay Tongsibalo
+1035,134606,ARMM,Sulu,Sibaud,Iman Asula PS,Ratag
+1036,133614,ARMM,Lanao del Sur - II,Binidayan,Ingud PS,"Barangay Ingud, Binidayan, Lanao Sur"
+1037,133805,ARMM,Lanao del Sur - II,North Pualas,Ingud PS,-
+1038,216568,ARMM,Maguindanao I,Pagalungan,Inug-ug ES,-
+1039,134448,ARMM,Sulu,Maimbung,Ipil ES,Ipil
+1040,134377,ARMM,Sulu,Laminusa,Ipil PS,Ipil
+1041,134733,ARMM,Tawi-Tawi,Bongao III,Ipil PS,ipil
+1042,215012,ARMM,Basilan,Sumisip East,Ismael Memorial PS,sitio daingan
+1043,134249,ARMM,Maguindanao I,South Upi,Itaw ES,-
+1044,134525,ARMM,Sulu,Parang,Jaika PS,-
+1045,252529,ARMM,Sulu,Siasi II,Jambangan ES,-
+1046,133191,ARMM,Basilan,Tuburan,Jose Abad Santos PS,-
+1047,217056,ARMM,Sulu,Talipao,Jubail Primary School,"Barangay Kahawa,talipao"
+1048,134225,ARMM,Maguindanao II,Upi North,Kabakaba ES,Kabakaba
+1049,133969,ARMM,Maguindanao I,Shariff Saydona Mustapha,Kabalukanen ES,"-Dasawao, Shariff Saydona Mustapha"
+1050,134570,ARMM,Sulu,Siasi I,Kabankalan ES,-
+1051,133516,ARMM,Lanao del Sur - I,Wao I,Kabatangan ES,"Purok 1,Kabatangan"
+1052,134633,ARMM,Sulu,Talipao,Kabatuhan Bilaan PS Annex III,-
+1053,134584,ARMM,Sulu,Siasi II,Kabubu PS,none-
+1054,133937,ARMM,Maguindanao I,Pandag,Kabuling ES,-
+1055,261502,ARMM,Maguindanao II,Kabuntalan North,Kabuluan Primary School,Sitio Kabuluan
+1056,134490,ARMM,Sulu,Pangutaran,Kabungkagan ES,-
+1057,217010,ARMM,Sulu,Talipao,Kabungkol Elementary School,-
+1058,134029,ARMM,Maguindanao II,Kabuntalan South,Kabuntalan CES,"Pedtad, Kabuntalan, Maguindanao"
+1059,134227,ARMM,Maguindanao II,Upi North,Kabutoyen ES,Blensong Upi Maguindanao
+1060,134555,ARMM,Sulu,Patikul,Kadday Mampalam ES,-brgy. kadday mampallam
+1061,133517,ARMM,Lanao del Sur - I,Wao I,Kadingilan ES,Kadingilan Proper
+1062,134303,ARMM,Sulu,Indanan,Kagay Elementary School,kagay
+1063,134634,ARMM,Sulu,Talipao,Kagay ES,Kagay
+1064,134673,ARMM,Sulu,Tongkil,Kahikukuk ES,none
+1065,134526,ARMM,Sulu,Parang,Kahoy Sinah ES,-
+1066,215016,ARMM,Basilan,Pilas,Kainahan PS,Pilas
+1067,216596,ARMM,Maguindanao I,Paglat,Kakal ES,"kakal,paglat,mag.-"
+1068,134144,ARMM,Maguindanao II,Sultan Kudarat II,Kakar PS,Kakar
+1069,216626,ARMM,Maguindanao I,Gen. S. K. Pendatun,Kaladturan ES,-Kaladturan
+1070,134787,ARMM,Tawi-Tawi,Languyan,Kalang PS,kalang
+1071,134674,ARMM,Sulu,Tongkil,Kalang PS (Dungon ES Annex I),none
+1072,133346,ARMM,Lanao del Sur - I,Marantao I,Kalaw ES,"Kalaw, Cawayan"
+1073,134083,ARMM,Maguindanao I,Pagalungan,Kalbugan ES,-
+1074,216587,ARMM,Maguindanao I,Mangudadatu,Kalian ES,None
+1075,216589,ARMM,Maguindanao I,Mangudadatu,Kalim ES,-
+1076,133974,ARMM,Maguindanao I,Datu Piang I,Kalipapa ES,-
+1077,134198,ARMM,Maguindanao I,Guindulungan,Kalumamis ES,"-kalumamis.guindulungan,maguindanao"
+1078,133953,ARMM,Maguindanao I,Datu Paglas East,Kalumenga ES,Barangay Proper
+1079,254506,ARMM,Lanao del Sur - I,Piagapo West,Kalungunan PS,Bazagad Kalungunan Piagapo
+1080,134695,ARMM,Tawi-Tawi,Bongao III,Kamagong PS,-
+1081,133880,ARMM,Maguindanao I,Ampatuan,Kamasi ES,"Kamasi, Ampatuan"
+1082,252505,ARMM,Sulu,Pata,Kamawi PS,-
+1083,134460,ARMM,Sulu,Pata,Kamawi PS (Mawaji PS),-KANGKANGAN
+1084,134422,ARMM,Sulu,Luuk (Kalinggalan Calauang),Kambing Elementary School,-kambing Street
+1085,252533,ARMM,Sulu,Panamao,Kamih Pungod Primary School,"Kamih Pungud, Panglima Estino, Sulu"
+1086,252510,ARMM,Sulu,Luuk (Kalinggalan Calauang),Kamlon Hji. Angsa PS,-
+1087,134228,ARMM,Maguindanao II,Upi North,Kamonsawi ES,Nangi
+1088,252520,ARMM,Sulu,Luuk (Kalinggalan Calauang),Kanbulak Annex PS,kanbulak Luuk Sulu
+1089,134636,ARMM,Sulu,Talipao,Kandaga Primary School,-
+1090,252541,ARMM,Sulu,Panamao,Kandangan Primary School,"Kandangan, Panamao, Sulu"
+1091,133518,ARMM,Lanao del Sur - I,Wao I,Kanipisan ES,"-P3, Gata/Kanipisan"
+1092,252503,ARMM,Sulu,Pata,Kanjarang ES,Kuta Kahoy
+1093,134423,ARMM,Sulu,Luuk (Kalinggalan Calauang),KanLagay ES Annex I,-Bgry Kanlagay Kalingalan Caluang
+1094,134637,ARMM,Sulu,Talipao,Kanlibut PS,-KANLIBUT TALIPAO SULU
+1095,252513,ARMM,Sulu,Luuk (Kalinggalan Calauang),Kanmindus PS,Kanmindus Luuk Sulu
+1096,134424,ARMM,Sulu,Luuk (Kalinggalan Calauang),Kanmuni Elementary School,"-Kanmuni, TANGKUAN,OMAR"
+1097,134425,ARMM,Sulu,Luuk (Kalinggalan Calauang),Kanpagayoh PS Annex,-Kanpagayoh Kalingalang Caluang
+1098,252539,ARMM,Sulu,Panamao,Kansipat Elementary School,"Kansipat, Panamao, Sulu"
+1099,133285,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Kapai ES,
+1100,133286,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Kapai Proper PS,"-KAPAI PROPER, KAPAI"
+1101,133851,ARMM,Lanao del Sur - II,East Tugaya,Kapatagan ES,Dilimbayan
+1102,134229,ARMM,Maguindanao II,Upi North,Kapilit ES,"Blensong,Upi,Maguindanao"
+1103,134145,ARMM,Maguindanao II,Sultan Kudarat I,Kapimpilan ES,"Kapimpilan,Sultan Kudarat, Maguindanao"
+1104,134426,ARMM,Sulu,Luuk (Kalinggalan Calauang),Kapual ES,-Tandu gusoh
+1105,215501,ARMM,Lanao del Sur - I,Balindong II,Karigongan PS,"Kaluntay, Balindong, Lanao del sue"
+1106,133919,ARMM,Maguindanao II,Buldon East,Karim ES,Karim
+1107,134734,ARMM,Tawi-Tawi,Bongao III,Karungdong CFES,BRGY.KARUNGDONG
+1108,134306,ARMM,Sulu,Indanan,Kasambuhan Village Elementary School,"Km.4, Kasambuhan Village."
+1109,215539,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Kasayanan West PS,Kasayanan West
+1110,252521,ARMM,Sulu,Luuk (Kalinggalan Calauang),Kasulutan Elementary School,Kasulutan
+1111,134199,ARMM,Maguindanao I,Talayan,Katibpuan ES,"Katibpuan,Talayan,Maguindanao"
+1112,217049,ARMM,Sulu,Pangutaran,Katibung PS,-
+1113,216538,ARMM,Maguindanao II,Sultan Kudarat II,Katidtuan Elementary School,Katidtuan
+1114,134030,ARMM,Maguindanao II,Kabuntalan South,Katidtuan ES,Katidtuan
+1115,134230,ARMM,Maguindanao II,Upi North,Katiguesen ES,NATIONAL HIGHWAY
+1116,133954,ARMM,Maguindanao I,Datu Paglas South,Katil ES,"-Katil, Datu Paglas"
+1117,216654,ARMM,Maguindanao I,Datu Montawal(Pagagawan),Katitisan ES,"Sitio Katitisan, Tunggol"
+1118,134060,ARMM,Maguindanao II,Matanog,Katubo ES,Bayanga Sur
+1119,133148,ARMM,Basilan,Tipo-Tipo East,Kaulungan Primary School,Lo-ok bisaya (kaulungan Island)
+1120,134491,ARMM,Sulu,Pangutaran,Kaumpang Gilingan ES,-
+1121,134557,ARMM,Sulu,Patikul,Kaunayan ES,Kaunayan
+1122,134250,ARMM,Maguindanao I,South Upi,Kaus ES,"-Kaus,Pilar,South Upi,Maguindanao"
+1123,134492,ARMM,Sulu,Pangutaran,Kawitan ES,-
+1124,133882,ARMM,Maguindanao I,Datu Abdullah Sangki,Kaya-Kaya ES,-
+1125,133938,ARMM,Maguindanao I,Pandag,Kayaga ES,"Kayaga, Pandag Maguindanao"
+1126,134449,ARMM,Sulu,Pata,Kayawan ES,-Kayawan
+1127,133939,ARMM,Maguindanao I,Pandag,Kayupo ES,-
+1128,134882,ARMM,Tawi-Tawi,Tandubas,Kepeng Elem. School,Kepeng
+1129,133362,ARMM,Lanao del Sur - I,Marantao II,Kialdan ES,-
+1130,133615,ARMM,Lanao del Sur - II,Binidayan,Kialilidan PS,-
+1131,133287,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Kianibong PS,
+1132,134231,ARMM,Maguindanao II,Upi North,Kibleg ES,"Kibleg Upi, Maguindanao"
+1133,133288,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Kibolos Manginsokor PS,
+1134,134061,ARMM,Maguindanao II,Matanog,Kidama PS,Kidama
+1135,134278,ARMM,Maguindanao II,Upi West,Kiga ES,Kiga
+1136,134251,ARMM,Maguindanao I,South Upi,Kigan ES,"Kigan, South Upi, Maguindanao"
+1137,134493,ARMM,Sulu,Pangutaran,Kihi Niog ES,-
+1138,134915,ARMM,Marawi City,Angoyao East District,Kilala Primary School,Kilala St. Marawi City
+1139,134232,ARMM,Maguindanao II,Upi North,Kindal ES,-KM.30
+1140,134016,ARMM,Maguindanao II,DOS South,Kinebeka ES,na
+1141,134252,ARMM,Maguindanao I,South Upi,Kinemkem ES,Kinemkem
+1142,134789,ARMM,Tawi-Tawi,Languyan,Kiniktal PS,KINIKTAL
+1143,134279,ARMM,Maguindanao II,Datu Blah Sinsuat,Kinimi Elementary School,"Kinimi,Datu Blah Sinsuat, Mag."
+1144,133289,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Kining PS,Kining
+1145,252504,ARMM,Sulu,Pata,Kiput ES,-barangay kiput
+1146,216642,ARMM,Maguindanao II,Sultan Mastura,Kirkir Elementary School,Brgy. kirkir
+1147,133976,ARMM,Maguindanao I,Datu Saudi Uy Ampatuan,Kitapok ES,-
+1148,134208,ARMM,Maguindanao I,Datu Anggal,Kiteb CES,"Sitio Kiteb Brgy. Mapayag Datu Anggal Midtimbang, Maguindanao"
+1149,134253,ARMM,Maguindanao I,South Upi,Kitol ES,-
+1150,134764,ARMM,Tawi-Tawi,Mapun,Kompang ES,kompang
+1151,133706,ARMM,Lanao del Sur - II,South Madalum,Kormatan ES,"Kormatan, Madalum, Lanao del sur"
+1152,133899,ARMM,Maguindanao II,Barira,Korosuyan ES,-Korosuyan Barira Maguindanao
+1153,217521,ARMM,Tawi-Tawi,Bongao II,Kubang Mandulan Primary School,MANDULAN
+1154,134585,ARMM,Sulu,Siasi II,Kud Kud ES,"kudkud,siasi,sulu"
+1155,134209,ARMM,Maguindanao I,Talitay,Kuden ES,-Kuden Talitay
+1156,134254,ARMM,Maguindanao I,South Upi,Kuhan ES,"sitio Kuhan, Romongaob, South Upi"
+1157,134638,ARMM,Sulu,Talipao,Kuhaw Primary School,-
+1158,133168,ARMM,Basilan,Tipo-Tipo West,Kuhon Lennuh ES,-
+1159,134184,ARMM,Maguindanao I,Sultan Sa Barongis,Kulambog ES,"KULAMBOG, SULTAN SA BARONGIS, MAGUINDANAO"
+1160,134697,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Kulape PS,kulape
+1161,134494,ARMM,Sulu,Pangutaran,Kulasian PS,-
+1162,134473,ARMM,Sulu,Panamao,Kulay-Kulay PS Annex III,-kulay-kulay
+1163,133920,ARMM,Maguindanao II,Buldon East,Kulimpang ES,KULIMPANG
+1164,253010,ARMM,Maguindanao II,Matanog,Kulodan PS,Kulodan
+1165,134571,ARMM,Sulu,Siasi I,Kuntad ES,EAST KUNTAD
+1166,134308,ARMM,Sulu,Indanan,KUPPONG ES,KM17
+1167,134017,ARMM,Maguindanao II,DOS South,Kurintem ES,Kurintem D.O.S Maguindanao
+1168,133996,ARMM,Maguindanao II,DOS North,Kusiong ES,Tinabon
+1169,134527,ARMM,Sulu,Parang,Kutah Sairap Elementary School,-
+1170,134095,ARMM,Maguindanao II,Parang Bongo,Kutongan ES,-Baranggay Cotongan
+1171,134255,ARMM,Maguindanao I,South Upi,Kuya ES,"Pob. Kuya, South Upi, Maguindanao"
+1172,216535,ARMM,Maguindanao I,Datu Unsay,Kyamko ES,Sitio Kyamko
+1173,216637,ARMM,Maguindanao II,Barira North,L'mbak ES,L'mbak
+1174,133421,ARMM,Lanao del Sur - I,Poona-Bayabao North,Labuan PS,LABUAN-GADONGAN
+1175,133997,ARMM,Maguindanao II,DOS North,Labungan ES,Labungan
+1176,134822,ARMM,Tawi-Tawi,Sapa-Sapa II (Banaran),Lt. Ladja Idanan Elementary School,Lookan Top-top
+1177,253003,ARMM,Maguindanao II,Matanog,Lagaan PS,Lagaan
+1178,134528,ARMM,Sulu,Parang,Lagasan Higad PS,-
+1179,134281,ARMM,Maguindanao II,Datu Blah Sinsuat,Laguitan PS,-Laguitan
+1180,134280,ARMM,Maguindanao II,Upi West,Lahangkeb ES,Brgy. Rempes
+1181,134529,ARMM,Sulu,Parang,Lahi PS,-
+1182,134607,ARMM,Sulu,Sibaud,Lahi ES,-
+1183,217014,ARMM,Sulu,Luuk (Kalinggalan Calauang),Lahing-Lahing ES,"taogias, lahing-lahing"
+1184,217048,ARMM,Sulu,Pangutaran,Lahnagan PS,-
+1185,134402,ARMM,Sulu,Lugus,Lahud PS,NOT APPLICABLE
+1186,133568,ARMM,Lanao del Sur - II,North Balabagan,Lalabuan Elementary School,"Macao, Balabagan Lanao del Sur"
+1187,133492,ARMM,Lanao del Sur - I,Tamparan I,Lalabuan ES,Lumbac Tamparan
+1188,133398,ARMM,Lanao del Sur - I,Masiu B District,Lalabuan ES,Alip Lalabaun
+1189,133235,ARMM,Lanao del Sur - I,Balindong II,Lalabuan PS,lalabuan
+1190,133305,ARMM,Lanao del Sur - I,Lumba-Bayabao I,Lalangitun PS,Lalangitun
+1191,216072,ARMM,Lanao del Sur - II,Lumbatan II,Lalapung Annex PS,-
+1192,133668,ARMM,Lanao del Sur - II,Lumbatan II,Lalapung Elementary School,"Matampay,Lalapung"
+1193,134427,ARMM,Sulu,Luuk (Kalinggalan Calauang),Lambago Elementary School,Lambago Luuk Sulu
+1194,217034,ARMM,Sulu,Talipao,Lambanah Primary School,"Lambanah ,Talipao"
+1195,134698,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Lambog ES,-
+1196,216652,ARMM,Maguindanao I,Datu Hoffer Ampatuan,Mangumpig Alon ES,Lambuay
+1197,133692,ARMM,Lanao del Sur - II,Lumbayanague II,Lamin PS,-
+1198,216605,ARMM,Maguindanao II,Barira,Lamin PS,"Brgy. Lamin, Barira, Maguindanao"
+1199,252534,ARMM,Sulu,Laminusa,Laminusa Laud ES-2,-TAMPAKAN LAMINUSA
+1200,134378,ARMM,Sulu,Laminusa,Laminusa Laud ES-I,"Brgy. Kong-Kong, Laminusa"
+1201,217517,ARMM,Tawi-Tawi,Bongao I,Lamion Walking (Annex) PS,LAMION
+1202,217518,ARMM,Tawi-Tawi,Bongao I,Lamion Walking (Badjao) PS,LAMION
+1203,134716,ARMM,Tawi-Tawi,Bongao I,Lamion Walking (Main) ES,LAMION
+1204,134256,ARMM,Maguindanao I,South Upi,Lamud ES,"Lamud, south upi, maguindanao"
+1205,216595,ARMM,Maguindanao II,Kabuntalan South,Langeban PS,Upper Langeban Kabuntalan Maguindanao
+1206,216615,ARMM,Maguindanao I,Sultan Sa Barongis,Langgapanan ES,Sultan Sa Barongis
+1207,134062,ARMM,Maguindanao II,Matanog,Langkong ES,Langkong
+1208,216646,ARMM,Maguindanao I,Paglat,Langkuno ES,-sittio langkuno
+1209,134309,ARMM,Sulu,Indanan,Langpas Elementary School,
+1210,134453,ARMM,Sulu,Maimbung,Langtad ES,-
+1211,134790,ARMM,Tawi-Tawi,Languyan,Languyan Central ES,Languyan Proper
+1212,133034,ARMM,Basilan,Lantawan,Lantawan Proper PS,-Lantawan Proper
+1213,134495,ARMM,Sulu,Pangutaran,Lantong Babag ES,-
+1214,134121,ARMM,Maguindanao I,Gen. S. K. Pendatun,Datu Salipada Khaled Pendatun Jr. ES,-
+1215,217507,ARMM,Tawi-Tawi,Bongao III,Lapid Lapid elementary school,Lapid Lapid
+1216,134608,ARMM,Sulu,Sibaud,Larang PS - Pandami PS Annex I,-
+1217,134843,ARMM,Tawi-Tawi,West Sibutu/Sitangkai,Larap ES,South Larap
+1218,134122,ARMM,Maguindanao I,Gen. S. K. Pendatun,Lasangan ES,-
+1219,133998,ARMM,Maguindanao II,DOS North,Lasdan PS,Lasdan
+1220,134559,ARMM,Sulu,Patikul,Latih ES,"Latih Patikul,Sulu"
+1221,134736,ARMM,Tawi-Tawi,Bongao III,Lato Lato PS,LATO LATO
+1222,217026,ARMM,Sulu,Laminusa,Latung PS,Latung
+1223,134404,ARMM,Sulu,Lugus,Laud Alu PS,NOT APPLICABLE
+1224,133063,ARMM,Basilan,Maluso West,Laud ES,-
+1225,134893,ARMM,Tawi-Tawi,Tubig Indangan,Laud Elementary School,Laud
+1226,134344,ARMM,Sulu,Jolo II,Laud Lambayong ES,-BUS-BUS
+1227,134845,ARMM,Tawi-Tawi,West Sibutu/Sitangkai,Laud Sitangkai Annex ES,Brgy. Imam Sapie
+1228,134844,ARMM,Tawi-Tawi,West Sibutu/Sitangkai,Laud Sitangkai ES,Datu Putih
+1229,217043,ARMM,Sulu,Parang,Lawm Buwahan PS,-
+1230,134810,ARMM,Tawi-Tawi,Sapa-Sapa I,Lawm Sikubong ES,LAWM SIKUBONG
+1231,134866,ARMM,Tawi-Tawi,East South Ubian,Lawm Tabawan CES,Lawm Tabawan
+1232,134257,ARMM,Maguindanao I,South Upi,Lete ES,Lete Romongaob South Upi Maguindanao
+1233,134258,ARMM,Maguindanao I,South Upi,Letingan ES,letingan bongo south upi
+1234,134560,ARMM,Sulu,Patikul,Liang Elementary school,liang patikul sulu
+1235,133715,ARMM,Lanao del Sur - II,North Madalum,Liangan PS,-
+1236,133723,ARMM,Lanao del Sur - II,Upper Madamba,Liangan Primary School,Liangan St.
+1237,134428,ARMM,Sulu,Luuk (Kalinggalan Calauang),Lianutan PS,Lianutan Luuk Sulu
+1238,217033,ARMM,Sulu,Talipao,Liban PS,-
+1239,134031,ARMM,Maguindanao II,Kabuntalan North,Libungan ES,Libungan
+1240,133290,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Lidasan CES,not applicable
+1241,134096,ARMM,Maguindanao II,Parang North,Lidasan Primary School,NARCISO RAMOS HIGHWAY
+1242,134833,ARMM,Tawi-Tawi,East Sibutu II (Tandubanak),Ligayan ES,ligayan
+1243,133669,ARMM,Lanao del Sur - II,Lumbatan I,Ligue PS,-
+1244,134475,ARMM,Sulu,Panamao,Lihbug Kabaw PS,Lihbug Kabaw
+1245,134456,ARMM,Sulu,Pata,Likud ES,-
+1246,134811,ARMM,Tawi-Tawi,Sapa-Sapa I,Likud Sikubong ES,LIKUD SIKUBONG
+1247,134867,ARMM,Tawi-Tawi,East South Ubian,Likud Tabawan ES,Likud Tabawan
+1248,133219,ARMM,Lanao del Sur - I,Balindong I,Lilod ES,"Lilod, Balindong, Lanao del Sur"
+1249,254509,ARMM,Lanao del Sur - I,Ditsaan Ramain II,Lilod Rantian PS,"Brgy.Purok Lilod Rantian, Ditsa-an Ramain, LDS"
+1250,215518,ARMM,Lanao del Sur - I,Balindong I,Lilod-Raya Pilot ES (Annex),RAYA
+1251,133999,ARMM,Maguindanao II,DOS North,Lim ES,-SITIO LUMA
+1252,133347,ARMM,Lanao del Sur - I,Marantao I,Limadatu ES,"Banga-Pantar, Marantao, Lanao del Sur"
+1253,216598,ARMM,Maguindanao I,Datu Paglas North,Limba Ampatuan ES,-
+1254,134070,ARMM,Maguindanao I,Datu Montawal(Pagagawan),Limbalud ES,Limbalud Datu Montawal
+1255,134097,ARMM,Maguindanao II,Parang Bongo,Limbayan ES,"Limbayan,Bongo Island,Parang Mag."
+1256,133221,ARMM,Lanao del Sur - I,Balindong I,Limbo PS,limbo
+1257,215511,ARMM,Lanao del Sur - I,Saguiaran III,Limogao PS,-
+1258,134044,ARMM,Maguindanao I,Datu Hoffer Ampatuan,Limpongo ES,-
+1259,134609,ARMM,Sulu,Sibaud,Limuno PS,"Limuno, Suba-Suba"
+1260,216601,ARMM,Maguindanao I,Talayan,Linamunan Alikan Kalipa ES,"-LINAMUNAN,TALAYAN,MAGUINDANAO"
+1261,134086,ARMM,Maguindanao I,Pagalungan,Linandangan ES,-
+1262,134133,ARMM,Maguindanao I,Mamasapano North,Linantangan ES,linantangan Mamasapano Maguindanao
+1263,133594,ARMM,Lanao del Sur - II,Upper Bayang,Linao Elementary School,"-Linao, Bayang, Lanao del Sur"
+1264,134000,ARMM,Maguindanao II,DOS North,Linek ES,"-LINEK DATU ODIN SINSUAT,MAG."
+1265,134430,ARMM,Sulu,Luuk (Kalinggalan Calauang),Lingah PS,"Lingah, Luuk, Sulu"
+1266,133771,ARMM,Lanao del Sur - II,Marogong,Linggiay PS,-
+1267,133796,ARMM,Lanao del Sur - II,Pagayawan,Linindingan Central Elementary School,Bubong Linindingan
+1268,133797,ARMM,Lanao del Sur - II,Pagayawan,Linindingan Proper Elementary School,Linindingan
+1269,133977,ARMM,Maguindanao I,Datu Piang II,Lintukan ES,-
+1270,217007,ARMM,Sulu,Parang,Linuho PS,-
+1271,133732,ARMM,Lanao del Sur - II,Lower Madamba,Linuk ES,"Toka Lama, Madamba Lanao del Sur"
+1272,133707,ARMM,Lanao del Sur - II,South Madalum,Linuk Primary School,Linuk Madalum
+1273,133599,ARMM,Lanao del Sur - II,Lower Bayang,Linuk Primary School,-
+1274,133978,ARMM,Maguindanao I,Datu Piang I,Liong ES,Along the Farm to market road
+1275,133900,ARMM,Maguindanao II,Barira South,Lipa PS,lipa
+1276,133956,ARMM,Maguindanao I,Datu Paglas South,Lipao ES,-n/a
+1277,216550,ARMM,Maguindanao II,Barira,Lipawan PS,"Lipawan , Barira, Mag."
+1278,134533,ARMM,Sulu,Parang,Lipunos ES,-
+1279,133772,ARMM,Lanao del Sur - II,Marogong,Logitip PS,-
+1280,134737,ARMM,Tawi-Tawi,Bongao III,Logpond PS,masantong
+1281,133223,ARMM,Lanao del Sur - I,Balindong I,Lombayao CES,lombayao
+1282,134812,ARMM,Tawi-Tawi,Sapa-Sapa I,Look Nato ES,LOOK NATUH
+1283,134259,ARMM,Maguindanao I,South Upi,Looy ES,-
+1284,133579,ARMM,Lanao del Sur - II,South Balabagan,Lorenzo ES,"Lorenzo, Balabagan, Lanao del Sur"
+1285,134071,ARMM,Maguindanao I,Datu Montawal(Pagagawan),Lower Baguinged ES,lower baguinged elementary school
+1286,133384,ARMM,Lanao del Sur - I,Masiu II,Lower Balaigay ES,"-balaigay, lanco dimapatoy"
+1287,134905,,,,,
+1288,133921,ARMM,Maguindanao II,Buldon East,Lower Dinganen PS,-DINGANEN BULDON MAGUINDANAO
+1289,134307,ARMM,Sulu,Indanan,Lower Kajatian Elementary School,KM 2
+1290,134640,ARMM,Sulu,Talipao,Lower Laus Primary School,-
+1291,134700,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Rosemin M. Sahali Elementary School,MAGSAGGAW
+1292,133742,ARMM,Lanao del Sur - II,North Malabang,Lower Pialot PS,Lower Pialot
+1293,134534,ARMM,Sulu,Parang,Lower Sampunay PS,-
+1294,216619,ARMM,Maguindanao I,Buluan,Lower Siling ES,lower siling
+1295,133348,ARMM,Lanao del Sur - I,Marantao I,Luay PS,Inudaran Loway
+1296,134675,ARMM,Sulu,Tongkil,Lubbak ES,lubbak barangay danao
+1297,134766,ARMM,Tawi-Tawi,Mapun,Lubbak Parang ES,lubbak parang
+1298,134701,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Lubbok PS,BUAN
+1299,133595,ARMM,Lanao del Sur - II,Diwan,Lucman ES,Barangay Poblacion Lalapung
+1300,134310,ARMM,Sulu,Indanan,Lugmah Primary School,"Bunot , Indanan,Sulu"
+1301,134405,ARMM,Sulu,Lugus,Lugus CS,"-lugus proper ,lugus,sulu"
+1302,134496,ARMM,Sulu,Pangutaran,Luma Dapdap PS,-
+1303,134497,ARMM,Sulu,Pangutaran,Lumah Kutah ES,-
+1304,134248,ARMM,Maguindanao I,South Upi,Lumao ES,Guila-Guila  Kuya South Upi Maguindanao 1
+1305,134641,ARMM,Sulu,Talipao,Lumapid ES,Sitio Lumapid Talipao Proper
+1306,134535,ARMM,Sulu,Parang,Lumbaan Mahabah ES,-
+1307,133734,ARMM,Lanao del Sur - II,Lower Madamba,Lumbaca Ingud Elementary School,-BRGY. Lumbac a Ingud
+1308,133410,ARMM,Lanao del Sur - I,Mulondo,Lumbac Bubong PS,Lumbac Bubong
+1309,133411,ARMM,Lanao del Sur - I,Mulondo,Lumbac Dado PS,Lumbac Dado
+1310,133798,ARMM,Lanao del Sur - II,Pagayawan,Lumbac Elementary School,-LUMBAC
+1311,133264,ARMM,Lanao del Sur - I,Buadipuso-Buntong,Lumbac ES,Lumbac
+1312,133670,ARMM,Lanao del Sur - II,Lumbatan II,Lumbac Macadar Elementary School,"Lumbac Macadar, Lumbatan Lanao del Sur"
+1313,133655,ARMM,Lanao del Sur - II,West Ganassi,Lumbac Primary School,-Lumbac
+1314,133682,ARMM,Lanao del Sur - II,Lumbaca Unayan,Lumbac Primary School,-lumbac
+1315,133222,ARMM,Lanao del Sur - I,Balindong I,Lumbac PS,"Lumbaca wato, Balindong, lanao del Sur"
+1316,216024,ARMM,Lanao del Sur - II,Diwan,Lumbac PS,-
+1317,133616,ARMM,Lanao del Sur - II,Binidayan,Lumbac Primary School,
+1318,133349,ARMM,Lanao del Sur - I,Marantao I,Lumbac PS,Lumbac Inudaran
+1319,216043,ARMM,Lanao del Sur - II,North Pualas,Lumbac PS,-
+1320,215561,ARMM,Lanao del Sur - I,Maguing,Lumbac PS,LUMBAC
+1321,216039,ARMM,Lanao del Sur - II,Lumbatan I,Lumbac-Alog ES,Alog - Lumbac
+1322,133412,ARMM,Lanao del Sur - I,Mulondo,Lumbaca Ingud PS,-Lumbacaingud
+1323,133456,ARMM,Lanao del Sur - I,Saguiaran II,Lumbacaingud PS,"Gadongan,Saguiaran, Lanao del Sur"
+1324,133480,ARMM,Lanao del Sur - I,Tamparan District,Lumbacalilod ES,-lilod
+1325,133385,ARMM,Lanao del Sur - I,Masiu II,Lumbacasawer PS,-GUBAR SAWIR
+1326,133671,ARMM,Lanao del Sur - II,Lumbatan I,Lumbatan CES,POBLACION
+1327,133265,ARMM,Lanao del Sur - I,Buadipuso-Buntong,Lumbatan ES,-Lumbatan Pata Ingd
+1328,133693,ARMM,Lanao del Sur - II,Lumbayanague II,Lumbayanague Elementary School,"Pithatanglan, Lumbayanague Lanao del sur"
+1329,133449,ARMM,Lanao del Sur - I,Saguiaran I,Lumbayanague PS,Lumbayanague
+1330,133672,ARMM,Lanao del Sur - II,Lumbatan II,Lunay PS,-
+1331,134738,ARMM,Tawi-Tawi,Bongao III,Lupa Pula PS,LUPAH PULA
+1332,134676,ARMM,Sulu,Tongkil,Lupahpula PS Annex II,"Lupahpula, Dungon"
+1333,133587,ARMM,Lanao del Sur - II,Kapatagan,Lusain Primary School,Lusain-
+1334,134135,ARMM,Maguindanao I,Mamasapano North,Lusay ES,-
+1335,134739,ARMM,Tawi-Tawi,Bongao III,Luuk Banca Elem. School,"Badjao Village, Pag-Asa"
+1336,134702,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Luuk Buntal ES,Pulao Satu
+1337,134610,ARMM,Sulu,Sibaud,Luuk Maulana PS,Luuk Maulana
+1338,134740,ARMM,Tawi-Tawi,Bongao III,Luuk Pangdan ES,LUUK PANGDAN
+1339,217506,ARMM,Tawi-Tawi,Bongao III,Luuk Siabon PS,-
+1340,134678,ARMM,Sulu,Tongkil,Luuk Tongkil ES,none
+1341,134457,ARMM,Sulu,Pata,Luuk Tulay PS,Luuk Tulay
+1342,133958,ARMM,Maguindanao I,Datu Paglas East,M. Adil CES,-BRGY. MANINDOLO
+1343,217037,ARMM,Sulu,Talipao,Ma'had Darul Hikma Al-Islamie ( Upper Binuang PS),-
+1344,217036,ARMM,Sulu,Talipao,Mabahay PS,"Mabahay, Talipao"
+1345,133400,ARMM,Lanao del Sur - I,Masiu A District,Macaalin CES,-Tomambiling Lumbacaingud
+1346,133372,ARMM,Lanao del Sur - I,Masiu I,Macadaag ES,Macadaag Talaguian
+1347,133673,ARMM,Lanao del Sur - II,Lumbatan II,Macadar CES,-
+1348,133291,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Macadar PS,-
+1349,134210,ARMM,Maguindanao I,Talitay,Macadayon ES,-Macadayon Talitay
+1350,133656,ARMM,Lanao del Sur - II,East Ganassi,Macaguiling ES,"Macaguiling Ganassi, Lanao Del Sur"
+1351,216052,ARMM,Lanao del Sur - II,Central Ganassi,Macapodi PS,lower taliogon
+1352,133901,ARMM,Maguindanao II,Barira North,Macarimbang ES,Rumayas
+1353,134098,ARMM,Maguindanao II,Parang North,Macarimbang-Alegado Memo. ES,Magsaysay
+1354,133386,ARMM,Lanao del Sur - I,Masiu II,Macasalong Island PS,Gubar Sawer
+1355,134099,ARMM,Maguindanao II,Parang North,Macasandag Elementary School,Narciso Ramos Highway
+1356,133709,ARMM,Lanao del Sur - II,South Madalum,Madalum CES,poblacion
+1357,216551,ARMM,Maguindanao II,Barira North,Madalum ES,Madalum
+1358,133735,ARMM,Lanao del Sur - II,Lower Madamba,Madamba Central Elementary School,-
+1359,133883,ARMM,Maguindanao I,Datu Abdullah Sangki,Madanding ES,-
+1360,215573,ARMM,Lanao del Sur - I,Maguing II,Madanding PS,Barangay Madanding
+1361,215521,ARMM,Lanao del Sur - I,Maguing II,Madaya ES,-Madaya
+1362,133710,ARMM,Lanao del Sur - II,South Madalum,Madaya ES,Madalum Lanao Del Sur
+1363,134930,,,,,
+1364,134929,,,,,
+1365,133617,ARMM,Lanao del Sur - II,Binidayan,Madaya Primary School,
+1366,133657,ARMM,Lanao del Sur - II,East Ganassi,Madaya PS,-
+1367,216071,ARMM,Lanao del Sur - II,Lumbatan II,Madaya PS,-
+1368,133744,ARMM,Lanao del Sur - II,North Malabang,Madaya PS,Brgy. Madaya
+1369,133979,ARMM,Maguindanao I,Datu Saudi Uy Ampatuan,Madia ES,-
+1370,133373,ARMM,Lanao del Sur - I,Masiu I,Magandia Amaloy ES,Magandia Amaloy
+1371,133826,ARMM,Lanao del Sur - II,Sultan Gumander,Maganding Elementary School,-maganding
+1372,133569,ARMM,Lanao del Sur - II,North Balabagan,Magolalung Oriental Elementary School,"Magolalung Oreintal, Balabagan Lanao del Sur"
+1373,133618,ARMM,Lanao del Sur - II,Binidayan,Magonaya ES,Magonaya
+1374,134703,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Magsaggaw ES,Magsaggaw
+1375,134147,ARMM,Maguindanao II,Sultan Kudarat I,Maguindanaon ES,"-Banubo, Sultan Kudarat, Maguindanao"
+1376,133331,ARMM,Lanao del Sur - I,Maguing,Maguing Proper ES,-Maguing Street
+1377,217032,ARMM,Sulu,Talipao,Mahala PS,"Mahala, Talipao"
+1378,134311,ARMM,Sulu,Indanan,Maharadja Abduraup Elem.School,Subah Datu
+1379,133852,ARMM,Lanao del Sur - II,East Tugaya,Maidan PS,013 Maidan
+1380,134148,ARMM,Maguindanao II,Sultan Kudarat I,Maidapa PS,"-Maidapa Sultan Kudarat, Maguindanao"
+1381,134458,ARMM,Sulu,Maimbung,Maimbung Higad ES,-
+1382,133619,ARMM,Lanao del Sur - II,Binidayan,Maindig Elementary School,Maindig
+1383,133458,ARMM,Lanao del Sur - I,Saguiaran II,Maito Basak ES,Maitobasak
+1384,134033,ARMM,Maguindanao II,Kabuntalan South,Maitong ES,Maitong
+1385,216536,ARMM,Maguindanao I,Datu Unsay,Maitumaig ES,-
+1386,216667,ARMM,Maguindanao I,Datu Unsay,Makalag ES,makalag
+1387,133922,ARMM,Maguindanao II,Buldon West,Makalian ES,Edcor
+1388,133840,ARMM,Lanao del Sur - II,Tubaran,Malaganding PS,-malaganding
+1389,133237,ARMM,Lanao del Sur - I,Balindong II,Malaig ES,Tomarompong
+1390,133521,ARMM,Lanao del Sur - I,Wao I,Malaigang ES,Malaigang
+1391,133957,ARMM,Maguindanao I,Datu Paglas North,Malala ES,-
+1392,133870,ARMM,Lanao del Sur - II,Sultan Dumalondong,Malalis Elementary School,-
+1393,133940,ARMM,Maguindanao I,Pandag,Malangit CES,-
+1394,134813,ARMM,Tawi-Tawi,Sapa-Sapa I,Malanta ES,Malanta
+1395,134611,ARMM,Sulu,Sibaud,Malanta PS,-Malanta Pandami
+1396,133884,ARMM,Maguindanao I,Ampatuan,Malatimon ES,MALATIMON
+1397,133813,ARMM,Lanao del Sur - II,South Pualas,Malawani ES,-bazagad
+1398,134186,ARMM,Maguindanao I,Rajah Buayan,Malibpolok ES,Brgy. Malibpolok
+1399,133806,ARMM,Lanao del Sur - II,North Pualas,Maligo PS,-
+1400,133658,ARMM,Lanao del Sur - II,West Ganassi,Maliwanag Elementary School,Sekun Matampay
+1401,133457,ARMM,Lanao del Sur - I,Saguiaran II,Maliwanag ES,Maliwanag
+1402,133292,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Malna PS,None
+1403,133632,ARMM,Lanao del Sur - II,Butig,Malungun Elementary School,"Malungun, Butig lanao del sur"
+1404,133508,ARMM,Lanao del Sur - I,Taraka II,Malungun ES,Malungun
+1405,133332,ARMM,Lanao del Sur - I,Maguing II,Malungun ES,"-Wata sa Babae,Malungun,"
+1406,133434,ARMM,Lanao del Sur - I,Piagapo East,Mamaan PS,mamaanun piagapo lanao del sur
+1407,134136,ARMM,Maguindanao I,Mamasapano North,Mamasapano CES,-
+1408,218002,,,,,
+1409,217012,ARMM,Sulu,Talipao,Mampallam P/S,LABANOS
+1410,133902,ARMM,Maguindanao II,Barira North,Manalao PS,Sabpi
+1411,133387,ARMM,Lanao del Sur - I,Masiu II,Manalocon Talub ES,-Manalocon Talub
+1412,134034,ARMM,Maguindanao II,Kabuntalan North,Manampen ES,Manampen
+1413,134741,ARMM,Tawi-Tawi,Bongao II,Mandulan Elementary School,"MANDULAN, BONGAO, TAWI-TAWI"
+1414,216571,ARMM,Maguindanao I,Datu Paglas South,Mangadeg ES,-
+1415,252519,ARMM,Sulu,Luuk (Kalinggalan Calauang),Mangal Mangal PS,-punjungan street
+1416,216555,ARMM,Maguindanao I,Datu Paglas East,Mangelen Andang ES,-Damawato Datu Paglas
+1417,216665,ARMM,Maguindanao I,Talitay,Manggay ES,Manggay talitay
+1418,133401,ARMM,Lanao del Sur - I,Masiu A District,Mangondato ES,Kalilangan
+1419,134313,ARMM,Sulu,Indanan,Manilop PS,-
+1420,134282,ARMM,Maguindanao II,Datu Blah Sinsuat,Maningula PS,-Lapaken
+1421,134383,ARMM,Sulu,Laminusa,Manta Elementary School,Manta
+1422,134498,ARMM,Sulu,Pangutaran,Husing I. Lao Memorial ES,Manubal
+1423,134612,ARMM,Sulu,Sibaud,Manubul ES,"-north,manubul"
+1424,134852,ARMM,Tawi-Tawi,Manukmangkaw,Manuk Mangkaw Central ES,manuk-mangkaw
+1425,133885,ARMM,Maguindanao I,Datu Abdullah Sangki,Mao ES,PRK. SAMPAGUITA
+1426,134917,ARMM,Marawi City,Angoyao District,Mapandi Elementary School,Gadongan
+1427,133863,ARMM,Lanao del Sur - II,West Tugaya,Mapantao ES,-
+1428,133459,ARMM,Lanao del Sur - I,Saguiaran II,Mapantao PS,-
+1429,134211,ARMM,Maguindanao I,Datu Anggal,Mapayag ES,"Adaon, Datu Anggal midtimbang"
+1430,133124,ARMM,Basilan,Sumisip East,Marang ES,Marang
+1431,134791,ARMM,Tawi-Tawi,Languyan,Marang Marang ES,Marang-Marang
+1432,134792,ARMM,Tawi-Tawi,Languyan,Maraning PS,MARANING
+1433,134063,ARMM,Maguindanao II,Matanog,Marantao PS,Marantao
+1434,218003,,,,,
+1435,134001,ARMM,Maguindanao II,DOS North,Margues ES,-Margues DOS Maguindanao
+1436,134072,ARMM,Maguindanao I,Datu Montawal(Pagagawan),Maridagao ES,-
+1437,134108,ARMM,Maguindanao II,Parang South,Marigalupa ES,"Budakan, Nituan, Parang, Maguidanao"
+1438,134918,,,,,
+1439,218010,,,,,
+1440,216576,ARMM,Maguindanao I,Guindulungan,Maringen ES,-
+1441,134477,ARMM,Sulu,Panamao,Marsada Primary School,"Marsada, Panglima Estino, Sulu"
+1442,134345,ARMM,Sulu,Jolo II,Martirez ES,-Martirez St. San Raymundo
+1443,134788,ARMM,Tawi-Tawi,Languyan,Maruche PS,TUMAHUBONG
+1444,133757,ARMM,Lanao del Sur - II,South Malabang,Masao PS,Masao
+1445,216075,ARMM,Lanao del Sur - II,North Pualas,Masao Primary School,-
+1446,216630,ARMM,Maguindanao I,Pagalungan,Masdar ES,-
+1447,133980,ARMM,Maguindanao I,Datu Piang I,Masigay ES,"Masigay,Datu Piang,Maguindanao"
+1448,252522,,,,,
+1449,134431,ARMM,Sulu,Luuk (Kalinggalan Calauang),Masjid Naga ES,"-Brgy. Tunggol, K. Caluang"
+1450,134433,ARMM,Sulu,Luuk (Kalinggalan Calauang),Masjid Niog Primary school,"Niog Niog, Luuk, Sulu"
+1451,134434,ARMM,Sulu,Luuk (Kalinggalan Calauang),Masjid Punjungan ES Annex I-B,-Masjid Punjungan K.Caluang
+1452,133659,ARMM,Lanao del Sur - II,East Ganassi,Masolun Primary School,masolun
+1453,216546,ARMM,Maguindanao I,Ampatuan,Matagabong ES,matagabong ampatuan maguindanao
+1454,133201,ARMM,Basilan,Tuburan,Mataggan ES,-
+1455,134073,ARMM,Maguindanao I,Datu Montawal(Pagagawan),Matalam Farm Settlement ES,-
+1456,133570,ARMM,Lanao del Sur - II,North Balabagan,Matampay Elementary School,"Matampay, Balabagan Lanao del Sur"
+1457,133247,ARMM,Lanao del Sur - I,Bubong I,Matampay ES,-Matampay
+1458,134064,ARMM,Maguindanao II,Matanog,Matanog CES,"-Sarakan, Bugasan Norte, Matanog, Maguindanao"
+1459,215571,ARMM,Lanao del Sur - I,Masiu II,Matao Araza Primary School,"Brgy. Matao Araza, Masiu"
+1460,134459,ARMM,Sulu,Maimbung,Matatal ES,-
+1461,133923,ARMM,Maguindanao II,Buldon West,Mataya  Elem,Mataya
+1462,216618,ARMM,Maguindanao II,Kabuntalan South,Matilak PS,Matilak
+1463,134165,ARMM,Maguindanao II,Sultan Kudarat II,Matingen PS,Matingen
+1464,217522,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Matolo Elementary School,BUAN
+1465,217040,ARMM,Sulu,Maimbung,Mawaji PS,-
+1466,133435,ARMM,Lanao del Sur - I,Piagapo East,Mentring PS,-
+1467,134283,ARMM,Maguindanao II,Datu Blah Sinsuat,Meti PS,-Meti
+1468,134124,ARMM,Maguindanao I,Gen. S. K. Pendatun,Mibpandacan ES,Midpandacan
+1469,133827,ARMM,Lanao del Sur - II,Sultan Gumander,Micolabo PS,-Micolabo
+1470,134123,ARMM,Maguindanao I,Gen. S. K. Pendatun,Midconding ES,-
+1471,134187,ARMM,Maguindanao I,Rajah Buayan,Mileb ES,"Mileb, Rajah Buayan, Maguindanao"
+1472,133293,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Mimbaguiang ES,Brgy. Mimbaguiang Tagoloan Lanao Del Sur
+1473,216017,ARMM,Lanao del Sur - II,Upper Bayang,Mimbalawag Primary School,"Mimbalawag, Bayang, Lanao del Sur"
+1474,133376,ARMM,Lanao del Sur - I,Masiu I,Mimbalay ES,Alumpang Paino Mimbalay Masiu
+1475,133531,ARMM,Lanao del Sur - I,Wao II,Mimbuaya PS,Mimbuaya
+1476,134613,ARMM,Sulu,Sibaud,Mimul PS,-Mimul Malanta Pandami
+1477,133924,ARMM,Maguindanao II,Buldon West,Minabay E/S,Minabay
+1478,216606,ARMM,Maguindanao II,Barira,Minabay PS,"Brgy. Minabay, Barira, Maguindanao"
+1479,133402,ARMM,Lanao del Sur - I,Masiu A District,Minanga ES,-Dalug Balt Masiu Lanao del Sur
+1480,133841,ARMM,Lanao del Sur - II,Tubaran,Mindamdag PS,-
+1481,216057,ARMM,Lanao del Sur - II,Kapatagan,Minimao Elementary School,-minimao kapatagan
+1482,133694,ARMM,Lanao del Sur - II,Lumbayanague II,Miniros PS,-
+1483,133814,ARMM,Lanao del Sur - II,South Pualas,Mintong ES,Tanaon
+1484,133450,ARMM,Lanao del Sur - I,Saguiaran I,Mipaga ES,Mipaga
+1485,133633,ARMM,Lanao del Sur - II,Butig,Mipantao Primary School,-
+1486,134233,ARMM,Maguindanao II,Upi North,Mirab ES,MIrab
+1487,134101,ARMM,Maguindanao II,Parang North,Miramar Elementary School,Poblacion II
+1488,133403,ARMM,Lanao del Sur - I,Masiu A District,Mohammad Tanggul ES,"Mohammad tanggul masiu L, D, S,"
+1489,133571,ARMM,Lanao del Sur - II,North Balabagan,Molimoc Primary School,"Molimoc, Balabagan Lanao del Sur"
+1490,133413,ARMM,Lanao del Sur - I,Mulondo,Molundo CES,-Buadi insuba
+1491,134002,ARMM,Maguindanao II,DOS North,Mompong PS,MOMPONG DOS MAGUINDANAO
+1492,133981,ARMM,Maguindanao I,Datu Piang I,Montay ES,"Montay,Datu Piang,Maguindanao"
+1493,133746,ARMM,Lanao del Sur - II,North Malabang,Montay PS,-
+1494,215517,ARMM,Lanao del Sur - I,Balindong I,Moriatao Bae ES,"Moriatao Bae, Lilod, Balindong, Lanao del Sur"
+1495,133500,ARMM,Lanao del Sur - I,Taraka I,Moriatao Balindong ES,-
+1496,133724,ARMM,Lanao del Sur - II,Upper Madamba,Moriatao Gadong ES,Pob.Madamba
+1497,133903,ARMM,Maguindanao II,Barira South,MOROG- MAMALAKAT CENTRAL ELEM.SCHOOL,MARANG BARIRA MAGUINDANAO
+1498,134562,ARMM,Sulu,Patikul,Mudjunun Elementary School,Mudjunun
+1499,134335,ARMM,Sulu,Jolo I,Muhammad Jajurie ES,-Hadji Butu Street' San Raymundo Jolo
+1500,134314,ARMM,Sulu,Indanan,Mukammali ES,"Sagay, Langpas, Indanan, Sulu"
+1501,253007,ARMM,Maguindanao II,Barira South,MUPAAT PS,"Marang,Marang,Barira,Maguindanao"
+1502,134202,ARMM,Maguindanao I,Guindulungan,Muslim ES,-
+1503,133523,ARMM,Lanao del Sur - I,Wao I,Muslim Village ES,Muslim Village
+1504,134586,ARMM,Sulu,Siasi II,Musu Guimba ES,Musu Guimba
+1505,134587,ARMM,Sulu,Siasi II,Musu Laud ES,barangay musu laud
+1506,133904,ARMM,Maguindanao II,Barira North,Nabalawag ES,Nabalawag
+1507,134003,ARMM,Maguindanao II,DOS North,Nabilan PS,Nabilan Awang
+1508,134046,ARMM,Maguindanao I,Shariff Saydona Mustapha,Nabundas CES,Nabundas
+1509,216572,,,,,
+1510,216656,ARMM,Maguindanao I,Datu Paglas South,Naco ES,"Makat, Datu Paglas"
+1511,217520,ARMM,Tawi-Tawi,Bongao I,Nalil ES,nalil
+1512,134284,ARMM,Maguindanao II,Datu Blah Sinsuat,Nalkan ES,-Nalkan
+1513,216643,ARMM,Maguindanao II,Sultan Mastura,Namuken Elementary School,-Namuken
+1514,133695,ARMM,Lanao del Sur - II,Lumbayanague II,Nanagun ES,-
+1515,134642,ARMM,Sulu,Talipao,Nanang Sadil PS,-
+1516,134942,ARMM,Marawi City,North District,Nanapun Elementary School,Cabasaran upper St.
+1517,133959,ARMM,Maguindanao I,Datu Paglas East,Napok ES,Napok
+1518,134149,ARMM,Maguindanao II,Sultan Kudarat II,Narra ES,Nara
+1519,133541,ARMM,Lanao del Sur - I,Bumbaran,Natangcopan PS,-Natangcopan
+1520,211512,ARMM,Lanao del Sur - I,Saguiaran III,Natangcopan PS,Natangcopan Street
+1521,133905,ARMM,Maguindanao II,Barira,Nate-Umpar PS,"Gadung, Barira, Maguindanao"
+1522,134018,ARMM,Maguindanao II,DOS South,Neketan ES,Neketan
+1523,134166,ARMM,Maguindanao II,Sultan Kudarat II,Nekitan PS,Nekitan
+1524,133784,ARMM,Lanao del Sur - II,Calanogas,Ngingir Elementary School,Inoma Calanogas
+1525,134435,ARMM,Sulu,Luuk (Kalinggalan Calauang),Niog Niog Elementary School,NIOG NIOG LUUK SULU
+1526,134588,ARMM,Sulu,Siasi II,Nipa Nipa PS,-
+1527,252525,ARMM,Sulu,Pata,Niyog Niyog PS,langil
+1528,134825,ARMM,Tawi-Tawi,Sapa-Sapa II (Banaran),North Tapian Bohe ES,North Tapian Bohe
+1529,134212,ARMM,Maguindanao I,Datu Anggal,Nunangan ES,nunangan
+1530,134830,ARMM,Tawi-Tawi,East Sibutu I (Tando Owak),Nunukan ES,Nunukan
+1531,133224,ARMM,Lanao del Sur - I,Balindong I,Nusa ES,LILOD
+1532,134868,ARMM,Tawi-Tawi,East South Ubian,Nusa Nusa PS,Nusa-Nusa
+1533,133925,ARMM,Maguindanao II,Buldon East,Nuyo Elementary School,-Nuyo
+1534,133886,ARMM,Maguindanao I,Datu Abdullah Sangki,Old Maganoy ES,Old Mganoy
+1535,216650,ARMM,Maguindanao I,Datu Hoffer Ampatuan,Omar PS,Talibadok
+1536,134110,ARMM,Maguindanao II,Inter Parang,Orandang PS,Orandang
+1537,216585,ARMM,Maguindanao II,Kabuntalan North,"Pablo Antipolo, Sr. Elementary School (Damatog PS)",Crossing
+1538,133799,ARMM,Lanao del Sur - II,Pagayawan,Padas Elementary School,-Padas pagayawan lanao del sur
+1539,134897,ARMM,Tawi-Tawi,Bongao Central,Pag-asa Elementary School,-Pag-asa St.
+1540,133853,ARMM,Lanao del Sur - II,Central Tugaya,Pagalamatan ES,Pagalamatan
+1541,133436,ARMM,Lanao del Sur - I,Piagapo West,Pagalamatan Paridi PS,-
+1542,133842,ARMM,Lanao del Sur - II,Tubaran,Pagalamatan Primary School,BRGY. PAGALAMATAN
+1543,133294,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Pagalongan PS,not applicable
+1544,216067,ARMM,Lanao del Sur - II,Sultan Dumalondong,Pagalongan Primary School,Pagalongan
+1545,134036,ARMM,Maguindanao II,Kabuntalan South,Pagalungan PS,Tumaguinting
+1546,134744,ARMM,Tawi-Tawi,Bongao II,Pagasinan Elementary School,Pagasinan
+1547,133982,ARMM,Maguindanao I,Shariff Saydona Mustapha,Pagatin ES,-
+1548,133716,ARMM,Lanao del Sur - II,North Madalum,Pagayawan Central Elem.School,Pagayawan Madalum Lanao Del Sur
+1549,133238,ARMM,Lanao del Sur - I,Balindong II,Pagayawan PS,watupantao ragat prov.Rd-
+1550,133314,ARMM,Lanao del Sur - I,Lumba-Bayabao II,Pagayawan PS,-PAGAYAWAN
+1551,133533,ARMM,Lanao del Sur - I,Wao II,Pagayon ES,Pagayon Site.Park Area
+1552,134213,ARMM,Maguindanao I,Talitay,Pageda ES,Macao
+1553,134120,ARMM,Maguindanao I,Gen. S. K. Pendatun,Paglala Memorial ES,-
+1554,134125,ARMM,Maguindanao I,Paglat,Paglat CES,-Pob. Paglat
+1555,134499,ARMM,Sulu,Pangutaran,Pagsakulan Elementary,-
+1556,134718,ARMM,Tawi-Tawi,Bongao III,Pahut ES,pahut
+1557,133239,ARMM,Lanao del Sur - I,Balindong II,Paigoay PS,"-TOMAROMPONG, BALINDONG"
+1558,216047,ARMM,Lanao del Sur - II,Tubaran,Paigoay Primary School,-
+1559,134151,ARMM,Maguindanao II,Sultan Kudarat I,Paiguan PS,Inawan Sultan Kudarat Maguindanao
+1560,134742,ARMM,Tawi-Tawi,Bongao II,Pakias Primary  School,Sitio Pakias
+1561,133075,ARMM,Basilan,Pilas,Palahangan ES,Pilas
+1562,217038,ARMM,Sulu,Talipao,Palahuddin PS,-
+1563,133906,ARMM,Maguindanao II,Barira,Palangka PS,"Sitio Palangka, Rominimbang, Barira, Mag."
+1564,133596,ARMM,Lanao del Sur - II,Upper Bayang,Palao ES,"Brgy. Palao, Bayang lanao del Sur"
+1565,133725,ARMM,Lanao del Sur - II,Upper Madamba,Palao Primary School,-
+1566,133437,ARMM,Lanao del Sur - I,Piagapo East,Palao PS,"Palao, Piagapo, Lanao del Sur"
+1567,133960,ARMM,Maguindanao I,Datu Paglas North,Palao sa Buto ES,-
+1568,134814,ARMM,Tawi-Tawi,Sapa-Sapa I,Palate ES,Palate
+1569,134188,ARMM,Maguindanao I,Sultan Sa Barongis,Paldong ES,-paldong sultan sa barongis
+1570,133438,ARMM,Lanao del Sur - I,Piagapo East,Paling PS,barangay paling lanao del sur
+1571,133461,ARMM,Lanao del Sur - I,Saguiaran II,Pamacutan ES,-
+1572,134047,ARMM,Maguindanao I,Shariff Saydona Mustapha,Pamalian ES,-
+1573,134385,ARMM,Sulu,Laminusa,Pamangunan PS,"Minapan, Siasi, Sulu"
+1574,134704,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Pamatakan Elemantary School,Tongbangkaw
+1575,133660,ARMM,Lanao del Sur - II,Central Ganassi,Pambagui ES,-panggawalupa
+1576,133249,ARMM,Lanao del Sur - I,Bubong I,Panalawan Montia-an CES,"Bacolod, Bubong, Lanao del Sur"
+1577,133534,ARMM,Lanao del Sur - I,Wao II,Panang ES,-Panang
+1578,253008,ARMM,Maguindanao II,Barira South,Panasang PS,panasang liong barira maguindanao
+1579,134152,ARMM,Maguindanao II,Sultan Kudarat II,Panatan ES,Panatan
+1580,252531,ARMM,Sulu,Panamao,Pandacan Elementary Sschool,"Pandakan, Panglima Estino, Sulu"
+1581,134614,ARMM,Sulu,Sibaud,Pandami ES,-
+1582,134500,ARMM,Sulu,Pangutaran,Pandan Niog ES,"-Pandan Niog Pangutaran, Sulu"
+1583,218008,ARMM,Marawi City,Angoyao East District,Pandi Elementary School,Mapantao Patani
+1584,134037,ARMM,Maguindanao II,Kabuntalan North,Pananggalan PS,Pandian
+1585,133864,ARMM,Lanao del Sur - II,West Tugaya,Pandiaranao CES,-pandiaranao
+1586,134501,ARMM,Sulu,Pangutaran,Panducan PS,-
+1587,134537,ARMM,Sulu,Parang,Pang. Dammang PS Annex III,-
+1588,134318,ARMM,Sulu,Indanan,Panglima Indanan Central School,Lampaki
+1589,134643,ARMM,Sulu,Talipao,Pang. Karimuddin Elementary School,Lagtoh Talipao
+1590,134319,ARMM,Sulu,Indanan,Panglima Mammah Elem. School,-
+1591,134320,ARMM,Sulu,Indanan,Pang. Uding ES,-Larang
+1592,134574,ARMM,Sulu,Siasi I,Pang. Utoh Anni Jalmaani ES,"North Laud, Siasi, Sulu"
+1593,216607,ARMM,Maguindanao II,Kabuntalan North,Pangambitan PS,Pangambitan
+1594,133388,ARMM,Lanao del Sur - I,Masiu II,Pangandaman CES,"Pangandaman, Pantao, Masiu"
+1595,252518,ARMM,Sulu,Luuk (Kalinggalan Calauang),Pangdan Pangdan ES,-pangdan pangdan street
+1596,133462,ARMM,Lanao del Sur - I,Saguiaran II,Panggao PS,-
+1597,253002,ARMM,Maguindanao II,Barira South,Panggao PS,"Brgy. Panggao, Barira, Maguindanao"
+1598,134478,ARMM,Sulu,Panamao,Panglima Agga Central School,Seit Lake (Pob.)
+1599,134321,ARMM,Sulu,Indanan,Panglima Ahajan ES,Km13
+1600,134846,ARMM,Tawi-Tawi,West Sibutu/Sitangkai,Panglima Alari ES,Panglima Alari
+1601,134853,ARMM,Tawi-Tawi,Manukmangkaw,Panglima Allian ES,MANUK MANGKAW
+1602,217062,ARMM,Sulu,Talipao,Panglima Amirul Primary School,-
+1603,134719,ARMM,Tawi-Tawi,Bongao III,Panglima Annao ES,Sowangkagang
+1604,134480,ARMM,Sulu,Panamao,Panglima Arao ES,Lower Patibulan
+1605,134885,ARMM,Tawi-Tawi,Tandubas,Panglima Biteng CES,"-Brngy. Tangngah, Ungus Matata Tandubas, Tawi-Tawi"
+1606,134859,ARMM,Tawi-Tawi,West Simunul,Panglima Erong Memorial ES,Kotah Bagid
+1607,134854,ARMM,Tawi-Tawi,Manukmangkaw,Panglima Hapi Central School,Timundon
+1608,134894,ARMM,Tawi-Tawi,Tubig Indangan,Panglima Ibrahim ES,Doh Tong
+1609,134387,ARMM,Sulu,Laminusa,Panglima Ikbala Elementary School,Bulikullul
+1610,217511,ARMM,Tawi-Tawi,Manukmangkaw,Panglima Itum Elementary School,Timundon
+1611,134705,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Panglima Jalman ES,Malacca
+1612,134322,ARMM,Sulu,Indanan,Panglima Misuari PS,Panglima Misuari
+1613,134855,ARMM,Tawi-Tawi,Manukmangkaw,Panglima Nadduha ES,MANUK MANGKAW
+1614,134862,ARMM,Tawi-Tawi,West Simunul,Panglima Sarabi ES,Panglima Mastul
+1615,134390,ARMM,Sulu,Laminusa,Panglima Taradji PS,Siburi
+1616,133776,ARMM,Lanao del Sur - II,Marogong,Pangonayan PS,-
+1617,134502,ARMM,Sulu,Pangutaran,Pangpang PS,-
+1618,134065,ARMM,Maguindanao II,Matanog,Pangtoon ES,-pangtoon;sapad;matanog
+1619,134793,ARMM,Tawi-Tawi,Languyan,Panimusan ES,"Tubig Dakula, Panimusan"
+1620,134004,ARMM,Maguindanao II,DOS North,Paningusan ES,"km.13,paningusan,labungan,dos, mag"
+1621,134745,ARMM,Tawi-Tawi,Bongao III,Paniongan Elementary School,Paniongan
+1622,134503,ARMM,Sulu,Pangutaran,Panitikan ES,-
+1623,134126,ARMM,Maguindanao I,Gen. S. K. Pendatun,Panosolen ES,-
+1624,134644,ARMM,Sulu,Talipao,Pantao ES,pantao
+1625,133240,ARMM,Lanao del Sur - I,Balindong II,Pantao Raya PS,-poblacion balindong lds
+1626,133468,ARMM,Lanao del Sur - I,Saguiaran III,Pantao Raya PS,-
+1627,216053,ARMM,Lanao del Sur - II,Calanogas,Pantaon Elementary School,Pantaon
+1628,216002,ARMM,Lanao del Sur - II,Central Ganassi,Pantaon Primary School,Pantaon
+1629,133469,ARMM,Lanao del Sur - I,Saguiaran III,Pantaon PS,-
+1630,133696,ARMM,Lanao del Sur - II,Lumbayanague II,Pantaon PS,-
+1631,133620,ARMM,Lanao del Sur - II,Binidayan,Pantar PS,-
+1632,133255,ARMM,Lanao del Sur - I,Bubong II,Pantar ES,-
+1633,133726,ARMM,Lanao del Sur - II,Upper Madamba,Pantar Primary School,"Pantar, Madamba Lanao Del Sur"
+1634,133352,ARMM,Lanao del Sur - I,Marantao I,Pantar PS,-
+1635,133439,ARMM,Lanao del Sur - I,Piagapo West,Pantar PS,Pantar
+1636,133241,ARMM,Lanao del Sur - I,Balindong II,Pantaragoo PS,pantaragoo balindong lds
+1637,133927,ARMM,Maguindanao II,Buldon East,Pantawan PS,-Pantawan
+1638,133661,ARMM,Lanao del Sur - II,Central Ganassi,Paraaba ES,-Paraaba
+1639,134794,ARMM,Tawi-Tawi,Languyan,Parang Pantay PS,Parang Pantay
+1640,134706,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Parangan ES,Parangan
+1641,133295,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Parao Proper ES,not applicable
+1642,133603,ARMM,Lanao del Sur - II,Lower Bayang,Parao PS,-
+1643,134407,ARMM,Sulu,Lugus,Parian Kayawan PS,-none
+1644,133697,ARMM,Lanao del Sur - II,Lumbayanague I,Pascan,Bualan
+1645,134235,ARMM,Maguindanao II,Upi North,Passi ES,"Sitio Passi, Tinungkaan, Upi, Maguindanao"
+1646,134461,ARMM,Sulu,Maimbung,Patao PS,-patao
+1647,252506,ARMM,Sulu,Pata,Patian PS,-Patian
+1648,134481,ARMM,Sulu,Panamao,Patibulan ES,Upper Patibulan
+1649,134563,ARMM,Sulu,Patikul,Patikul Higad Elementary School,-
+1650,134707,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Patok Patok Elementary School,Sumangday
+1651,133463,ARMM,Lanao del Sur - I,Saguiaran II,Patpangcat 1 PS,-
+1652,133464,ARMM,Lanao del Sur - I,Saguiaran II,Patpangcat 2 PS,-
+1653,134504,ARMM,Sulu,Pangutaran,Patutol ES,-
+1654,252537,ARMM,Sulu,Luuk (Kalinggalan Calauang),Patutul Elementary School,"-Patutul , Angilan"
+1655,134538,ARMM,Sulu,Parang,Paugan PS Annex II,-
+1656,134770,ARMM,Tawi-Tawi,Mapun,Pawan ES,"Crossing, Pawan"
+1657,134236,ARMM,Maguindanao II,Upi North,Pedro C. Dolores ES,Nangi
+1658,134261,ARMM,Maguindanao I,South Upi,Pelagio P. Platon ES,Not applicable
+1659,134960,ARMM,Marawi City,Northwest District,Pendolonan Elementary School,EMIE SAGUNSONGAN
+1660,133471,ARMM,Lanao del Sur - I,Saguiaran III,Pendolonan PS,-
+1661,216534,ARMM,Maguindanao II,Kabuntalan South,Pened PS,"-Pened, Kabuntalan, Maguindanao"
+1662,133440,ARMM,Lanao del Sur - I,Piagapo West,Piagapo CES,-Radapan Proper
+1663,133748,ARMM,Lanao del Sur - II,North Malabang,Pialot PS,-Pialot
+1664,133621,ARMM,Lanao del Sur - II,Binidayan,Picalilangan Primary School,-
+1665,216069,ARMM,Lanao del Sur - II,Lumbatan II,Picotaan PS,-
+1666,134190,ARMM,Maguindanao I,Rajah Buayan,Pidsalenggian ES,"Sitio Pidsalenggian, Brgy. Tabungao"
+1667,134137,ARMM,Maguindanao I,Mamasapano North,Pidsandawan ES,-
+1668,134191,ARMM,Maguindanao I,Rajah Buayan,Pidsandawan ES,Brgy. Pidsandawan
+1669,216523,ARMM,Maguindanao I,Datu Abdullah Sangki,Pidsimbulan ES,-
+1670,133928,ARMM,Maguindanao II,Buldon West,Piers PS,-Piers
+1671,134167,ARMM,Maguindanao II,Sultan Kudarat II,Pigcalagan ES,Pigcalagan
+1672,134263,ARMM,Maguindanao I,South Upi,Pilar ES,Pob. Pilar South Upi Maguindanao-
+1673,133525,ARMM,Lanao del Sur - I,Wao I,Pilintangan PS,Pilintangan
+1674,133635,ARMM,Lanao del Sur - II,Butig,Pimbago Elementary School,-samer
+1675,216634,ARMM,Maguindanao I,Mamasapano North,Pimbalakan ES,-
+1676,216582,ARMM,Maguindanao II,Buldon West,Pinadzangca PS,"-Calaan,Buldon Maguindanao"
+1677,133887,ARMM,Maguindanao I,Ampatuan,Pinagayao ES,-n/a
+1678,133801,ARMM,Lanao del Sur - II,Pagayawan,Pinalangka Elementary School,Barangay Pinalangka
+1679,216045,ARMM,Lanao del Sur - II,Kapatagan,Pinantao Madaya Elementary School,Pinantao
+1680,216050,ARMM,Lanao del Sur - II,West Ganassi,Pindao Macabato ES,Pangadapan
+1681,133636,ARMM,Lanao del Sur - II,Butig,Pindiaman Primary School,Purok 6
+1682,133854,ARMM,Lanao del Sur - II,Central Tugaya,Pindolonan ES,Pindolonan II
+1683,215516,ARMM,Lanao del Sur - I,Balindong I,Pindolonan PS,between tantuaraya and bolinsong
+1684,215520,ARMM,Lanao del Sur - I,Bubong I,Pindolonan PS,-
+1685,133637,ARMM,Lanao del Sur - II,Butig,Pindolonan ES,"Pindolonan, Butig, Lanao del Sur"
+1686,133353,ARMM,Lanao del Sur - I,Marantao I,Pindolonan PS,TACUB
+1687,133441,ARMM,Lanao del Sur - I,Piagapo East,Pindolonan ES,Pindolonan
+1688,133683,ARMM,Lanao del Sur - II,Lumbaca Unayan,Pindolonan PS,"-Lumbac,Cadingilan C,lumbaca Unayan"
+1689,133296,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Pindolonan-Parao ES,-
+1690,133662,ARMM,Lanao del Sur - II,West Ganassi,Pindolunan Central Elementary School,pindolunan
+1691,133829,ARMM,Lanao del Sur - II,Sultan Gumander,Pindolunan Elementary School,Barangay Pindolonan
+1692,134066,ARMM,Maguindanao II,Matanog,Pindulunan PS,Pindulunan
+1693,134168,ARMM,Maguindanao II,Sultan Kudarat II,Pingping PS,Pingping
+1694,134462,ARMM,Sulu,Pata,Pisak Pisak PS,-Pisak-Pisak
+1695,252545,ARMM,Sulu,Siasi I,Pislong PS,"Pislong, Siasi, Sulu"
+1696,133509,ARMM,Lanao del Sur - I,Taraka II,Pitakus CES,"Masolun,Taraka Lanao Del Sur"
+1697,134437,ARMM,Sulu,Luuk (Kalinggalan Calauang),Pitogo ES,-Brgy Pitogo Kalingan Caluang
+1698,134325,ARMM,Sulu,Indanan,Poblacion Elementary School,Poblacion Indanan
+1699,133638,ARMM,Lanao del Sur - II,Butig,Poctan Elementary School,"Poktan, Butig Lanao Del Sur"
+1700,215503,ARMM,Lanao del Sur - I,Bubong I,Polayagan PS,Polayagan
+1701,133844,ARMM,Lanao del Sur - II,Tubaran,Polo PS,"Polo, Tubaran lanao del sur"
+1702,134961,ARMM,Marawi City,West District,Poona Marantao Elementary School,Poona Marantao
+1703,133944,ARMM,Maguindanao I,Buluan,Popol ES,-
+1704,133815,ARMM,Lanao del Sur - II,South Pualas,Porug PS,-porug
+1705,133929,ARMM,Maguindanao II,Buldon East,Potri Dabaleig ES,IGABAE
+1706,255001,ARMM,Lanao del Sur - II,Sultan Gumander,Prentacom Elementary School,Prentacom
+1707,216006,ARMM,Lanao del Sur - II,Kapatagan,Proper Kapatagan ES,NONE
+1708,134720,ARMM,Tawi-Tawi,Bongao I,Prov'l. Housing Lab. School,Housing Project
+1709,133807,ARMM,Lanao del Sur - II,North Pualas,Pualas Central Elementary School,Talambo
+1710,133272,ARMM,Lanao del Sur - I,Ditsaan Ramain I,Pugaan ES,"BRGY. PUGAAN,MARANAO TIMBER"
+1711,252502,ARMM,Sulu,Panamao,Pugad Manul PS Annex,-none
+1712,133535,ARMM,Lanao del Sur - I,Wao II,Pulacan (Campo II) ES,"-campo II,park area,"
+1713,217525,ARMM,Tawi-Tawi,Tandubas,Pulao Pinang PS,himba
+1714,134482,ARMM,Sulu,Panamao,Punay Elementary School,"Punay, Panglima Estino, Sulu"
+1715,133830,ARMM,Lanao del Sur - II,Sultan Gumander,Punong Elementary School,PUNONG
+1716,133297,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Punud PS,Punud-Cormatan
+1717,133727,ARMM,Lanao del Sur - II,Upper Madamba,Punud Elementary School,-
+1718,133872,ARMM,Lanao del Sur - II,Sultan Dumalondong,Punung Elementary School,Bacayawan
+1719,134286,ARMM,Maguindanao II,Datu Blah Sinsuat,Pura ES,Sitio Pura
+1720,133573,ARMM,Lanao del Sur - II,North Balabagan,Purakan ES,"Matanog, Balabagan Lanao del Sur"
+1721,252547,ARMM,Sulu,Laminusa,Pusto PS,"Pusto, Laminusa"
+1722,133855,ARMM,Lanao del Sur - II,East Tugaya,Putad Primary School,putad-
+1723,134615,ARMM,Sulu,Sibaud,Putalan Halimao ES,Tabuh Lapak
+1724,134869,ARMM,Tawi-Tawi,East South Ubian,Putat PS,Putat
+1725,133389,ARMM,Lanao del Sur - I,Masiu II,Radiab Tomaritib PS,Radiab Tomaritib
+1726,133639,ARMM,Lanao del Sur - II,Butig,Ragayan Elementary School,"Ragayan, Butig, Lanao del Sur"
+1727,133266,ARMM,Lanao del Sur - I,Buadipuso-Buntong,Ragondingan CES,Boto Ragondingan
+1728,134154,ARMM,Maguindanao II,Sultan Kudarat I,Raguisi PS,Raguisi
+1729,216614,ARMM,Maguindanao I,Gen. S. K. Pendatun,Ramcor ES,-Ramcor
+1730,133831,ARMM,Lanao del Sur - II,Sultan Gumander,Ramitan ES,BARANGAY RAMITAN
+1731,133354,ARMM,Lanao del Sur - I,Marantao I,Ranao Bacolod PS,"Ranao Bacolod, Inudaran"
+1732,134287,ARMM,Maguindanao II,Datu Blah Sinsuat,Ranao Midafa Primary School,"Ranao Midafa Tambak, Datu Blah Sinsuat"
+1733,134237,ARMM,Maguindanao II,Upi North,Ranao Pilayan ES,-Ranao Pilayan
+1734,133363,ARMM,Lanao del Sur - I,Marantao II,Ranaranao ES,Brgy. Ranaranao
+1735,133275,ARMM,Lanao del Sur - I,Ditsaan Ramain II,Rantian ES,
+1736,133442,ARMM,Lanao del Sur - I,Piagapo East,Rantian PS,barangay rantian piagapo lanao del sur
+1737,133930,ARMM,Maguindanao II,Buldon West,Raranaon ES,cabayuan
+1738,134370,ARMM,Sulu,Jolo IV,Rasul ES,Chinese Pier
+1739,134895,ARMM,Tawi-Tawi,Tubig Indangan,Ratag Harun Central School,Tubig Indangan
+1740,134616,ARMM,Sulu,Sibaud,Ratag PS,ratag-
+1741,216032,ARMM,Lanao del Sur - II,Upper Bayang,Raya Bubong PS,"Brgy. Bubong, Bayang, lanao del Sur"
+1742,133564,ARMM,Lanao del Sur - II,Bacolod,RAYA ELEMENTARY SCHOOL,"Brgy. Raya, Bacolod-Kalawi, LDS"
+1743,134907,,,,,
+1744,134908,,,,,
+1745,133698,ARMM,Lanao del Sur - II,Lumbayanague II,Raya Miniros PS,-
+1746,215570,ARMM,Lanao del Sur - I,Masiu II,Raya Paniambaan PS,"Barangay Pantao, Masiu"
+1747,133640,ARMM,Lanao del Sur - II,Butig,Raya Primary School,"Raya Mulok, Butig"
+1748,133717,ARMM,Lanao del Sur - II,North Madalum,Raya PS,-Raya Madalum Lanao Del Sur
+1749,215523,ARMM,Lanao del Sur - I,Piagapo West,Raya Radapan PS,-
+1750,133414,ARMM,Lanao del Sur - I,Mulondo,Rayabalay PS,-Lilod
+1751,134155,ARMM,Maguindanao II,Sultan Kudarat I,Rebuken ES,"-Rebuken,Sultan Kudarat, Maguindanao"
+1752,134264,ARMM,Maguindanao I,South Upi,Refra ES,Refra
+1753,216530,ARMM,Maguindanao I,Datu Piang II,Reina Regente ES,"Poblacion Datu piang, Maguindanao"
+1754,134238,ARMM,Maguindanao II,Upi North,Renti ES,"Renti Upi, Maguindanao"
+1755,134288,ARMM,Maguindanao II,Datu Blah Sinsuat,Resa Elementary School,Resa
+1756,133502,ARMM,Lanao del Sur - I,Taraka I,Ririk PS,-
+1757,134347,ARMM,Sulu,Jolo II,Riverside ES,Barrio Militar
+1758,133256,ARMM,Lanao del Sur - I,Bubong II,Rogero ES,-
+1759,133808,ARMM,Lanao del Sur - II,North Pualas,Romagondong PS,-
+1760,218009,,,,,
+1761,133565,ARMM,Lanao del Sur - II,Bacolod,Rorowan Primary School,"rorowan, bacolod-kalawi"
+1762,262501,ARMM,Maguindanao II,Buldon West,Royod PS,"SITIO ROYOD, EDCOR, BULDON"
+1763,134408,ARMM,Sulu,Lugus,Rugasan PS,-
+1764,133931,ARMM,Maguindanao II,Buldon West,Rumidas PS,-Rumidas
+1765,133907,ARMM,Maguindanao II,Barira,Ruminimbang Elementary School,"Brgy. Ruminimbang, Barira, Maguindanao"
+1766,133674,ARMM,Lanao del Sur - II,Lumbatan I,Sultan Batuampar PS,-
+1767,134239,ARMM,Maguindanao II,Upi North,S. Midal PS,Tinungkaan
+1768,134289,ARMM,Maguindanao II,Upi West,Sabaken Central ES,Brgy. Bungcog
+1769,134038,ARMM,Maguindanao II,Kabuntalan North,Sabaken PS,Sabaken
+1770,133718,ARMM,Lanao del Sur - II,North Madalum,Sabanding PS,-Brgy.Sabanding Madalum Lanao Del Sur
+1771,217031,ARMM,Sulu,Siasi II,Sablay Annex School,none
+1772,252532,ARMM,Sulu,Panamao,Sabuddin Primary school /Annex II,-Paiksah Panglima Estino
+1773,253006,ARMM,Maguindanao II,Barira,Saday Elementary School,"Sitio Saday, Gadung, Barira, Maguindanao"
+1774,134112,ARMM,Maguindanao II,Inter Parang,Sagasab ES,"Manion,Parang,Maguindanao"
+1775,216597,ARMM,Maguindanao I,Paglat,Salam ES,-brgy.salam
+1776,133543,ARMM,Lanao del Sur - I,Bumbaran,Salam PS,-Salam
+1777,134539,ARMM,Sulu,Parang,Saldang ES,-
+1778,133961,ARMM,Maguindanao I,Datu Paglas East,Salendab ES,Lomoyon
+1779,134111,ARMM,Maguindanao II,Parang South,Saliguidan Mem. ES,-Manggahan
+1780,134338,ARMM,Sulu,Jolo I,Salih Yusah ES,-Muralla St.
+1781,217515,ARMM,Tawi-Tawi,Bongao II,Salip Angkaya Patal ES,Karungdong
+1782,133856,ARMM,Lanao del Sur - II,Central Tugaya,Salipongan PS,Salipongan
+1783,215524,ARMM,Lanao del Sur - I,Balindong I,Saliwato PS,Lati Balindong Lanao Del Sur
+1784,134887,ARMM,Tawi-Tawi,Tandubas,Sallangan ES,Sallangan
+1785,215514,ARMM,Lanao del Sur - I,Saguiaran III,Salocod PS,-
+1786,133699,ARMM,Lanao del Sur - II,Lumbayanague I,Saloloy ES,Saloloy
+1787,133719,ARMM,Lanao del Sur - II,North Madalum,Salongabanding ES,Salongabanding
+1788,134722,ARMM,Tawi-Tawi,Bongao I,Sama Kasulutan ES,SIMANDAGIT
+1789,134645,ARMM,Sulu,Talipao,Samak Elementary School,Samak Talipao Sulu
+1790,133501,ARMM,Lanao del Sur - I,Taraka I,Sambolawan ES,Sambolawan Taraka Lanao del Sur
+1791,134192,ARMM,Maguindanao I,Rajah Buayan,Sambolawan ES,Brgy. Sambolawan
+1792,133605,ARMM,Lanao del Sur - II,Lower Bayang,Samporna ES,-
+1793,134540,ARMM,Sulu,Parang,Sampunay PS Annex I,-
+1794,217502,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Sanawi PS,Buna-Bunaan
+1795,133642,ARMM,Lanao del Sur - II,Butig,Sandab Elementary School,Purok 2
+1796,134268,ARMM,Maguindanao I,South Upi,Sanduagan ES,Sanduagan
+1797,217069,ARMM,Sulu,Pangutaran,Sangay Primary School,Sangay
+1798,133415,ARMM,Lanao del Sur - I,Mulondo,Sangcaan Barago PS,Dimarao
+1799,134463,ARMM,Sulu,Pata,Sangkap Higad ES,Sangkap Higad
+1800,134888,ARMM,Tawi-Tawi,Tandubas,Sapa ES,sapa proper
+1801,216026,ARMM,Lanao del Sur - II,Diwan,Sapa Primary School,"Sapa, Bayang Lanao Sur"
+1802,134826,ARMM,Tawi-Tawi,Sapa-Sapa II (Banaran),Sapaat PS,sapaat
+1803,134771,ARMM,Tawi-Tawi,Mapun,Sapah ES,sapah
+1804,134194,ARMM,Maguindanao I,Rajah Buayan,Sapakan CES,Sapakan
+1805,134088,ARMM,Maguindanao I,Pagalungan,Sapakan ES,"-Sitio Sapakan, Brgy. Buliok, PAgalungan, Maguindanao"
+1806,134020,ARMM,Maguindanao II,DOS South,Sapalan ES,Sapalan
+1807,252514,ARMM,Sulu,Luuk (Kalinggalan Calauang),Sapang PS,Sapang
+1808,133443,ARMM,Lanao del Sur - I,Piagapo East,Sapingit PS,sapingit
+1809,133267,ARMM,Lanao del Sur - I,Buadipuso-Buntong,Sapot PS,Sapot
+1810,217058,ARMM,Sulu,Talipao,Sara Sarajani Primary School,"kabatuhab Tiis, Talipao"
+1811,216066,ARMM,Lanao del Sur - II,Lumbayanague I,Sarigan PS,Barangay Pantaon
+1812,133315,ARMM,Lanao del Sur - I,Lumba-Bayabao II,Sariguidan Madiar PS,SARIGIDAN MADIAR
+1813,262502,ARMM,Maguindanao II,Matanog,Sarmiento Elementary School,"Brgy. Langkong, Matanog, Mag."
+1814,134050,ARMM,Maguindanao I,Shariff Aguak,Satan ES,"-SATAN, SHARIFF AGUAK,MAGUINDANAO"
+1815,133390,ARMM,Lanao del Sur - I,Masiu II,Sawer ES,"-Sawer, masiu lanao del sur"
+1816,217532,ARMM,Tawi-Tawi,Bongao III,Sea Orchid Elem. School,Nalil
+1817,134290,ARMM,Maguindanao II,Datu Blah Sinsuat,Sedem ES,-Sedem
+1818,134240,ARMM,Maguindanao II,Upi North,Sefegefen Elementary School,Sefegefen
+1819,216558,ARMM,Maguindanao II,Sultan Kudarat I,Senditan PS,Senditan
+1820,133962,ARMM,Maguindanao I,Datu Paglas North,Sepaka ES,"Sepaka,Datu Paglas, Maguindanao"
+1821,134371,ARMM,Sulu,Jolo IV,SerantES ES,-Serantes
+1822,133536,ARMM,Lanao del Sur - I,Wao II,Serran ES,-serran
+1823,133891,ARMM,Maguindanao I,Datu Abdullah Sangki,Shariff Sherjan Sangki ES,-
+1824,134348,ARMM,Sulu,Jolo II,Sheik Mustafa ES,"Buyon Street, San Raymundo"
+1825,134889,ARMM,Tawi-Tawi,Tandubas,Sibakloon PS,sibakloon
+1826,134409,ARMM,Sulu,Lugus,Sibul PS,sibul
+1827,134021,ARMM,Maguindanao II,DOS South,Sibuto ES,Sibuto
+1828,134795,ARMM,Tawi-Tawi,Languyan,Sidalling PS,Kalupag
+1829,134019,ARMM,Maguindanao II,DOS South,Sifaran ES,Sifaran
+1830,215551,ARMM,Lanao del Sur - I,Taraka II,Sigayan PS,Sigayan Proper
+1831,134963,ARMM,Marawi City,West District,Sikap Elementary School,"MSU-Sikap, Marawi city"
+1832,134796,ARMM,Tawi-Tawi,Languyan,Sikullis PS,sikullis
+1833,134541,ARMM,Sulu,Parang,Silangkan ES,-
+1834,134748,ARMM,Tawi-Tawi,Bongao III,Silubbog Primary School,silubbog
+1835,134746,ARMM,Tawi-Tawi,Bongao III,Silubbog PS Annex,SILUBBOG
+1836,134392,ARMM,Sulu,Laminusa,Silumpak ES,Silumpak
+1837,134708,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Silupah Primary School,Silupah
+1838,134723,ARMM,Tawi-Tawi,Bongao I,Simandagit ES,simandagit
+1839,134506,ARMM,Sulu,Pangutaran,Simigang ES,-
+1840,134170,ARMM,Maguindanao II,Sultan Mastura,Simuay Seashore ES.,Simuay Seashore
+1841,216591,ARMM,Maguindanao I,Datu Paglas North,Sinalayan ES,"Sinalayan, Madidis, Datu Paglas Maguindanao"
+1842,133700,ARMM,Lanao del Sur - II,Lumbayanague II,Singcara CES,-
+1843,134291,ARMM,Maguindanao II,Datu Blah Sinsuat,Sinipak Elementary School,Sinipak
+1844,134576,ARMM,Sulu,Siasi I,Siok ES,siok/west kuntad
+1845,134393,ARMM,Sulu,Laminusa,Siolakan PS,Siolakan
+1846,134394,ARMM,Sulu,Laminusa,SIOWING ELEM. SCHOOL,"SIOWING, SIASI SULU"
+1847,134395,ARMM,Sulu,Laminusa,Sipanding PS,"-sipanding, siasi"
+1848,134831,ARMM,Tawi-Tawi,East Sibutu I (Tando Owak),Sipangkot ES,-
+1849,134591,ARMM,Sulu,Siasi II,Sisangat ES,-None
+1850,134709,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Situggo ES,SITUGGO
+1851,134577,ARMM,Sulu,Siasi I,Siundo E/S,Siundo
+1852,216031,ARMM,Lanao del Sur - II,Upper Bayang,Sogod PS,"Brgy. Sugod, Bayang, lanao del Sur"
+1853,133622,ARMM,Lanao del Sur - II,Binidayan,Soldaroro ES,-
+1854,134873,ARMM,Tawi-Tawi,West South Ubian,Sollogan ES,"Brgy. Sollogan, South Ubian"
+1855,216554,ARMM,Maguindanao I,Talayan,South Binangga ES,"-SOUTH BINANGGA,TALAYAN,MAGUINDANAO"
+1856,134593,ARMM,Sulu,Siasi II,South Laud ES,"south laud, siasi, sulu"
+1857,133537,ARMM,Lanao del Sur - I,Wao II,South Park Area ES,-Purok1
+1858,134329,ARMM,Sulu,Indanan,South Sionogan Elementary School,Sionogan
+1859,134827,ARMM,Tawi-Tawi,Sapa-Sapa II (Banaran),South Tapian Bohe ES,-TAPIAN BOHE SOUTH
+1860,134269,ARMM,Maguindanao I,South Upi,Eliseo C. Sioson Sr. ES,Sta. Fe
+1861,133759,ARMM,Lanao del Sur - II,South Malabang,Stanie D. Kahler PS,Ilagasan
+1862,134507,ARMM,Sulu,Pangutaran,Suang Buna ES,-
+1863,134594,ARMM,Sulu,Siasi II,Suba Buaya ES,Subah Buaya
+1864,217001,ARMM,Sulu,Luuk (Kalinggalan Calauang),Sucuban E/S,-BARANGAY SUCUBAN
+1865,133889,ARMM,Maguindanao I,Datu Abdullah Sangki,Sugadol ES,Sugadol Datu Abdullah Sangki Maguindanao
+1866,134798,ARMM,Tawi-Tawi,Languyan,Sugbay PS,ADNIN
+1867,134920,ARMM,Marawi City,Angoyao East District,Sugod Central Elementary School,"SUGOD, Marawi City"
+1868,133711,ARMM,Lanao del Sur - II,South Madalum,Sugod Elementary School,Sugod Madalum lanao del Sur
+1869,133857,ARMM,Lanao del Sur - II,Central Tugaya,Sugod I CES,sugod 1
+1870,133865,ARMM,Lanao del Sur - II,West Tugaya,Sugod II Elementary School,Buadidico
+1871,133866,ARMM,Lanao del Sur - II,West Tugaya,Sugodamawatan PS,Bo. Sugoda Mawatan
+1872,134483,ARMM,Sulu,Panamao,Suh Elementary School,"Suh Panamao,Sulu"
+1873,133597,ARMM,Lanao del Sur - II,Upper Bayang,Sultan Pandapatan Central Elementary School,"Brgy. Sultan Pandapatan, Bayang, lanao del Sur"
+1874,215550,ARMM,Lanao del Sur - I,Masiu I,Sultan Adel PS,Paniambaan
+1875,133663,ARMM,Lanao del Sur - II,East Ganassi,Sultan Aguam CES,"Macabao, Ganassi, LDS"
+1876,216070,ARMM,Lanao del Sur - II,Lumbatan II,Sultan Basher Mua PS,-Brgy. gadungan
+1877,134909,,,,,
+1878,216049,ARMM,Lanao del Sur - II,West Ganassi,Sultan Dick Diangka Elementary School,Sikun matampay
+1879,133788,ARMM,Lanao del Sur - II,Calanogas,Sultan Disimban Elementary School,"TAMBAC, CALANOGAS LANAO DEL SUR"
+1880,133701,ARMM,Lanao del Sur - II,Lumbayanague I,Sultan Gunting CES,"Cabasaran, Poblacion"
+1881,133355,ARMM,Lanao del Sur - I,Marantao I,Sultan Guro CES,"Campong Inudaran, Marantao Lanao del sur"
+1882,133391,ARMM,Lanao del Sur - I,Masiu II,Sultan Macatingag ES,Lacadun
+1883,133644,ARMM,Lanao del Sur - II,Butig,Sultan Magarang Elementary School,Barangay Tiowi
+1884,216593,ARMM,Maguindanao II,Barira,Sultan Malambut ES,LAMIN
+1885,215569,ARMM,Lanao del Sur - I,Maguing II,Sultan Malawi PS,Sabala Dilausan
+1886,134067,ARMM,Maguindanao II,Matanog,Sultan Mandayan ES,"-Poblacion Teba, Matanog Maguindanao"
+1887,133366,ARMM,Lanao del Sur - I,Marantao II,Sultan Matanog PS,-Maul-Ilian
+1888,133702,ARMM,Lanao del Sur - II,Lumbayanague I,Sultan Para ES,-Nanagun
+1889,216586,ARMM,Maguindanao I,Ampatuan,Sultan Umpig ES,-
+1890,217065,ARMM,Sulu,Jolo I,Sulu SPED Center,-Sanraymundo
+1891,216613,ARMM,Maguindanao I,Gen. S. K. Pendatun,Sumakubay ES,"Sumakubay,Gen.S.K. Pendatun, Maguindanao"
+1892,133606,ARMM,Lanao del Sur - II,Lower Bayang,Sumbag Primary School,"Sumbag, Bayang lanao del Sur"
+1893,134710,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Sumbilang PS,BUAN
+1894,133908,ARMM,Maguindanao II,Barira South,Sumesid ES,-Liong
+1895,133544,ARMM,Lanao del Sur - I,Bumbaran,Sumugot ES,SUMUGOT
+1896,133645,ARMM,Lanao del Sur - II,Butig,Sundig Primary School,-
+1897,133472,ARMM,Lanao del Sur - I,Saguiaran III,Sunggod ES,-
+1898,133257,ARMM,Lanao del Sur - I,Bubong II,Sunggod Malungun ES,
+1899,134773,ARMM,Tawi-Tawi,Mapun,SURONG BAIDDIN MEMORIAL SCHOOL,TABULIAN
+1900,215538,ARMM,Lanao del Sur - I,Ditsaan Ramain II,Taana PS,
+1901,133728,ARMM,Lanao del Sur - II,Upper Madamba,Tabaran PS,TABARAN MADAMBA LDS
+1902,134682,ARMM,Sulu,Tongkil,Tabialan ES,"Tabialan,Tongkil"
+1903,134484,ARMM,Sulu,Panamao,Tabu Manuk ES,Tabu Manuk
+1904,133589,ARMM,Lanao del Sur - II,Kapatagan,Tabuan Elementary School,tabuan kapatagan lanao del sur
+1905,133664,ARMM,Lanao del Sur - II,East Ganassi,Tabuan Primary School,-
+1906,134711,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Tabunan PS,Tabunan
+1907,134774,ARMM,Tawi-Tawi,Mapun,Taganak ES,TAGANAK
+1908,133651,ARMM,Lanao del Sur - II,East Ganassi,Taganonok Bualan PS,Bualan
+1909,216001,ARMM,Lanao del Sur - II,Central Ganassi,Taganonok PS,-
+1910,133598,ARMM,Lanao del Sur - II,Upper Bayang,Tagoranao Primary School,"Tagoranao, Bayang Lanao Del Sur"
+1911,133873,ARMM,Lanao del Sur - II,Sultan Dumalondong,Tagoranao Primary School,Tagoranao
+1912,134799,ARMM,Tawi-Tawi,Languyan,Tahaw PS,Tahaw
+1913,217004,ARMM,Sulu,Parang,TaingTing PS,-
+1914,134800,ARMM,Tawi-Tawi,Languyan,Takot Takot PS,TAKOT TAKOT
+1915,133392,ARMM,Lanao del Sur - I,Masiu II,Talaguian PS,-Talaguian
+1916,133444,ARMM,Lanao del Sur - I,Piagapo West,Talao PS,Talao
+1917,216604,ARMM,Maguindanao I,Datu Montawal(Pagagawan),Talapas ES,"talapas, datu montawal, maguindanao"
+1918,134104,ARMM,Maguindanao II,Parang Bongo,Talaubang PS,-Tucamaror
+1919,133665,ARMM,Lanao del Sur - II,East Ganassi,Taliogon Elementary School,Taliogon
+1920,134646,ARMM,Sulu,Talipao,Talipao Proper ES,Talipao Proper
+1921,134832,ARMM,Tawi-Tawi,East Sibutu I (Tando Owak),Talisay ES,HADJI MOHAMMAD GAYA
+1922,133946,ARMM,Maguindanao I,Buluan,Talitay ES,"Brgy.Talitay,Buluan,Maguindanao"
+1923,133552,ARMM,Lanao del Sur - II,Kalawi,Talob PS,-Sugod
+1924,133242,ARMM,Lanao del Sur - I,Balindong II,Talob PS,-
+1925,133493,ARMM,Lanao del Sur - I,Tamparan I,Talub PS,-Talub
+1926,216542,ARMM,Maguindanao I,Talayan,Tamar ES,Tamar
+1927,133623,ARMM,Lanao del Sur - II,Binidayan,Tambac PS,Tambac
+1928,133676,ARMM,Lanao del Sur - II,Lumbatan II,Tambac PS,BRGY. TAMBAC
+1929,216532,ARMM,Maguindanao II,DOS North,Tambak PS,-Southbound National Highway
+1930,134292,ARMM,Maguindanao II,Datu Blah Sinsuat,Tambak Primary School,-Tambak
+1931,133729,ARMM,Lanao del Sur - II,Upper Madamba,Tambo Elementary School,Tambo madamba
+1932,133445,ARMM,Lanao del Sur - I,Piagapo West,Tambo ES,TAMBO POBLACION
+1933,133553,ARMM,Lanao del Sur - II,Kalawi,Tambo PS,"Tambo Bacolod Kalawi,Lanao del Sur"
+1934,134172,ARMM,Maguindanao II,Sultan Mastura,Tambo ES,-NA Tambu Sultan Mastura Maguindanao
+1935,134647,ARMM,Sulu,Talipao,Taming Taming Primary School,-
+1936,133809,ARMM,Lanao del Sur - II,North Pualas,Tamlang PS,-
+1937,134875,ARMM,Tawi-Tawi,West South Ubian,Tampakan ES,"Tong Tampakan, South Ubian, Tawi2x"
+1938,134946,,,,,
+1939,133720,,,,,
+1940,134890,ARMM,Tawi-Tawi,Tandubas,Tando Bato PS,-paggut tandobato
+1941,134835,ARMM,Tawi-Tawi,East Sibutu II (Tandubanak),Tando Owak ES,ligayan
+1942,134712,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Tandoh ES,TANDOH
+1943,134565,ARMM,Sulu,Patikul,Tandu Bagua PS,tandu bagua
+1944,134439,ARMM,Sulu,Luuk (Kalinggalan Calauang),Tandu Bato ES,"Tandu Bato, Luuk, Sulu"
+1945,134542,ARMM,Sulu,Parang,Tandu Bunga PS,-
+1946,217052,ARMM,Sulu,Patikul,Tandu Dagmay PS,gandasuli street
+1947,134466,ARMM,Sulu,Maimbung,Tandu Patung ES,maimbung
+1948,134775,ARMM,Tawi-Tawi,Mapun,Tanduan ES,TANDUAN
+1949,133846,ARMM,Lanao del Sur - II,Tubaran,Tangcal Central Elementary School,-
+1950,216018,ARMM,Lanao del Sur - II,Upper Bayang,Tangcal PS,"Tangcal, Bayang, Lanao Del Sur"
+1951,253009,ARMM,Maguindanao II,Barira South,Tanggao PS,"Masungon,Lipa,Barira,Maguindanao"
+1952,134728,ARMM,Tawi-Tawi,Bongao III,Tanghal Bahih ES,Sumangat
+1953,133909,ARMM,Maguindanao II,Barira North,Tantangan PS,Tantangan
+1954,134005,ARMM,Maguindanao II,DOS North,Tanuel ES,-Southbound National Highway
+1955,216639,ARMM,Maguindanao II,Barira North,Tanulang PS,"Tanulang, pob.barira"
+1956,134006,ARMM,Maguindanao II,DOS North,Tapian ES,Tapian
+1957,254508,ARMM,Lanao del Sur - I,Piagapo West,Taporug PS,Taporug Dilausan
+1958,133503,ARMM,Lanao del Sur - I,Taraka I,Taraka CES,buadi arorao
+1959,134713,ARMM,Tawi-Tawi,Bongao III,Tarawakan PS,Tarawakan
+1960,134174,ARMM,Maguindanao II,Sultan Mastura,Tariken Elementary School,-Tariken
+1961,216635,ARMM,Maguindanao I,Mamasapano North,Tatak ES,-
+1962,133574,ARMM,Lanao del Sur - II,North Balabagan,Tataya Elementary School,"Tataya, Balabagan Lanao del sur"
+1963,253004,ARMM,Maguindanao II,Barira North,Tataya Primary School,Tataya
+1964,134039,ARMM,Maguindanao II,Kabuntalan South,Taviran ES,-Mamintal
+1965,133446,ARMM,Lanao del Sur - I,Piagapo East,Tawaan PS,-
+1966,134485,ARMM,Sulu,Panamao,Tayungan ES,"Tayungan, Panamao"
+1967,217529,ARMM,Tawi-Tawi,Bongao III,Tengol Tengol PS,tengol tengol
+1968,134241,ARMM,Maguindanao II,Upi North,Tenongol ES,"Sitio Tenongol, Brgy Darugao, Upi, Mag."
+1969,134648,ARMM,Sulu,Talipao,Tiis Elementary School,-
+1970,217068,ARMM,Sulu,Pangutaran,Tikul Primary School,Tikul
+1971,216051,ARMM,Lanao del Sur - II,Butig,Timbab Primary School,Timbab
+1972,134911,,,,,
+1973,134331,ARMM,Sulu,Indanan,Timbangan Elementary School,-
+1974,133624,ARMM,Lanao del Sur - II,Binidayan,Timbangan Elementary School,Timbangan
+1975,134051,ARMM,Maguindanao I,Shariff Aguak,Timbangan ES,-
+1976,134467,ARMM,Sulu,Pata,Timuddas ES,-MATAAN
+1977,252524,ARMM,Sulu,Pata,Timuddas Proper PS,-timuddas
+1978,134022,ARMM,Maguindanao II,DOS South,Tinonggos PS,Tenonggos
+1979,134684,ARMM,Sulu,Tongkil,Tinutungan ES,none
+1980,133760,ARMM,Lanao del Sur - II,South Malabang,Tiongcop ES,-
+1981,134486,ARMM,Sulu,Panamao,Tiptipon Elementary School,"Tiptipon, Panglima Estino, Sulu"
+1982,133955,ARMM,Maguindanao I,Datu Paglas North,Tocao - Madidis CES,National Highway
+1983,133646,ARMM,Lanao del Sur - II,Butig,Tocasan Primary School,samer
+1984,133736,ARMM,Lanao del Sur - II,Lower Madamba,Toka elementary school,"-Tuca Madamba, Lanao Del Sur"
+1985,133607,ARMM,Lanao del Sur - II,Lower Bayang,Tomarompong Primary School,-
+1986,133817,ARMM,Lanao del Sur - II,South Pualas,Tomarompong PS,-
+1987,134947,ARMM,Marawi City,North District,Tomarumun Primary School,Lower Guimba St.
+1988,133911,ARMM,Maguindanao II,Barira North,Tomawis Memo PS,TOWNSITE
+1989,133890,ARMM,Maguindanao I,Ampatuan,Tomicor ES,"-Tomicor,Ampatuan Maguindanao"
+1990,134508,ARMM,Sulu,Pangutaran,Tong Bas ES,-
+1991,134509,ARMM,Sulu,Pangutaran,Tong Gasang PS,-
+1992,133721,ARMM,Lanao del Sur - II,North Madalum,Tongantongan PS,-Brgy. Tongantongan
+1993,134714,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Tongbangkaw ES,tongbangkaw
+1994,133322,ARMM,Lanao del Sur - I,Lumba-Bayabao III,Tongcopan PS,TONGCOPAN
+1995,134838,ARMM,Tawi-Tawi,East Sibutu II (Tandubanak),Tongehat ES,Tongehat
+1996,134847,ARMM,Tawi-Tawi,West Sibutu/Sitangkai,Tongmageng ES,Tongmageng
+1997,134751,ARMM,Tawi-Tawi,Bongao II,Tongsinah ES,TONGSINAH
+1998,134848,ARMM,Tawi-Tawi,West Sibutu/Sitangkai,Tongusong ES,TONGUSONG
+1999,134052,ARMM,Maguindanao I,Datu Hoffer Ampatuan,Toron ES,Toron
+2000,134965,ARMM,Marawi City,West District,Toros Elementary School,"Brgy. Toros, Marawi City"
+2001,134271,ARMM,Maguindanao I,South Upi,Trecero ES,Triftif
+2002,133684,ARMM,Lanao del Sur - II,Lumbaca Unayan,Tringun PS,-
+2003,216631,ARMM,Maguindanao I,Paglat,Tual ES,-Tual Paglat Maguindanao
+2004,134819,ARMM,Tawi-Tawi,Sapa-Sapa I,Tuan Ligaddong Lipae CES,SAPA-SAPA POBLACION
+2005,134828,ARMM,Tawi-Tawi,Sapa-Sapa II (Banaran),Tuan Masdal ES,Tonggusong Banaran
+2006,133847,ARMM,Lanao del Sur - II,Tubaran,Tubaran ES,-
+2007,134412,ARMM,Sulu,Lugus,Tubba Bas PS,Gapas Rugasan Lugus Sulu
+2008,134872,ARMM,Tawi-Tawi,West South Ubian,Hadji abdulcadil ES,"Tubig dayang, South Ubian, Tawi-Tawi"
+2009,134510,ARMM,Sulu,Pangutaran,Tubig Maasin ES,-
+2010,134511,ARMM,Sulu,Pangutaran,Tubig Nonok ES,-
+2011,134512,ARMM,Sulu,Pangutaran,Tubig Sallang ES,-
+2012,134725,ARMM,Tawi-Tawi,Bongao I,Tubig Tanah Pilot Elementary School,Tubig Tanah
+2013,252546,ARMM,Sulu,Siasi II,TubigKutahPS,"Lussuan, Tubig Kutah, Siasi, Sulu"
+2014,134619,ARMM,Sulu,Sibaud,Tubigsina PS - Pandami ES Annex III,"-TUBIGSINAH,PARIAN DAKULAH PANDAMISULU"
+2015,133750,ARMM,Lanao del Sur - II,North Malabang,Tubok ES,Tubok
+2016,134294,ARMM,Maguindanao II,Datu Blah Sinsuat,Tubuan ES,-Tubuan
+2017,134649,ARMM,Sulu,Talipao,Tubud Primary School,-
+2018,134922,ARMM,Marawi City,Angoyao East District,Tuca Boganga Elementary School,"Tuca Boganga, Marawi City"
+2019,215519,ARMM,Lanao del Sur - I,Balindong I,Tuca PS,"Tuca, Lilod, Balindong, Lanao del Sur"
+2020,216044,ARMM,Lanao del Sur - II,Diwan,Tuca PS,"Brgy. Tuca, Bayang Lanao del Sur"
+2021,133357,ARMM,Lanao del Sur - I,Marantao I,Tuca-Camalig PS,-
+2022,216559,ARMM,Maguindanao I,Sultan Sa Barongis,Tugal ES,-
+2023,134567,,,,,
+2024,134801,ARMM,Tawi-Tawi,Languyan,Tuhog Tuhog PS,TUHOG-TUHOG
+2025,134578,ARMM,Sulu,Siasi I,Tuhog-Tuhog Laud PS,-Poblacion
+2026,134579,ARMM,Sulu,Siasi I,Tuhog-Tuhog Proper ES(A),-
+2027,216575,ARMM,Maguindanao I,Mamasapano,Tuka ES,-
+2028,134175,ARMM,Maguindanao II,Sultan Mastura,Tuka ES,-Tuka
+2029,133818,ARMM,Lanao del Sur - II,South Pualas,Tuka Linuk ES,-
+2030,133554,ARMM,Lanao del Sur - II,Kalawi,Tuka PS,"Tuka, Bacolod-Kalawi"
+2031,133243,ARMM,Lanao del Sur - I,Balindong II,Tuka PS,-TUKA BUBONG BALINDONG
+2032,133268,ARMM,Lanao del Sur - I,Buadipuso-Buntong,Tuka PS,Tuka buadiposo buntong
+2033,133833,ARMM,Lanao del Sur - II,Sultan Gumander,Tuka PS,"-Timbangan, Tuka"
+2034,216539,ARMM,Maguindanao I,Sultan Sa Barongis,Tukanakuden ES,
+2035,134544,ARMM,Sulu,Parang,Tukay PS,-
+2036,216563,,,,,
+2037,216611,ARMM,Maguindanao I,South Upi,Tulaguey Sambren ES,"KÃ©bÃ©nesan, Pandan ,South Upi, Maguindanao"
+2038,133555,ARMM,Lanao del Sur - II,Kalawi,Tulain PS,Lumbaca-ingud St.
+2039,134040,ARMM,Maguindanao II,Kabuntalan North,Tumaguinting ES,Tumaguinting
+2040,134802,ARMM,Tawi-Tawi,Languyan,Tumahubong PS,Tumahubong
+2041,133947,ARMM,Maguindanao I,Mangudadatu,Tumbao CES,-
+2042,134129,ARMM,Maguindanao I,Gen. S. K. Pendatun,Tunggol ES,-
+2043,134650,ARMM,Sulu,Talipao,Tuyang ES,Tuyang Talipao
+2044,134581,ARMM,Sulu,Siasi I,Ulangkaya PS,-
+2045,133556,ARMM,Lanao del Sur - II,Kalawi,Ulodan ES,-
+2046,134441,ARMM,Sulu,Luuk (Kalinggalan Calauang),Undanan PS,-none
+2047,134157,ARMM,Maguindanao II,Sultan Kudarat I,Ungap PS,"Barangay Ungap, Sltan Kudarat, Maguindanao"
+2048,217516,ARMM,Tawi-Tawi,Bongao III,Ungus Ungus Elementary School,ungus ungus
+2049,216553,ARMM,Maguindanao I,Datu Anggal,Upak ES,Tulunan
+2050,216666,ARMM,Maguindanao I,Pagalungan,Upper Bagoinged ES,Upper
+2051,216612,ARMM,Maguindanao I,Pandag,Upper D'lag ES,-
+2052,216545,ARMM,Maguindanao I,Paglat,Upper Idtig ES,"-Brgy. Upper Idtig Paglat, Maguindanao"
+2053,133581,ARMM,Lanao del Sur - II,South Balabagan,Upper Itil Elem. School,-narciso ramos hi-way
+2054,134639,ARMM,Sulu,Talipao,Upper Laus Primary School,-
+2055,134582,ARMM,Sulu,Siasi I,Upper Minapan elementary school,"SANTOL, MINAPAN"
+2056,133984,ARMM,Maguindanao I,Datu Saudi Uy Ampatuan,Dimaukom ES,Pob. Salbu DSA Maguindanao
+2057,134513,ARMM,Sulu,Pangutaran,Usadda PS,-
+2058,217067,ARMM,Sulu,Patikul,Usaw Primary School,Usaw
+2059,217064,ARMM,Sulu,Maimbung,Usman Primary School,"Gulangan, Maimbung Sulu"
+2060,134545,ARMM,Sulu,Parang,Utoh Laja Sangkula ES,-
+2061,216663,ARMM,Maguindanao I,Mangudadatu,Utto-Andao  ES,Brgy. Panapan
+2062,133731,ARMM,Lanao del Sur - II,Upper Madamba,UYA-AN CES,Uya-an st.
+2063,133703,ARMM,Lanao del Sur - II,Lumbayanague I,Wago Deromoyod Elementary school,wago
+2064,217523,,,,,
+2065,134116,ARMM,Maguindanao II,Inter Parang,William Reed ES,Gadungan
+2066,133819,ARMM,Lanao del Sur - II,South Pualas,Yaran ES,-
+2067,134752,ARMM,Tawi-Tawi,Bongao II,Yusop Dais Elementary School,Bohe Sallang
+2068,133510,ARMM,Lanao del Sur - I,Taraka II,Zakba ES,-
+2069,218502,CAR,Abra,Baay-Licuan,Agat PS,-N/A
+2070,218508,CAR,Abra,Malibcong,Gacab PS,
+2071,220514,,,,,
+2072,135801,,,,,
+2073,135937,,,,,
+2074,300615,Region II,Nueva Vizcaya,Alfonso Castañeda,Alfonso CastaÃƒÂ±eda NHS,Purok 2
+2075,306207,Region II,Nueva Vizcaya,Alfonso Castañeda,Abuyo National High School,-Mulawin
+2076,300617,Region II,Nueva Vizcaya,Ambaguio,Ambaguio High School,Provincial Road
+2077,300546,Region II,Isabela,Benito Soliven,Andabuen National High School,Purok 2
+2078,300547,Region II,Isabela,Tumauini South,Antagan National High School,-Purok II
+2079,300503,Region II,Isabela,Benito Soliven,Benito Soliven National High School,Purok 2
+2080,306202,Region II,Nueva Vizcaya,Bayombong II,Bonfal National High School,"-Mangabat St., Bonfal Proper"
+2081,300605,Region II,Isabela,Sta. Maria,Buenaventura G. Masigan National High School,Purok # 3
+2082,300625,Region II,Nueva Vizcaya,Dupax del Sur,Carolotan High School,-maligaya street
+2083,300616,Region II,Nueva Vizcaya,Alfonso Castañeda,Casecnan National High School,ebenga street
+2084,300518,Region II,Isabela,San Agustin,Dabubu High School - Main,"Purok 6,"
+2085,306137,Region II,Isabela,San Mariano I,Daragutan East National High School,Purok 2
+2086,300549,Region II,Isabela,Palanan,Divilacan National High School,-Brgy Road
+2087,300533,Region II,Isabela,Echague West,Dona Magdalena H. Gaffud HIgh School,Dammang-Malitao
+2088,300534,Region II,Isabela,San Agustin,Dorganda High School,National Highway
+2089,306208,Region II,Nueva Vizcaya,Kasibu East,Eastern Nueva Vizcaya National High School,Provincial Road
+2090,300629,Region II,Nueva Vizcaya,Dupax del Sur,Ganao National HS,Barangay Ganao
+2091,300539,Region II,Isabela,Echague West,Highway Region National High School,-Barangay Road
+2092,300545,Region II,City of Ilagan,West,Ilagan Sports HS (INHS - Alibagu Annex),PUROK I
+2093,300540,Region II,City of Ilagan,Northwest,Ilagan West NHS,NAGUILIAN NORTE
+2094,300541,Region II,Isabela,Echague East,Imelda R. Marcos High School,"Purok 1, Narra, Echague, Isabela"
+2095,306120,Region II,Isabela,Echague East,Imelda R. Marcos HS - Mabbayad Annex,Purok 3
+2096,306149,Region II,City of Ilagan,Northwest,ISAT-Cabannungan Annex,Cabannungan 1st
+2097,300586,Region II,Isabela,Tumauini South,Josefina Albano National High School,-Paragu
+2098,300630,Region II,Nueva Vizcaya,Kasibu West,Kakiduguen NHS,-
+2099,300632,Region II,Nueva Vizcaya,Western Kayapa,Kayapa HS,BESONG
+2100,300634,Region II,Nueva Vizcaya,Kasibu West,Kongkong Valley NHS,-
+2101,300560,Region II,Isabela,Palanan,Maconacon National High School,
+2102,300513,Region II,Isabela,San Manuel,Malalinta National High School,n/A
+2103,300633,Region II,Nueva Vizcaya,Western Kayapa,Martinez Cuyangan National High School,Bulo
+2104,306135,Region II,Isabela,Roxas East,Matusalem National High School,Purok Nuesa
+2105,300604,Region II,Isabela,Sta. Maria,Naganacan-Villabuena National High School,Naganacan
+2106,300639,Region II,Nueva Vizcaya,Eastern Kayapa,Nansiakan NHS,"Poblacion, Nansiakan,"
+2107,300642,Region II,Nueva Vizcaya,Bayombong I,PAIMA NATIONAL HIGH SCHOOL,"-PRK. 6, PAITAN, BAYOMBONG, NUEVA VIZCAYA"
+2108,300566,Region II,Isabela,Echague South,Pangal Sur High School,
+2109,300643,Region II,Nueva Vizcaya,Bagabag I,Paniki High School,Paniki
+2110,306204,Region II,Nueva Vizcaya,Quezon,Runruno National High School,Centro
+2111,300645,Region II,Nueva Vizcaya,Bambang I,Salinas High School,Salinas Proper
+2112,300582,Region II,Isabela,San Agustin,San Agustin National High School,Zone # 07
+2113,306136,Region II,Isabela,San Mariano I,San Mariano HS - Old San Mariano Ext.,"May Flower, Old San Mariano, San Mariano, Isabela"
+2114,306148,Region II,Isabela,San Mariano II,San Mariano HS-Cataguing Extension,Purok 3
+2115,300584,Region II,City of Ilagan,San Antonio,San Rafael Nat'l & Voc'l HS (San Antonio NAIVHS-San Rafael Annex),CAB.17-21 (SAN RAFAEL)
+2116,300514,Region II,Isabela,San Manuel,Sandiat National High School,-Purok 1
+2117,306160,Region II,Isabela,San Manuel,Sandiat NHS-Nueva Era Extension,-
+2118,306134,Region II,Isabela,Jones East,Sgt. Prospero G. Bello HS - Dumawing Annex,"Dumawing, Jones, Isabela"
+2119,300600,Region II,Isabela,Jones East,Sgt. Prospero Bello HS - Main,"Purok 7, Napaliong, Jones"
+2120,306132,Region II,Isabela,San Pablo,Simanu National High School,-Simanu Norte
+2121,300648,Region II,Nueva Vizcaya,Eastern Kayapa,Sta. Cruz Pingkian High School,"Pingkian, Kayapa, Nueva Vizcaya"
+2122,300650,Region II,Nueva Vizcaya,Bagabag II,Tuao HS,Menia
+2123,300595,Region II,Isabela,San Mariano I,Ueg National High School,Purok 4
+2124,306727,Region III,Bulacan,Bustos,"Dr. Pablito V. Mendoza, Sr. High Schoo","Malamig, Bustos, Bulacan"
+2125,307019,Region III,Tarlac,Mayantoc,Josephine M. Cojuangco National TechnicalVocationalHigh School,Mabini Street
+2126,306949,Region III,Pampanga,Lubao West,San Jose Gumi IS,"San Jose Gumi, Lubao, Pampanga"
+2127,306948,Region III,Pampanga,Sasmuan,Sebitanan NHS,0
+2128,306728,Region III,Bulacan,San Ildefonso North,Sta. Catalina Bata National High School,**
+2129,307020,Region III,Tarlac,Concepcion North,Sta. Rosa Integrated School,Steady Ready Street
+2130,306905,Region III,Pampanga,Lubao West,Sta. Teresa II Integ. School,Purok 1
+2131,308017,Region IV-A,Quezon,Calauag West,Apad NHS (Formerly Sto. Domingo NHS - Apad Ext. Classes),Apad Lutao
+2132,308043,Region IV-A,Quezon,Sariaya West,Bignay National High School,Bignay 2
+2133,301299,Region IV-A,Quezon,Tiaong,Cabay NHS,Cabay
+2134,308041,Region IV-A,Quezon,Sariaya East,CastaÃ±as NHS,CastaÃ±as
+2135,301310,Region IV-A,Quezon,Catanauan,Catanauan National High School,Tagbacan Ibaba
+2136,301311,Region IV-A,Quezon,Catanauan,Doongan Ilaya National High School,
+2137,308021,Region IV-A,Quezon,Calauag West,Dr. Arsenio C. Nicolas NHS,Pandanan
+2138,308027,Region IV-A,Quezon,Calauag West,Dr. Arsenio C. Nicolas NHS - Dominlog Ext.,Dominlog
+2139,301313,Region IV-A,Quezon,Quezon,Evaristo R. Macalintal MNHS (Formerly Cometa NHS),Cometa
+2140,301339,Region IV-A,Quezon,Calauag West,Lagay NHS,Lagay
+2141,301362,Region IV-A,Quezon,Gen. Nakar,Paaralang Sek. Ng Hen. Nakar - Maligaya Extension,Centro I Brgy. Maligaya
+2142,301363,Region IV-A,Quezon,Gen. Nakar,Paaralang Sekundarya ng Umiray,Lapdok
+2143,301365,Region IV-A,Quezon,Quezon,JOEL B. ARQUIZA NHS,Guinhawa
+2144,308032,Region IV-A,Quezon,Sariaya East,Pili NHS (Formerly Lutucan NHS Pili Ext.),Pili
+2145,301352,Region IV-A,Quezon,Lopez East,Pisipis NHS (Formerly Magallanes NHS Pisipis Extension),Pisipis
+2146,308022,Region IV-A,Quezon,Calauag East,Rufina P. Trinidad Mem. NHS,Dapdap
+2147,307712,Region IV-A,Batangas,San Juan West,Sampiro Integrated Senior High School,"Sampiro, San Juan, Batangas"
+2148,308025,Region IV-A,Quezon,Catanauan,San Jose NHS (Formerly Tagbacan Ilaya Integ. Sec. Ext. Classes),San Jose Anyao
+2149,301402,Region IV-A,Quezon,Calauag East,"San Roque-Ilaya NHS, Calauag",San Roque Ilaya
+2150,308010,Region IV-A,Quezon,Catanauan,San Vicente Kanluran NHS,San Vicente Kanluran
+2151,301318,Region IV-A,Quezon,Dolores,Sta. Lucia NHS (Formerly Dagatan NHS Annex - Sta. Lucia),Sitio Balete
+2152,301408,Region IV-A,Quezon,Polillo,Taluong NHS,Taluong
+2153,308013,Region IV-A,Quezon,Calauag West,Villa San Isidro NHS,Villa San Isidro
+2154,302457,Region VI,Iloilo,Barotac Nuevo,Barotac Nuevo National Comprehensive High School,J.T. BretaÃ±a St.
+2155,311503,Region VI,Iloilo,Barotac Nuevo,Barotac Nuevo NCHS-Tiwi Annex,-
+2156,302468,Region VI,Iloilo,Sta. Barbara,Buayahon-Bantay NHS,Brgy. Buayahon
+2157,302508,Region VI,Iloilo,Igbaras,Igtalongon NHS,-none
+2158,302561,Region VI,Iloilo,Barotac Nuevo,Salihid NHS,NONE
+2159,321911,Region VII,Bayawan City,Bayawan East,"Abundio Agarpao, Sr. Memorial High School",Gamao
+2160,302920,Region VII,Cebu,Aloguinsan,Angilan NHS,Angilan
+2161,321908,Region VII,Bayawan City,Bayawan East,"Antonio M. Lacson, Sr. Memorial High School",Tavera
+2162,321907,Region VII,Bayawan City,Bayawan East,Atilano B. Cabangal Memorial High School,"Milagrosa, Nangka"
+2163,321901,Region VII,Bayawan City,Bayawan East,Banaybanay National High School,"Banaybanay, Bayawan City, Negros oriental"
+2164,321902,Region VII,Bayawan City,Bayawan West,Bayawan City Science and Technology Education Center - High School,-Cabcabon Hills
+2165,312411,Region VII,Cebu,Dalaguete I,Caleriohan National High School,"-Caleriohan, Dalaguete, Cebu"
+2166,303107,Region VII,Cebu,Borbon,Campusong NHS,Campusong
+2167,321912,Region VII,Bayawan City,Bayawan East,Cansumalig High School,Barangay Cansumalig
+2168,303005,Region VII,Cebu,Tabogon,DoÃƒÂ±a Liling Neis Negapatan NHS,"-Tapul, Tabogon, Cebu"
+2169,322301,Region VII,Tanjay City,Tanjay City North,Graciano Banogon HS,"-Sitio Camansi, Novallas"
+2170,321905,Region VII,Bayawan City,Bayawan East,Lapay High School,"Lapay,Dawis"
+2171,322305,Region VII,Tanjay City,Tanjay City North,Luca HS,LUCA
+2172,321909,Region VII,Bayawan City,Bayawan East,Malabugas HS,"Tinastasan, Malabugas,Bayawan City,Negros Oriental"
+2173,312423,Region VII,Cebu,Borbon,Mar and Dorie Darunday NHS,"-Managase, Borbon, Cebu"
+2174,321903,Region VII,Bayawan City,Bayawan East,Minaba National High School,"Brgy. Minaba, Bayawan City, Negros Oriental"
+2175,322303,Region VII,Tanjay City,Tanjay City North,Nagsala HS,"Hda.Mapa, Nagsala, Sta.Cruz Viejo"
+2176,322306,Region VII,Tanjay City,Tanjay City North,Namonbon HS,"Sitio Namonbon,Pal-ew"
+2177,321910,Region VII,Bayawan City,Bayawan East,Pagatban Senior High School,Tab-ang
+2178,322304,Region VII,Tanjay City,Tanjay City North,Patricio Palomar Mem. HS,Ponglo
+2179,321906,Region VII,Bayawan City,Bayawan East,San Jose Senior High School,Purok 2
+2180,322302,Region VII,Tanjay City,Tanjay City South,San Miguel HS,"Proper, Brgy. San Miguel"
+2181,302903,Region VII,Bohol,Sevilla,Sevilla National High School,Poblacion
+2182,321904,Region VII,Bayawan City,Bayawan West,Villasol High School,proper
+2183,313724,Region VIII,Samar (Western Samar),Tagapul-an,Balocawe Integrated School,Bonifacio Street
+2184,303553,Region VIII,Northern Samar,Gamay I,Bangon NHS,Bangon Street
+2185,303590,Region VIII,Samar (Western Samar),Tagapul-an,Baquiw NHS,Baquiw
+2186,313620,Region VIII,Northern Samar,Las Navas I,Bukid NHS,Bukid
+2187,313309,Region VIII,Leyte,Tabango South,Gibacungan National High School,"GIbacungan, Tabango, Leyte"
+2188,303608,Region VIII,Samar (Western Samar),Talalora,Independencia NHS,Pob. 2 Talalora
+2189,313622,Region VIII,Northern Samar,Mapanas,Magtaon NHS,Magtaon
+2190,313337,Region VIII,Leyte,Matalom North,Sta. Paz  Integrated  School,"Sta. Paz, Matalom, Leyte"
+2191,303614,Region VIII,Samar (Western Samar),Marabut,OsmeÃ±a NHS,"Brgy. OsmeÃƒÂ±a, Marabut, Samar"
+2192,313334,Region VIII,Leyte,Isabel,"Putingbato, Cangag, Canandan, Consolacion St. Filomena National High School","Simangan, Putingbato Isabel, Leyte"
+2193,303480,Region VIII,Southern Leyte,Tomas Oppus,San Isidro NHS,"Looc, Tomas Oppus, Southern Leyte"
+2194,303578,Region VIII,Northern Samar,San Isidro,San Isidro NHS (San Isidro),Maharlika Highway
+2195,313339,Region VIII,Leyte,Matag-Ob,Sta.  Rosa National High School,"Sta. Rosa, Matab-og, leyte"
+2196,303603,Region VIII,Samar (Western Samar),Daram II,Sua NHS,-
+2197,303633,Region VIII,Samar (Western Samar),Tagapul-an,Tagapul-an NHS,labangbaybay 2
+2198,313625,Region VIII,Northern Samar,Las Navas I,Taylor National High School,none
+2199,313601,Region VIII,Northern Samar,San Isidro,Veriato National High School,Veriato
+2200,317804,CARAGA,Surigao del Norte,Gigaquit,Lasicam - Perral National High School,Sico-sico
+2201,318122,ARMM,Lanao del Sur - I,Buadipuso-Buntong,Abedin Mem. NHS,Katogonan
+2202,304955,ARMM,Lanao del Sur - I,Balindong I,Acoon MNHS,Tambo
+2203,324713,ARMM,Lanao del Sur - II,Calanogas,Aguam-Benito National High School,"Pantaon, Calanogas, Lanao del Sur"
+2204,318215,ARMM,Lanao del Sur - II,Sultan Gumander,Al Hamlan NHS,"-Balangas,Picong Lanao del sur"
+2205,304957,ARMM,Lanao del Sur - I,Taraka II,Ambor MNHS,"Dimayon, Taraka"
+2206,318222,ARMM,Lanao del Sur - II,Binidayan,Ampaso Memorial National High School,-Pagalamatan
+2207,304999,ARMM,Maguindanao I,Ampatuan,Ampatuan NHS,Poblacion
+2208,305072,ARMM,Marawi City,Angoyao District,Angoyao NHS,PARIDI ST.
+2209,318109,ARMM,Lanao del Sur - I,Taraka II,Ansano Memorial NHS,"Buadiarorao, Taraka Lanao Del Sur"
+2210,305015,ARMM,Maguindanao II,Parang South,ARMM Regional Science High School,-National Highway
+2211,305000,ARMM,Maguindanao II,Buldon West,B. Gallego-Edcor NHS,-Edcor
+2212,318607,ARMM,Marawi City,West District,Bacarat Memorial National H/S,"Brgy. Amito, Marawi City"
+2213,318202,ARMM,Lanao del Sur - II,Kalawi,Bacolod Grande NHS,TUKA I
+2214,304980,ARMM,Lanao del Sur - II,Bacolod,Bacolod-Kalawi National High School,BUBONG
+2215,324725,ARMM,Lanao del Sur - II,North Balabagan,Bae Lalawanen M. Sarip Mem. NHS,Magolalung Occidental
+2216,304986,ARMM,Lanao del Sur - II,West Ganassi,Bae Racma Macabato NHS,GANASSI
+2217,324303,ARMM,Maguindanao II,DOS North,Bai Hanina S. Sinsuat NHS,Kusiong
+2218,318324,ARMM,Maguindanao I,Gen. S. K. Pendatun,Bai Tembabay NHS,RAMCOR GEN. SK. PENDATUN
+2219,318232,ARMM,Lanao del Sur - II,Kapatagan,Bakikis NHS,"Bakikis, Kapatagan Lanao del Sur"
+2220,324717,ARMM,Lanao del Sur - II,North Balabagan,Balabagan National High School,- Secretary Narciso Ramos hiway
+2221,305050,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Balimbing NHS,Balimbing
+2222,318233,ARMM,Lanao del Sur - II,East Tugaya,Balindong Pacalna National High School,Brgy. Raya
+2223,305001,ARMM,Maguindanao I,Pagalungan,Balungis NHS,-KALBUGAN
+2224,305051,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Banaran NHS,"Tonggusong Banaran, Sapa-Sapa"
+2225,318603,ARMM,Marawi City,Northwest District,Batabor NHS,"Rorogagus Proper, Marawi City"
+2226,304959,ARMM,Lanao del Sur - I,Maguing,Benito MNHS,-Pagalongan
+2227,324720,ARMM,Lanao del Sur - II,West Ganassi,Bin Al-Noor NHS,Sitio Palao
+2228,318505,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Boloboc Science and Technology High School,Bohe Sallang
+2229,318211,ARMM,Lanao del Sur - II,South Pualas,Bonsalagan Memorial NHS,NOTONG
+2230,304960,ARMM,Lanao del Sur - I,Buadipuso-Buntong,Buadiposo-Buntong NHS,"LUMBAC,BUADIPOSO BUNTONG"
+2231,318311,ARMM,Maguindanao II,Upi North,Bugabungan NHS,"Bugabungan, Upi, Maguindanao"
+2232,305002,ARMM,Maguindanao I,Pagalungan,Buliok NHS,"BULIOK, PAGALUNGAN,MGUINDANAO"
+2233,318304,ARMM,Maguindanao I,Sultan Sa Barongis,Bulod NHS,-Narra
+2234,318307,ARMM,Maguindanao I,Buluan,Buluan NHS,Narra Street. Poblacion
+2235,318336,ARMM,Maguindanao I,Pandag,Pandag NHS,Malangit
+2236,318223,ARMM,Lanao del Sur - II,Tubaran,Buribid NHS,-BURIBID
+2237,318316,ARMM,Maguindanao I,Ampatuan,Campo NHS,sittio Kali
+2238,318404,ARMM,Sulu,Luuk (Kalinggalan Calauang),Capual NHS,-Bulaghaw
+2239,318601,ARMM,Marawi City,Central District,Dansalan National High School,Moncado Kadingilan
+2240,304985,ARMM,Lanao del Sur - II,South Pualas,Danugan NHS,DANUGAN
+2241,318322,ARMM,Maguindanao I,Datu Abdullah Sangki,Datu Abdula M. Camino MNHS,-
+2242,318328,ARMM,Maguindanao II,Sultan Kudarat II,Datu Alamada Memorial NHS,Km 21
+2243,318325,ARMM,Maguindanao II,Kabuntalan North,Datu Alamanza Dilangalen NHS,Balong
+2244,324716,ARMM,Lanao del Sur - II,West Ganassi,Datu Aleem Balindong MNHS,-Para-Aba
+2245,318248,ARMM,Lanao del Sur - II,Tubaran,Datu Ayob Mem. NHS,-Beta
+2246,304963,ARMM,Lanao del Sur - I,Marantao II,Datu Calaca MNCHS,"Maul, Marantao, Lanao del Sur"
+2247,318206,ARMM,Lanao del Sur - II,Lumbatan II,Datu Demaronsing Memorial  NHS,PICOTAAN
+2248,318126,ARMM,Lanao del Sur - I,Ditsaan Ramain I,Datu Lantud MNHS,-
+2249,324707,ARMM,Lanao del Sur - II,West Ganassi,Datu Macaaguir Sarip Mem. NHS,"Sikun, Matampay Bubong"
+2250,324302,ARMM,Maguindanao II,Barira South,Datu Malambut NHS,Lipawan
+2251,318305,ARMM,Maguindanao I,Sultan Sa Barongis,Datu Mamalo Memorial NHS,"BARURAO, SULTAN SA BARONGIS"
+2252,304964,ARMM,Lanao del Sur - I,Lumba-Bayabao I,Datu Mitmug MNHS,-Mapantao
+2253,318238,ARMM,Lanao del Sur - II,Lower Bayang,Datu Mohammad Ali Cahar Memorial National High School,CONDARAAN
+2254,324712,ARMM,Lanao del Sur - II,North Madalum,Datu Raquib Zainodin National Highschool,Dilausan
+2255,318314,ARMM,Maguindanao I,Datu Abdullah Sangki,Datu Sailila NHS,"Banaba, Datu Abdullah Sangki, Maguindanao"
+2256,318320,ARMM,Maguindanao I,Datu Piang II,Datu Saudi Uy Ampatuan MNHS,-Campua Uy Tina St
+2257,318315,ARMM,Maguindanao I,Ampatuan,Datu Saudi Uy Ampatuan NHS,datu saudi
+2258,318312,ARMM,Maguindanao I,Mamasapano,Datu Tahir Ampatuan NHS,"LIBUTAN, MAMASAPANO, MAGUINDANAO"
+2259,324603,ARMM,Lanao del Sur - I,Marantao II,Datu Umpar Science HS,ragayan
+2260,318323,ARMM,Maguindanao I,Ampatuan,Datu Unsay NHS,"META, DATU UNSAY MAGUINDANAO"
+2261,318301,ARMM,Maguindanao II,Sultan Kudarat I,Datu Usngan S. Mastura NHS,-none
+2262,318220,ARMM,Lanao del Sur - II,Lumbaca Unayan,Dilausan National High School,DILAUSAN
+2263,318214,ARMM,Lanao del Sur - II,Lumbaca Unayan,Dimarao NHS,Lumbac
+2264,305007,ARMM,Maguindanao II,Buldon East,Dinganen-Buldon NHS,"-DINGANEN, BULDON, MAG."
+2265,305019,ARMM,Maguindanao II,Upi North,Dr. Bernabe G. De La Fuente Sr. NHS,"Sitio De La Fuente, Barangay Rempes Upi Maguindanao"
+2266,318116,ARMM,Lanao del Sur - I,Bubong I,East Bayabao Integrated NHS of Vocational  Technology,-PINDOGUAN
+2267,324721,ARMM,Lanao del Sur - II,North Malabang,East Pagilidan NHS,Don Ramos Hi-way Cabasaran
+2268,324709,ARMM,Lanao del Sur - II,West Ganassi,Ganassi NHS,-
+2269,305009,ARMM,Maguindanao I,Gen. S. K. Pendatun,Gen. Salipada K. Pendatun NHS,"Gen. Salipada K. Pendatun, Maguindanao"
+2270,318604,,,,,
+2271,318318,ARMM,Maguindanao I,Guindulungan,Guindulungan NHS,Tambunan-II
+2272,324718,ARMM,Lanao del Sur - II,North Balabagan,Hadja Maimona M. Balindong NHS,MALABANG LANAO DEL SUR
+2273,318317,ARMM,Maguindanao I,Gen. S. K. Pendatun,Hadji Datu Abubakar K. Pendatun NHS,-Panosolen GSKP Maguindanao
+2274,318504,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Hadji Omarsani Tambut NHS,Bakong
+2275,318341,ARMM,Maguindanao I,Mamasapano,Hadji Salik Kalaing NHS,Tukanalipao
+2276,305054,ARMM,Tawi-Tawi,Languyan,Hidayat NHS,MARANG-MARANG
+2277,326002,ARMM,Maguindanao II,Matanog,Ibay NHS,Sitio Tiongcop
+2278,326004,ARMM,Maguindanao II,Barira,Ibrahim B. Tomawis NHS,Barira (Pob)
+2279,305029,ARMM,Sulu,Indanan,Indanan NHS,-
+2280,318134,ARMM,Lanao del Sur - I,Mulondo,Insuba NHS,Buadiabala
+2281,318410,ARMM,Sulu,Indanan,Jolo Agricultural School-Annex (Bato-Bato),Bato-Bato
+2282,318118,ARMM,Lanao del Sur - I,Taraka I,Johayver Maulana NHS,PINDOLONAN
+2283,318415,ARMM,Sulu,Indanan,JSF Annex (Kamlon Mem. HS),Barjaya
+2284,305033,ARMM,Sulu,Luuk (Kalinggalan Calauang),K. Caluang NHS,-Pitogo
+2285,324201,ARMM,Sulu,Luuk (Kalinggalan Calauang),K. Caluang NHS/Annex,"-Karungdong, K. Caluang"
+2286,318321,ARMM,Maguindanao I,Datu Piang II,Kabalukanen NHS,"Dasawao, Datu Piang"
+2287,305011,ARMM,Maguindanao II,Kabuntalan South,Kabuntalan NHS,Poblacion
+2288,324706,ARMM,Lanao del Sur - II,Kapatagan,Kapatagan National High School,"-Daguan, Kapatagan, Lanao del Sur"
+2289,318302,ARMM,Maguindanao II,Buldon East,Karim NHS,-Karim
+2290,318333,ARMM,Maguindanao I,Datu Paglas North,Katong Madidis NHS,"Madidis,Datu Paglas, Maguindanao"
+2291,305012,ARMM,Maguindanao I,Ampatuan,Kauran NHS,"Purok 4B, Kauran, Ampatuan, Mag"
+2292,318308,ARMM,Maguindanao I,Pagalungan,Kilangan NHS,SEBASTIAN
+2293,318127,ARMM,Lanao del Sur - I,Masiu II,Lacoto Ayaon Mem. NHS,-SAWER MASIU
+2294,318602,ARMM,Marawi City,Angoyao East District,Lake Lanao NHS,"Sugod, Marawi City"
+2295,305034,ARMM,Sulu,Siasi I,Laminusa National High School,"-Tong, Laminusa"
+2296,318406,ARMM,Sulu,Siasi I,Lapak National School of Fisheries,"South Laud, Siasi, Sulu"
+2297,305055,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Ligayan NHS,-Ungus-Ungus
+2298,318340,ARMM,Maguindanao I,Ampatuan,Limpongo NHS,Limpongo
+2299,305013,ARMM,Maguindanao II,Parang Bongo,Litayen National High School,"-Litayen,Bongo Island, Parang,Maguindanao"
+2300,318338,ARMM,Maguindanao I,South Upi,Looy Integrated Technical Vocational HS,Looy
+2301,318405,ARMM,Sulu,Panamao,Lower Patibulan Panamao,"Lower Patibulan, Panamao, Sulu"
+2302,305035,ARMM,Sulu,Lugus,Lugus NHS,Lugus Proper
+2303,318329,ARMM,Maguindanao I,South Upi,Lumao NHS,"kuya, South Upi, Maguindanao"
+2304,318113,ARMM,Lanao del Sur - I,Piagapo West,Macatanong Memorial NHS,"purok 5, Bualan, Piagapo, Lanao del Sur"
+2305,324710,ARMM,Lanao del Sur - II,North Balabagan,Madalum NHS,"Poblacion, Madalum, Lanao del Sur"
+2306,318218,ARMM,Lanao del Sur - II,Upper Madamba,Madamba National High School,-ali street Pagayonan
+2307,326001,ARMM,Maguindanao II,Parang North,Making Integrated Vocational & Technology High School,Malipayon
+2308,305026,ARMM,Maguindanao I,Mamasapano,Mamasapano NHS,Poblacion
+2309,318244,ARMM,Lanao del Sur - II,Bacolod,Mamasarogan Mem. NHS,-LUMBACA INGUD
+2310,324704,ARMM,Lanao del Sur - II,North Balabagan,Mamenting Memorial National High School,"Igabay, Balabagan, Lanao del Sur"
+2311,318334,ARMM,Maguindanao I,Mangudadatu,Mangudadatu NHS,"Tumbao,Mangudadatu,Maguindanao"
+2312,318332,ARMM,Maguindanao I,Ampatuan,Manindolo NHS,Sitio Proper
+2313,305056,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Mantabuan NHS,Tambunan
+2314,324719,ARMM,Lanao del Sur - II,Kapatagan,Mantiin-Macatoman NHS,"Madaya, Pinantao"
+2315,305057,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Manuk Mangkaw NHS,Manuk Mangkaw
+2316,318125,ARMM,Lanao del Sur - I,Masiu B District,Masiu Science and Techonology HS,"-Maruhom,Marandacan putad"
+2317,305016,ARMM,Maguindanao II,Matanog,Matanog NHS,Bugasan Norte
+2318,318335,ARMM,Maguindanao I,Rajah Buayan,Maulana NHS,"Pidsandawan, Mamasapano, Maguindanao"
+2319,318229,ARMM,Lanao del Sur - II,South Pualas,Mauna Mem. NHS,"Gadungan, Pualas, Lanao del Sur"
+2320,318201,ARMM,Lanao del Sur - II,Lower Bayang,Mauyag C. Papandayan SHS,RINABOR
+2321,324705,ARMM,Lanao del Sur - II,North Balabagan,Mikunug Memorial National High School,Batuan
+2322,318132,ARMM,Lanao del Sur - I,South Wao District,Milaya Saripada NHS,Milaya
+2323,318131,ARMM,Lanao del Sur - I,Masiu A District,Mohamad Qabael NHS,"Barangay Laila Lumbac Bangon, Masiu"
+2324,304987,ARMM,Lanao del Sur - II,South Malabang,Moriatao L'mbong NHS,Barangay Masao
+2325,318337,ARMM,Maguindanao II,Upi North,Nangi National High School,"Purok makabayan, Nangi, Upi, Maguindanao"
+2326,305038,ARMM,Sulu,Panamao,Old Panamao NHS,Seit Lake Poblacion
+2327,318247,ARMM,Lanao del Sur - II,Marogong,Ontonga Mem. NHS,-ROMAGONDONG
+2328,318209,ARMM,Lanao del Sur - II,Marogong,Ontonga-Mikunug Mem. NHS,NONE
+2329,305039,ARMM,Sulu,Jolo I,Hadji Panglima Tahil National High School,"Likud Bangas,Hadji Panglima Tahil"
+2330,304972,ARMM,Lanao del Sur - I,South Wao District,Pagalongan NHS,-Pagalongan
+2331,318502,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Pagasinan NHS,Pagasinan
+2332,305010,ARMM,Maguindanao I,Ampatuan,Paglat NHS,Along Municipal Highway of Paglat
+2333,318224,ARMM,Lanao del Sur - II,South Pualas,Pamaloy Memorial National High School,dapao
+2334,324202,ARMM,Sulu,Panamao,Panamao NHS/Annex(Suh),Su-uh
+2335,324203,ARMM,Sulu,Panamao,Panamao NHS/Annex(T.Manuk),-Tabuh manuk
+2336,318130,ARMM,Lanao del Sur - I,Wao II,Panang NHS,Panang
+2337,318228,ARMM,Lanao del Sur - II,North Balabagan,Panawidan Mem. NHS,"Setio Kapantaran,Tabuan Kapatagan Lanao del Sur"
+2338,305040,ARMM,Sulu,Sibaud,Pandami National High School,"hadja arabia usman bandar, siganggang, pandami, sulu"
+2339,318330,ARMM,Maguindanao I,South Upi,Pandan NHS,-
+2340,318133,ARMM,Lanao del Sur - I,Masiu I,Pangandaman Provincial Science HS,Pantao
+2341,305041,ARMM,Sulu,Panamao,Panglima Estino NHS-MAIN,"Punay (Poblacion), Panglima Estino"
+2342,318411,ARMM,Sulu,Pangutaran,Pangutaran NHS Annex,-
+2343,305043,ARMM,Sulu,Parang,Parang NHS,"Sarapuddin  Drive, Lupah Abu"
+2344,318412,ARMM,Sulu,Parang,Parang NHS Annex (Silangkan),"Silangkan, Parang, Sulu"
+2345,318402,ARMM,Sulu,Indanan,Pasil Indanan,-
+2346,318413,ARMM,Sulu,Indanan,Patikul NHS Annex (Danag),taglibi
+2347,324703,ARMM,Lanao del Sur - II,Sultan Gumander,Picong National High School(RA 9575),"-punong, Picong, Lanao del Sur"
+2348,318339,ARMM,Maguindanao I,South Upi,Pilar Integrated Technical VOc. HS,Pilar Poblacion
+2349,324724,ARMM,Lanao del Sur - II,South Malabang,Pumbaya National High School,-Manggahan
+2350,305025,ARMM,Maguindanao I,Sultan Sa Barongis,Rajah Buayan NHS,Mileb Rajah Buayan maguindanao
+2351,305020,ARMM,Maguindanao II,Datu Blah Sinsuat,Resa Natoinal High School,Brgy. Resa
+2352,318313,ARMM,Maguindanao II,Inter Parang,Ruth Manion Babao Mem. NHS,Kalye Basa
+2353,318327,ARMM,Maguindanao II,Upi West,Sabaken National High School,-Purok Indian Tree
+2354,326003,ARMM,Maguindanao II,Upi North,Samad Sumail NHS,Bongbong
+2355,305052,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Sanga-Sanga NHS,PAHUT
+2356,318310,ARMM,Maguindanao I,Rajah Buayan,Sapakan NHS,"ZAPAKAN RAJAH BUAYAN, MAGUINDANAO"
+2357,305021,ARMM,Maguindanao II,DOS North,Sarilikha HS,"-Brgy. Semba, Datu Odin Sinsuat, Maguindanao"
+2358,304977,ARMM,Lanao del Sur - I,Balindong I,Sarip MNHS,Montia-an
+2359,318003,ARMM,Basilan,Lantawan,Buton NHS,-
+2360,305060,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Sipangkot NHS,Sipangkot
+2361,305061,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Hadja Jatol Ahaja NHS,Imam Sapie
+2362,318205,ARMM,Lanao del Sur - II,Binidayan,Sittie Ayeesha NHS,-OLAMA
+2363,305062,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),South Ubian NHS,Brgy. East Talisay
+2364,305022,ARMM,Maguindanao I,South Upi,South Upi NHS,-Romongaob(Timanan)
+2365,326501,ARMM,Maguindanao II,Sultan Mastura,Sulon National High School,"Guiate, Brgy. Sulon"
+2366,305023,ARMM,Maguindanao II,Barira South,Sultan Barira NHS,Sumesid
+2367,324728,ARMM,Lanao del Sur - II,Kapatagan,Sultan Barodi Bansil Mem. NHS,"Kapatagan Proper, Kapatagan Lanao Del Sur"
+2368,318110,ARMM,Lanao del Sur - I,Maguing,Sultan Camar Macasalong NHS,"Bato-Bato, Maguing"
+2369,324714,ARMM,Lanao del Sur - II,Calanogas,Sultan Disimban National High School,"TAMBAC, CALANOGAS, LANAO DEL SUR"
+2370,305024,ARMM,Maguindanao II,Sultan Kudarat I,Sultan Kudarat NHS,"Poblacion, Sultan Kudarat, Maguindanao"
+2371,304967,ARMM,Lanao del Sur - I,Masiu B District,Sultan Labay Moriatao-Bae Technical-Vocational School,"Poblacion, Angkaya Complex, Brgy. Labay Moriatao-Bae"
+2372,318203,ARMM,Lanao del Sur - II,Butig,Sultan Langco NHS,"-SANDAB, BUTIG"
+2373,318246,ARMM,Lanao del Sur - II,Marogong,SULTAN MAGUIDALA MEMORIAL NATIONAL HIGH SCHOOL,-CAHERA
+2374,318129,ARMM,Lanao del Sur - I,Maguing,Sultan Malungun NHS,-Madanding
+2375,324602,ARMM,Lanao del Sur - I,Ditsaan Ramain I,Sultan Pangadapun Datumanong Science & Tech. HS,"Brgy. Buadi-alao, ditsaan ramain"
+2376,324604,ARMM,Lanao del Sur - I,Kapai/Tagoloan,Tagoloan NHS,Kinggan
+2377,305047,ARMM,Sulu,Talipao,Talipao National High School-Senior High,Bilaan Poblacion
+2378,318409,ARMM,Sulu,Talipao,Talipao NHS Annex (Pantao),-Brgy. Pantao
+2379,318414,ARMM,Sulu,Indanan,Talipao NHS Annex (Talipao Proper),-
+2380,318306,ARMM,Maguindanao I,Talitay,Talitay NHS,"Poblacion Talitay, Talitay, Maguindanao"
+2381,305064,ARMM,Tawi-Tawi,Tandubas,Tandubas School of Fisheries,Sallangan
+2382,318219,ARMM,Lanao del Sur - II,Marogong,Datu Tanggor NHS,PIANGOLOGAN
+2383,318231,ARMM,Lanao del Sur - II,South Pualas,Tanoga Memorial NHS,-YARAN
+2384,305048,ARMM,Sulu,Tapul,Tapul National High School,-Kalang
+2385,304996,ARMM,Lanao del Sur - II,North Balabagan,Tataya NHS,"Tataya, Balabagan"
+2386,305066,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Tawi Tawi SAT,"DepEd Compound, Bongao, Tawi-Tawi"
+2387,305067,ARMM,Tawi-Tawi,Languyan,Tawi Tawi West Coast Agricultural high school,"kualabaro,jakarta"
+2388,318403,ARMM,Sulu,Indanan,Timbangan Indanan,-
+2389,305049,ARMM,Sulu,Tongkil,Tongkil NHS,-Dungon
+2390,318401,ARMM,Sulu,Tongkil,Tongkil NHS (Annex),-
+2391,305068,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Tubig-indangan National High School,"Doh Ungus,Tubig-Indangan"
+2392,324701,ARMM,Lanao del Sur - II,South Malabang,Tubok National High Scool,"Chinatown, Malabang, Lano del Sur"
+2393,304998,ARMM,Lanao del Sur - II,West Tugaya,Tugaya National High School,-PANDIARANAO
+2394,305069,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Turtle Island HS,taganak
+2395,305071,ARMM,Tawi-Tawi,Panglima Sugala (Balimbingan),Ungus Matata NHS,Silantup
+2396,318004,ARMM,Basilan,Tuburan,Upper Bato-Bato National High School,Barangay Upper Bato-Bato
+2397,324715,ARMM,Lanao del Sur - II,West Ganassi,West Unayan NHS,Balintad
+2398,318123,ARMM,Lanao del Sur - I,Marantao I,Western Lanao Nat. High School,Daana-ingud
